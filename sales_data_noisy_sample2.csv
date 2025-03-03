@@ -1,0 +1,23 @@
+ID,Suburb,Address,Postcode,CouncilArea,Regionname,Price,SaleDate,Seller,Bedrooms,Bathrooms,CarSpaces,Landsize,Latitude,Longitude
+1,Heidelberg West,7/459 Waterdale Rd,3081,Banyule,Eastern Metropolitan,xxx,12/08/2017,hockingstuart,2,1,1,90,-37.74391,145.04669
+2,Heidelberg,3/62 Darebin St,aaaa,Banyule,Eastern Metropolitan,738000,33/05/2017,Miles,2,1,2,154,-37.75343,145.06328
+3,Albion,8/6 Ridley St,3020,Brimbanc,Western Metropolitan,145000,28/05/2016,Biggin,1,1,1,36,-37.7833,144.8266
+4,Albion,3/14 Ridley St,3020,Brimbank,Western Metropolitan,300000,11/02/2015,FN,2,1,1,74,-37.7836,144.8256
+5,Preston,12 Belgrove St,3072,Darebin,Northern Metropolitan,1215000,22/04/2017,hockingstuart,3,1,1,690,-37.7452,145.0192
+6,Reservoir,1/4 Kenilworth St,3073,Darebin,Northern Metropolitan,631000,8/04/2017,Barry,3,1,1,267,-37.714,145.007
+7,Gladstone Park,19 Osborne Av,3043,Hume,Western Metropolitan,749000,8/07/2017,Barry,4,2,2,561,-37.68269,144.88601
+8,Meadow Heights,2 Navarre Ct,3048,Hume,Northern Metropolitan,467000,24/06/2017,Raine,3,1,1,565,-37.65702,144.92447
+9,Wantirna South,42 Argyle Wy,3152,Knoxx,Eastern Metropolitan,1045000,15/07/2017,Noel,4,3,2,728,-37.88009,145.22736
+10,Scoresby,147 George St,3179,Knox,Eastern Metropolitan,833800,24/06/2017,Barry,3,1,0,730,-37.88919,145.21629
+11,Footscray,12/26 Park St,3011,Maribyrnong,Western Metropolitan,575000,12/08/2017,Nelson,2,2,1,88,-37.78872,144.88891
+12,Maribyrnong,7 Cavalry Cct,1234,Maribyrnong,Western Metropolitan,2222.22,22/07/2017,Biggin,3,2,2,91,-37.77449,144.88011
+13,Southbank,406/152 Sturt St,3006,Melbourne,Southern Metropolitan,480000,14/05/2016,Greg,1,1,1,3878,-37.8255,144.9665
+14,Carlton,22 Faraday St,3053,Melbourne,Northern Metropolitan,1460000,4/03/2017,Nelson,2,1,0,99,-37.7992,144.9738
+15,Essendon,4/18 Shaftesbury St,3040,Honey Valley,Western Metropolitan,280000,27/05/2017,Frank,1,1,1,28,-37.75209,144.92255
+16,Strathmore,1/351 Napier St,3041,Moonee Valley,Western Metropolitan,750000,8/07/2017,Nelson,3,2,2,288,-37.73415,144.91852
+17,Brunswick West,81 Whitby St,3055,Moreland,Northern Metropolitan,1330000,12/11/2016,Nelson,3,1,2,353,-37.764,144.9428
+18,Brunswick,25 Gray St,3056,More land,Northern Metropolitan,1755000,28/08/2016,Jellis,4,2,1,354,-37.7745,144.9523
+19,Epping,2/8 Zurzolo Tce,3o76,Whittlesea,Northern Metropolitan,417500,8/07/2017,Harcourts,2,1,1,157,-37.64827,145.05317
+20,Lalor,2/7 Cooma Ct,3075,Whittlesea,Northern Metropolitan,444000,29/07/2017,HAR,2,1,1,277,-37.66612,145.0008
+21,Fitzroy,190 Gore St,3065,Yarra,Northern Metropolitan,1440000,17/09/2016,Nelson,2,1,0,95,-37.8032,144.9825
+22,Abbotsford,159 Park St,3067,Yarra,Northern Metropolitan,one million,22/13/2016,Nelson,2,2,2,98,-37.8005,144.9952
