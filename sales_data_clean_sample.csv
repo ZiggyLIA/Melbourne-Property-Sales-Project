@@ -1,0 +1,9 @@
+ID,Suburb,Address,Postcode,CouncilArea,Regionname,Price,SaleDate,Seller,Bedrooms,Bathrooms,CarSpaces,Landsize,Latitude,Longitude
+1,Coburg,8 Watchtower Rd,3058,Moreland,Northern Metropolitan,675000,4/02/2016,Walshe,3,1,2,142,-37.7382,144.973
+2,Abbotsford,25 Bloomburg St,3067,Yarra,Northern Metropolitan,1035000,4/02/2016,Biggin,2,1,0,156,-37.8079,144.9934
+3,Richmond,234 Coppin St,3121,Yarra,Northern Metropolitan,1102000,4/02/2016,Dingle,3,2,0,194,-37.8265,145.0022
+4,Jacana,11/1051 Pascoe Vale Rd,3047,Hume,Northern Metropolitan,280000,16/04/2016,Raine,2,1,1,197,-37.6859,144.9164
+5,Airport West,4 Myrtle Gr,3042,Moonee Valley,Western Metropolitan,905000,24/06/2017,Jellis,3,1,2,573,-37.72908,144.88327
+6,Mill Park,1/6 Patmore Ct,3082,Whittlesea,Northern Metropolitan,421000,24/06/2017,Ray,2,1,1,257,-37.65636,145.03997
+7,Thomastown,2/4 Currajong St,3074,Whittlesea,Northern Metropolitan,460000,24/06/2017,Love,3,1,1,340,-37.67803,145.01769
+8,Footscray,10/30 Pickett St,3011,Maribyrnong,Western Metropolitan,170000,1/07/2017,Burnham,1,1,0,30,-37.80141,144.89587

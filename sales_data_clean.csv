@@ -1,0 +1,1350 @@
+ID,Suburb,Address,Postcode,CouncilArea,Regionname,Price,SaleDate,Seller,Bedrooms,Bathrooms,CarSpaces,Landsize,Latitude,Longitude
+1,Heidelberg West,7/459 Waterdale Rd,3081,Banyule,Eastern Metropolitan,463000,12/08/2017,hockingstuart,2,1,1,90,-37.74391,145.04669
+2,Heidelberg West,17/459 Waterdale Rd,3081,Banyule,Eastern Metropolitan,444000,27/05/2017,Miles,2,1,1,94,-37.74432,145.04721
+3,Heidelberg West,5/459 Waterdale Rd,3081,Banyule,Eastern Metropolitan,445000,8/07/2017,Miles,2,1,1,94,-37.74392,145.04692
+4,Ivanhoe,2/123 Waterdale Rd,3079,Banyule,Eastern Metropolitan,975000,24/06/2017,Nelson,3,2,1,103,-37.76676,145.04333
+5,Lower Plenty,1/29 Main Rd,3093,Banyule,Eastern Metropolitan,420000,12/08/2017,Fletchers,2,1,1,119,-37.72861,145.109
+6,Heidelberg Heights,49C Dresden St,3081,Banyule,Eastern Metropolitan,680000,27/05/2017,Jellis,2,1,1,129,-37.74931,145.05505
+7,Heidelberg,3/186 Hawdon St,3084,Banyule,Eastern Metropolitan,781000,24/06/2017,Miles,3,2,2,137,-37.74888,145.06593
+8,Heidelberg Heights,2/3 Mary Av,3081,Banyule,Eastern Metropolitan,650000,15/07/2017,Barry,2,1,1,140,-37.74835,145.05042
+9,Heidelberg Heights,4/32 Montgomery St,3081,Banyule,Eastern Metropolitan,720000,12/08/2017,Miles,3,1,1,146,-37.75132,145.05331
+10,Watsonia,2/63 Devonshire Rd,3087,Banyule,Northern Metropolitan,604000,15/07/2017,Ray,2,1,1,151,-37.71298,145.08115
+11,Heidelberg,3/62 Darebin St,3084,Banyule,Eastern Metropolitan,738000,27/05/2017,Miles,2,1,2,154,-37.75343,145.06328
+12,Heidelberg,2/14 Edgar St,3084,Banyule,Eastern Metropolitan,835000,29/07/2017,hockingstuart,3,2,2,161,-37.74897,145.07024
+13,Greensborough,1/39 Alexandra St,3088,Banyule,Northern Metropolitan,610000,15/07/2017,Darren,2,1,1,168,-37.70801,145.10689
+14,Watsonia,2/10 Powley Pde,3087,Banyule,Northern Metropolitan,686000,29/07/2017,Darren,2,1,1,169,-37.71607,145.07884
+15,Ivanhoe,6/36 Livingstone St,3079,Banyule,Eastern Metropolitan,985000,22/07/2017,Jellis,4,3,2,181,-37.76758,145.03883
+16,Heidelberg Heights,2/34 Bamfield Rd,3081,Banyule,Eastern Metropolitan,715000,27/05/2017,Barry,3,2,2,192,-37.74128,145.05607
+17,Heidelberg West,581 Waterdale Rd,3081,Banyule,Eastern Metropolitan,532000,27/05/2017,Ray,2,2,1,220,-37.73549,145.0487
+18,Ivanhoe,4/75 Green St,3079,Banyule,Eastern Metropolitan,880000,22/07/2017,Miles,2,1,2,229,-37.7651,145.03452
+19,Greensborough,1/111 Nepean St,3088,Banyule,Northern Metropolitan,585000,15/07/2017,Darren,2,1,1,240,-37.71254,145.09705
+20,Rosanna,1/64 Lower Plenty Rd,3084,Banyule,Eastern Metropolitan,675000,3/06/2017,Miles,2,1,1,247,-37.74427,145.06293
+21,Lower Plenty,4/38 Alma St,3093,Banyule,Eastern Metropolitan,650000,27/05/2017,Morrison,2,2,2,248,-37.72473,145.11657
+22,Ivanhoe,3/40 Magnolia Rd,3079,Banyule,Eastern Metropolitan,880000,8/07/2017,Barry,3,2,1,252,-37.75842,145.05075
+23,Watsonia North,2/32 Sellars St,3087,Banyule,Northern Metropolitan,655000,3/06/2017,Barry,3,2,1,253,-37.7004,145.09033
+24,Montmorency,2/22 Looker Rd,3094,Banyule,Eastern Metropolitan,820000,15/07/2017,Buckingham,3,2,2,260,-37.72394,145.12456
+25,Heidelberg,3/5 Austral Ct,3084,Banyule,Eastern Metropolitan,828000,17/06/2017,Miles,4,2,2,264,-37.74352,145.08082
+26,Bellfield,2 Erica Ct,3081,Banyule,Eastern Metropolitan,736500,27/05/2017,Miles,2,1,1,271,-37.75329,145.04059
+27,Heidelberg Heights,1/171 Waiora Rd,3081,Banyule,Eastern Metropolitan,630000,27/05/2017,Miles,3,1,1,277,-37.73426,145.05986
+28,Montmorency,4/435 Main Rd,3094,Banyule,Eastern Metropolitan,569000,3/06/2017,Nelson,3,1,2,280,-37.73103,145.13404
+29,Watsonia,1B High St,3087,Banyule,Northern Metropolitan,900000,12/08/2017,Barry,3,2,2,280,-37.71147,145.08003
+30,Heidelberg Heights,1/5 Glover St,3081,Banyule,Eastern Metropolitan,590000,17/06/2017,Victory,3,1,2,290,-37.7368,145.05048
+31,Viewbank,34 Martins La,3084,Banyule,Eastern Metropolitan,870000,27/05/2017,Miles,3,2,2,291,-37.73253,145.0873
+32,Watsonia,1/34 Longmuir Rd,3087,Banyule,Northern Metropolitan,655000,15/07/2017,Darren,2,1,1,298,-37.71098,145.08926
+33,Ivanhoe,6 Edwin St,3079,Banyule,Eastern Metropolitan,950000,12/08/2017,Nelson,3,1,2,360,-37.75715,145.04965
+34,Heidelberg West,312 Liberty Pde,3081,Banyule,Eastern Metropolitan,605000,27/05/2017,Haughton,3,1,2,377,-37.73712,145.0369
+35,Briar Hill,1/4 Box Rd,3088,Banyule,Eastern Metropolitan,590000,27/05/2017,Barry,3,1,2,392,-37.70433,145.12184
+36,Montmorency,21 Beattie St,3094,Banyule,Eastern Metropolitan,806000,27/05/2017,Barry,3,1,0,396,-37.71665,145.11682
+37,Montmorency,3/50 Airlie Rd,3094,Banyule,Eastern Metropolitan,960000,27/05/2017,Barry,3,2,2,397,-37.72331,145.11909
+38,Heidelberg West,254 Liberty Pde,3081,Banyule,Eastern Metropolitan,590000,22/07/2017,Haughton,4,2,2,409,-37.74033,145.03696
+39,Bundoora,15 Bent St,3083,Banyule,Northern Metropolitan,714000,27/05/2017,Barry,3,1,2,412,-37.6993,145.06193
+40,Heidelberg,2/60 Darebin St,3084,Banyule,Eastern Metropolitan,915000,24/06/2017,Miles,4,2,2,419,-37.7537,145.06341
+41,Ivanhoe,128 Green St,3079,Banyule,Eastern Metropolitan,1475000,27/05/2017,Nelson,3,1,2,424,-37.76353,145.02941
+42,Heidelberg West,314 Liberty Pde,3081,Banyule,Eastern Metropolitan,580000,27/05/2017,Haughton,3,1,2,429,-37.73704,145.03697
+43,Heidelberg Heights,396 Waterdale Rd,3081,Banyule,Eastern Metropolitan,697500,12/08/2017,Nelson,3,1,1,430,-37.74962,145.04658
+44,Heidelberg West,12 Achilles St,3081,Banyule,Eastern Metropolitan,575500,8/07/2017,Miles,3,1,1,436,-37.73459,145.04394
+45,Watsonia,42 Frensham Rd,3087,Banyule,Northern Metropolitan,835000,17/06/2017,Barry,3,2,1,447,-37.71627,145.08526
+46,Rosanna,9 Darvall St,3084,Banyule,Eastern Metropolitan,1100000,27/05/2017,Fletchers,3,2,2,468,-37.74088,145.06285
+47,Heidelberg West,37 Buna St,3081,Banyule,Eastern Metropolitan,600000,8/07/2017,Haughton,3,1,2,481,-37.73597,145.03916
+48,Heidelberg West,54 Alamein Rd,3081,Banyule,Eastern Metropolitan,580000,15/07/2017,Harcourts,2,1,2,498,-37.73759,145.04236
+49,Bundoora,33 Jacqueline Rd,3083,Banyule,Northern Metropolitan,690000,24/06/2017,Nelson,3,1,2,513,-37.69548,145.07377
+50,Watsonia North,37 Huntley St,3087,Banyule,Northern Metropolitan,790000,8/07/2017,Barry,3,1,2,527,-37.70039,145.08957
+51,Watsonia,61 Princes St,3087,Banyule,Northern Metropolitan,700000,12/08/2017,Morrison,3,1,1,530,-37.70598,145.07713
+52,Bundoora,22 Alma Rd,3083,Banyule,Northern Metropolitan,800000,22/07/2017,Ray,4,1,1,535,-37.69847,145.0601
+53,Watsonia North,8 Meakin St,3087,Banyule,Northern Metropolitan,705000,27/05/2017,Barry,3,1,1,538,-37.70178,145.0851
+54,Bundoora,398 Grimshaw St,3083,Banyule,Northern Metropolitan,680000,22/07/2017,Barry,3,1,3,539,-37.7015,145.07548
+55,Greensborough,48 Duncan Av,3088,Banyule,Northern Metropolitan,690000,15/07/2017,Darren,3,1,1,540,-37.71055,145.09594
+56,Bundoora,27 Norfolk Cr,3083,Banyule,Northern Metropolitan,710000,15/07/2017,Darren,3,1,1,540,-37.70636,145.05462
+57,Watsonia North,66 MacOrna St,3087,Banyule,Northern Metropolitan,710000,27/05/2017,Barry,4,1,3,541,-37.69778,145.08516
+58,Viewbank,28 Kuranga Rd,3084,Banyule,Eastern Metropolitan,940000,17/06/2017,Nelson,3,2,2,541,-37.73136,145.09562
+59,Heidelberg Heights,23 Eden St,3081,Banyule,Eastern Metropolitan,680000,12/08/2017,Barry,3,1,0,544,-37.75024,145.04798
+60,Bundoora,50 Cameron Pde,3083,Banyule,Northern Metropolitan,687000,17/06/2017,Ray,3,1,3,559,-37.69849,145.06705
+61,Rosanna,16 Jones Cr,3084,Banyule,Eastern Metropolitan,855000,15/07/2017,Miles,2,1,1,562,-37.73867,145.07697
+62,Montmorency,35 Astley St,3094,Banyule,Eastern Metropolitan,900000,27/05/2017,Barry,3,1,1,575,-37.72089,145.11987
+63,Greensborough,5 Glenice St,3088,Banyule,Northern Metropolitan,740000,27/05/2017,Darren,3,1,3,580,-37.71536,145.10205
+64,Bundoora,71 Wallara Cr,3083,Banyule,Northern Metropolitan,660000,8/07/2017,Buckingham,3,1,2,582,-37.70301,145.06341
+65,Greensborough,18 Warruga Pl,3088,Banyule,Northern Metropolitan,1010000,15/07/2017,Buckingham,3,2,2,582,-37.71325,145.09532
+66,Heidelberg Heights,31 Collins St,3081,Banyule,Eastern Metropolitan,800000,27/05/2017,Barry,3,1,0,583,-37.73752,145.05228
+67,Ivanhoe,83 Oriel Rd,3079,Banyule,Eastern Metropolitan,1035000,24/06/2017,Miles,3,1,2,585,-37.75725,145.03744
+68,Heidelberg Heights,97 Edwin St,3081,Banyule,Eastern Metropolitan,1645000,12/08/2017,Fletchers,4,2,4,596,-37.75008,145.05051
+69,Briar Hill,1A Campbell Rd,3088,Banyule,Eastern Metropolitan,710500,17/06/2017,Barry,2,1,1,598,-37.70681,145.11731
+70,Watsonia,18 Barry St,3087,Banyule,Northern Metropolitan,830000,22/07/2017,Barry,3,1,1,598,-37.717,145.08891
+71,Eaglemont,104 Studley Rd,3084,Banyule,Eastern Metropolitan,1440000,15/07/2017,Miles,3,1,2,598,-37.76093,145.056
+72,Heidelberg West,26 Bardia St,3081,Banyule,Eastern Metropolitan,735000,22/07/2017,Harcourts,2,1,4,600,-37.74798,145.03765
+73,Watsonia North,27 Kurrajong Cr,3087,Banyule,Northern Metropolitan,710000,22/07/2017,Ray,3,1,2,600,-37.69872,145.08743
+74,Yallambie,34 Aminya Cr,3085,Banyule,Northern Metropolitan,743500,8/07/2017,Buckingham,4,2,4,600,-37.72788,145.10456
+75,Greensborough,142 Elder St,3088,Banyule,Northern Metropolitan,815000,12/08/2017,Nelson,3,2,2,609,-37.71636,145.09792
+76,Bundoora,12 Norwood Ct,3083,Banyule,Northern Metropolitan,730000,8/07/2017,Barry,3,1,1,612,-37.70602,145.05945
+77,Watsonia North,33 MacOrna St,3087,Banyule,Northern Metropolitan,755000,29/07/2017,HAR,4,1,2,613,-37.7002,145.08434
+78,Eaglemont,129 Banksia St,3084,Banyule,Eastern Metropolitan,1300000,8/07/2017,Nelson,3,1,2,615,-37.75825,145.05438
+79,Montmorency,50 Kirwana Gr,3094,Banyule,Eastern Metropolitan,700000,27/05/2017,Barry,3,1,3,615,-37.72588,145.13443
+80,Greensborough,4 Alexandra St,3088,Banyule,Northern Metropolitan,1050000,24/06/2017,Morrison,5,3,3,616,-37.70557,145.10859
+81,Bellfield,9 Sullivan St,3081,Banyule,Eastern Metropolitan,906000,22/07/2017,Miles,2,1,1,617,-37.7528,145.04444
+82,Ivanhoe East,8 Carmichael St,3079,Banyule,Eastern Metropolitan,1640000,27/05/2017,Nelson,3,1,2,617,-37.77212,145.05813
+83,Yallambie,8 MacAlister Bvd,3085,Banyule,Northern Metropolitan,1670000,3/06/2017,Barry,5,3,2,617,-37.71992,145.0988
+84,Heidelberg Heights,564 Waterdale Rd,3081,Banyule,Eastern Metropolitan,810000,12/08/2017,Ray,3,1,3,619,-37.73586,145.04908
+85,Ivanhoe,207 Waterdale Rd,3079,Banyule,Eastern Metropolitan,1320000,8/07/2017,Miles,2,1,0,620,-37.76091,145.04437
+86,Rosanna,6 Douglas St,3084,Banyule,Eastern Metropolitan,1185000,27/05/2017,Barry,4,2,1,625,-37.74301,145.07149
+87,Greensborough,13 Stowe Av,3088,Banyule,Northern Metropolitan,800000,15/07/2017,Darren,4,2,2,626,-37.70859,145.10464
+88,Bundoora,43 Cheadle Cr,3083,Banyule,Northern Metropolitan,999000,22/07/2017,Ray,5,2,2,627,-37.69264,145.0799
+89,Yallambie,3 Sirius Ct,3085,Banyule,Northern Metropolitan,852000,24/06/2017,Barry,3,2,2,629,-37.73058,145.08705
+90,Heidelberg,57 Quinn St,3084,Banyule,Eastern Metropolitan,1230000,17/06/2017,Nelson,4,1,2,630,-37.74863,145.07202
+91,Watsonia,11 Eclipse Cr,3087,Banyule,Northern Metropolitan,788800,12/08/2017,Barry,4,2,4,631,-37.7156,145.08875
+92,Montmorency,6 Wooded Wy,3094,Banyule,Eastern Metropolitan,1301000,15/07/2017,Buckingham,3,2,2,636,-37.72198,145.12581
+93,Ivanhoe,25 Fairy St,3079,Banyule,Eastern Metropolitan,2530000,29/07/2017,Miles,4,2,0,637,-37.77671,145.04005
+94,Heidelberg Heights,67 McEwan Rd,3081,Banyule,Eastern Metropolitan,1010000,27/05/2017,Haughton,3,1,2,648,-37.73658,145.05341
+95,Greensborough,54 Warralong Av,3088,Banyule,Northern Metropolitan,896000,15/07/2017,Fletchers,3,2,1,653,-37.71846,145.09689
+96,Viewbank,178 Graham Rd,3084,Banyule,Eastern Metropolitan,825000,24/06/2017,Barry,3,1,0,658,-37.73346,145.08359
+97,Bundoora,5 Cole Ct,3083,Banyule,Northern Metropolitan,769000,24/06/2017,Barry,4,2,2,662,-37.69582,145.07639
+98,Heidelberg,32 Powlett St,3084,Banyule,Eastern Metropolitan,1250000,12/08/2017,Miles,3,1,0,668,-37.75212,145.05945
+99,Ivanhoe,62 Hawker St,3079,Banyule,Eastern Metropolitan,1510000,8/07/2017,Nelson,3,1,2,670,-37.75973,145.03808
+100,Heidelberg West,129 Outhwaite Rd,3081,Banyule,Eastern Metropolitan,875000,24/06/2017,Haughton,2,1,3,671,-37.73902,145.04529
+101,Bellfield,124 Oriel Rd,3081,Banyule,Eastern Metropolitan,780000,27/05/2017,Haughton,3,1,2,680,-37.75255,145.03972
+102,Heidelberg,100 Buckingham Dr,3084,Banyule,Eastern Metropolitan,1430000,8/07/2017,Miles,4,2,3,680,-37.74605,145.08504
+103,Heidelberg Heights,21 Eden St,3081,Banyule,Eastern Metropolitan,650000,12/08/2017,Barry,2,1,0,683,-37.75022,145.04778
+104,Rosanna,7 Pilgrim Ct,3084,Banyule,Eastern Metropolitan,1170000,12/08/2017,Miles,5,3,3,694,-37.73968,145.07973
+105,Watsonia,60 Princes St,3087,Banyule,Northern Metropolitan,830000,17/06/2017,Miles,3,1,2,696,-37.70576,145.07788
+106,Ivanhoe East,82 McArthur Rd,3079,Banyule,Eastern Metropolitan,1601000,15/07/2017,Haughton,2,1,2,697,-37.77345,145.06098
+107,Rosanna,157 Bellevue Av,3084,Banyule,Eastern Metropolitan,1400000,12/08/2017,Fletchers,3,2,2,697,-37.73165,145.06564
+108,Watsonia,28 Grace St,3087,Banyule,Northern Metropolitan,1010000,17/06/2017,Buckingham,3,1,2,700,-37.70994,145.07997
+109,Montmorency,17 Virginia Ct,3094,Banyule,Eastern Metropolitan,980000,27/05/2017,Barry,4,3,2,701,-37.71871,145.13559
+110,Viewbank,32 Sherlowe Cr,3084,Banyule,Eastern Metropolitan,1295000,12/08/2017,Miles,4,2,2,702,-37.73226,145.09855
+111,Heidelberg West,2 Maple Ct,3081,Banyule,Eastern Metropolitan,820000,15/07/2017,Barry,2,1,1,721,-37.74371,145.04161
+112,Ivanhoe,49 Carn Av,3079,Banyule,Eastern Metropolitan,2100000,8/07/2017,Upper,5,3,2,740,-37.76086,145.05177
+113,Greensborough,53 Narbethong Dr,3088,Banyule,Northern Metropolitan,866000,8/07/2017,hockingstuart,3,2,2,743,-37.71733,145.09622
+114,Ivanhoe East,12 Wilfred Rd,3079,Banyule,Eastern Metropolitan,1853000,17/06/2017,Ray,2,2,2,751,-37.77521,145.05426
+115,Bellfield,4 Erica Ct,3081,Banyule,Eastern Metropolitan,1006000,12/08/2017,Barry,3,1,0,758,-37.75315,145.04062
+116,Watsonia North,59 Sellars St,3087,Banyule,Northern Metropolitan,850000,22/07/2017,Darren,3,1,2,766,-37.69821,145.08995
+117,Watsonia North,57 Sellars St,3087,Banyule,Northern Metropolitan,800000,24/06/2017,Buckingham,4,2,3,777,-37.69837,145.08992
+118,Ivanhoe,11 Athelstane Gr,3079,Banyule,Eastern Metropolitan,2380000,24/06/2017,Jellis,4,2,2,778,-37.76356,145.04135
+119,Montmorency,8 Grand Bvd,3094,Banyule,Eastern Metropolitan,881100,12/08/2017,Buckingham,3,2,4,786,-37.72532,145.12488
+120,Greensborough,50 Albion Cr,3088,Banyule,Northern Metropolitan,770000,29/07/2017,Darren,4,2,2,789,-37.69646,145.12163
+121,Greensborough,3 Perrumba St,3088,Banyule,Northern Metropolitan,880000,24/06/2017,Barry,5,3,2,789,-37.69817,145.12852
+122,Lower Plenty,54 Edwards St,3093,Banyule,Eastern Metropolitan,1129000,29/07/2017,Fletchers,4,2,2,792,-37.72608,145.12115
+123,Eltham North,99 Weidlich Rd,3095,Banyule,Eastern Metropolitan,925000,27/05/2017,Barry,4,2,2,796,-37.69771,145.1349
+124,Greensborough,12 Yangoora Pl,3088,Banyule,Northern Metropolitan,900000,29/07/2017,Morrison,4,3,1,807,-37.70077,145.12743
+125,Heidelberg,15 Adamson St,3084,Banyule,Eastern Metropolitan,1515000,22/07/2017,Miles,3,1,3,827,-37.74776,145.06217
+126,Eltham North,28 Weidlich Rd,3095,Banyule,Eastern Metropolitan,792000,8/07/2017,Barry,4,2,2,836,-37.70115,145.12855
+127,Montmorency,12 Aanensen Ct,3094,Banyule,Eastern Metropolitan,1130000,27/05/2017,Barry,3,2,2,842,-37.72096,145.12948
+128,Montmorency,146 Sherbourne Rd,3094,Banyule,Eastern Metropolitan,755000,24/06/2017,Buckingham,3,1,2,848,-37.71287,145.132
+129,Lower Plenty,14 Glenauburn Rd,3093,Banyule,Eastern Metropolitan,800000,17/06/2017,Barry,5,2,2,864,-37.72754,145.11021
+130,Briar Hill,31 Boyce Av,3088,Banyule,Eastern Metropolitan,830000,12/08/2017,Buckingham,3,1,2,905,-37.7063,145.12215
+131,Watsonia North,280 Grimshaw St,3087,Banyule,Northern Metropolitan,740000,15/07/2017,Barry,3,1,2,909,-37.70255,145.08578
+132,Greensborough,14 Wolangi Ct,3088,Banyule,Northern Metropolitan,1028000,8/07/2017,Morrison,4,3,4,925,-37.69261,145.1105
+133,St Helena,14 Covala Ct,3088,Banyule,Eastern Metropolitan,805000,15/07/2017,Darren,3,1,0,930,-37.6939,145.12899
+134,Montmorency,30 Astley St,3094,Banyule,Eastern Metropolitan,1050000,27/05/2017,Buckingham,4,2,1,973,-37.72082,145.12027
+135,Ivanhoe,6 Carn Av,3079,Banyule,Eastern Metropolitan,2250000,29/07/2017,Nelson,4,2,2,1011,-37.76231,145.05138
+136,Greensborough,67 Alexandra St,3088,Banyule,Northern Metropolitan,1326000,24/06/2017,Nelson,3,1,2,1020,-37.70821,145.10405
+137,Greensborough,15 Carnon St,3088,Banyule,Northern Metropolitan,895000,24/06/2017,Morrison,3,2,2,1036,-37.69538,145.11543
+138,Greensborough,22 Yangoora Pl,3088,Banyule,Northern Metropolitan,925000,24/06/2017,Nelson,4,2,2,1070,-37.69999,145.1279
+139,Ivanhoe,19 Belmont Rd,3079,Banyule,Eastern Metropolitan,2400000,12/08/2017,Fletchers,2,1,0,1110,-37.76778,145.03312
+140,Montmorency,19 Davey Rd,3094,Banyule,Eastern Metropolitan,1160000,27/05/2017,Ray,3,2,1,1125,-37.71541,145.11666
+141,Eaglemont,10 Silverdale Rd,3084,Banyule,Eastern Metropolitan,2270000,17/06/2017,Miles,3,1,2,1143,-37.76774,145.05303
+142,Rosanna,7 Hylton Cr,3084,Banyule,Eastern Metropolitan,1310000,15/07/2017,Fletchers,2,1,1,1313,-37.74694,145.07048
+143,St Helena,11 Erinne Ct,3088,Banyule,Eastern Metropolitan,1387000,27/05/2017,Morrison,5,3,3,1348,-37.68508,145.1395
+144,Eaglemont,18 Carlsberg Rd,3084,Banyule,Eastern Metropolitan,3300000,29/07/2017,Miles,4,2,3,1783,-37.76457,145.06555
+145,Heidelberg,8/75 Hawdon St,3084,Banyule,Eastern Metropolitan,450000,12/08/2017,Mason,2,1,0,2020,-37.75692,145.06426
+146,Heidelberg,7/74 Hawdon St,3084,Banyule,Eastern Metropolitan,534000,8/07/2017,Miles,2,1,1,2033,-37.75715,145.06463
+147,Albion,8/6 Ridley St,3020,Brimbank,Western Metropolitan,145000,28/05/2016,Biggin,1,1,1,36,-37.7833,144.8266
+148,Albion,3/14 Ridley St,3020,Brimbank,Western Metropolitan,300000,11/02/2017,FN,2,1,1,74,-37.7836,144.8256
+149,Albion,25 Brisbane St,3020,Brimbank,Western Metropolitan,463000,24/09/2016,Barry,2,1,1,199,-37.7761,144.8164
+150,Albion,2/32 Forrest St,3020,Brimbank,Western Metropolitan,560000,25/02/2017,Douglas,3,2,7,420,-37.7848,144.8231
+151,Albion,28 Selwyn St,3020,Brimbank,Western Metropolitan,541000,27/06/2016,Barry,2,1,1,497,-37.7806,144.8159
+152,Albion,12 Coolamon St,3020,Brimbank,Western Metropolitan,600000,22/05/2016,Barry,2,1,1,534,-37.7795,144.8204
+153,Albion,13 Gunnedah St,3020,Brimbank,Western Metropolitan,760000,27/11/2016,Village,3,1,2,534,-37.7789,144.8209
+154,Albion,20 Hutchinson St,3020,Brimbank,Western Metropolitan,625000,25/02/2017,FN,3,1,0,695,-37.7808,144.8186
+155,Albion,27 Burnewang St,3020,Brimbank,Western Metropolitan,670000,15/10/2016,Barry,2,1,2,697,-37.7835,144.8176
+156,Albion,48 Sydney St,3020,Brimbank,Western Metropolitan,840000,27/11/2016,Barry,3,1,0,697,-37.7809,144.8228
+157,Albion,13 Maylands St,3020,Brimbank,Western Metropolitan,685000,18/03/2017,Barry,3,1,1,697,-37.7765,144.8175
+158,Albion,70 Forrest St,3020,Brimbank,Western Metropolitan,600000,22/05/2016,Sweeney,3,1,1,697,-37.7842,144.8175
+159,Albion,53 Adelaide St,3020,Brimbank,Western Metropolitan,660000,25/02/2017,Douglas,4,1,1,697,-37.7795,144.8196
+160,Albion,60 Sydney St,3020,Brimbank,Western Metropolitan,720000,10/12/2016,Sweeney,3,1,1,706,-37.7801,144.8229
+161,Albion,16 Selwyn St,3020,Brimbank,Western Metropolitan,791000,25/02/2017,Bells,3,1,3,743,-37.7817,144.8159
+162,Albion,25 Sydney St,3020,Brimbank,Western Metropolitan,816000,10/09/2016,Bells,4,1,2,837,-37.7825,144.8221
+163,Albion,10/117 Anderson Rd,3020,Brimbank,Western Metropolitan,185000,22/08/2016,hockingstuart,1,1,1,2347,-37.7852,144.8272
+164,Preston,1/584 Murray Rd,3072,Darebin,Northern Metropolitan,560000,29/04/2017,Nelson,2,1,2,196,-37.7362,144.9885
+165,Reservoir,3/138 Rathcown Rd,3073,Darebin,Northern Metropolitan,815000,8/04/2017,Barry,3,2,2,213,-37.7085,145.018
+166,Preston,60 Carlisle St,3072,Darebin,Northern Metropolitan,1108000,22/04/2017,McGrath,2,1,0,258,-37.7521,145.0071
+167,Reservoir,1/4 Kenilworth St,3073,Darebin,Northern Metropolitan,631000,8/04/2017,Barry,3,1,1,267,-37.714,145.007
+168,Preston,460 Bell St,3072,Darebin,Northern Metropolitan,630000,29/04/2017,Barry,2,1,1,319,-37.7442,144.9958
+169,Reservoir,2/144 Hickford St,3073,Darebin,Northern Metropolitan,615000,6/05/2017,Barry,3,1,2,320,-37.7018,145.0134
+170,Preston,47 Youngman St,3072,Darebin,Northern Metropolitan,800000,20/05/2017,Nelson,2,1,1,405,-37.7356,145.0087
+171,Reservoir,1 Delaware St,3073,Darebin,Northern Metropolitan,861500,13/05/2017,Nelson,2,1,1,419,-37.721,145.016
+172,Reservoir,22 Wilson Bvd,3073,Darebin,Northern Metropolitan,610000,8/04/2017,Barry,3,1,2,435,-37.7054,144.9945
+173,Preston,2 Bruce St,3072,Darebin,Northern Metropolitan,2300000,22/04/2017,McGrath,2,1,2,465,-37.7424,145.0026
+174,Preston,227 Wood St,3072,Darebin,Northern Metropolitan,1010000,22/04/2017,Nelson,3,1,2,486,-37.7341,145.0096
+175,Reservoir,18 Zinnia St,3073,Darebin,Northern Metropolitan,595000,6/05/2017,Barry,3,1,1,490,-37.7152,144.9817
+176,Reservoir,37 Vale St,3073,Darebin,Northern Metropolitan,935000,8/04/2017,Love,2,1,1,537,-37.7269,144.988
+177,Reservoir,6 Greenock St,3073,Darebin,Northern Metropolitan,725000,6/05/2017,Barry,3,1,1,547,-37.7039,145.0226
+178,Reservoir,21 Henty St,3073,Darebin,Northern Metropolitan,801000,13/05/2017,Love,3,1,1,551,-37.7194,145.0015
+179,Preston,21 Robeson St,3072,Darebin,Northern Metropolitan,1110000,20/05/2017,Nelson,4,1,2,556,-37.7489,144.9861
+180,Preston,72 McNamara St,3072,Darebin,Northern Metropolitan,1055000,29/04/2017,Nelson,3,1,2,575,-37.7288,144.9849
+181,Preston,6 Adams St,3072,Darebin,Northern Metropolitan,690000,29/04/2017,RW,3,1,2,581,-37.7536,145.0191
+182,Reservoir,96b Cheddar Rd,3073,Darebin,Northern Metropolitan,678500,13/05/2017,hockingstuart,4,1,2,606,-37.6987,145.0203
+183,Preston,11 Murphy St,3072,Darebin,Northern Metropolitan,801000,22/04/2017,Nelson,3,1,2,620,-37.7305,144.9856
+184,Preston,39 Malpas St,3072,Darebin,Northern Metropolitan,1100000,29/04/2017,Nelson,3,2,4,637,-37.7344,145.0208
+185,Reservoir,29 Southernhay St,3073,Darebin,Northern Metropolitan,1010000,6/05/2017,Barry,3,1,2,649,-37.7258,145.0113
+186,Reservoir,2 Fordham Rd,3073,Darebin,Northern Metropolitan,741000,6/05/2017,Ray,4,1,2,659,-37.7148,145.019
+187,Preston,20 Ambon St,3072,Darebin,Northern Metropolitan,910000,22/04/2017,hockingstuart,3,1,1,674,-37.7341,145.0275
+188,Reservoir,33 McMahon Rd,3073,Darebin,Northern Metropolitan,845000,8/04/2017,RW,5,2,2,676,-37.7114,145.021
+189,Preston,12 Belgrove St,3072,Darebin,Northern Metropolitan,1215000,22/04/2017,hockingstuart,3,1,1,690,-37.7452,145.0192
+190,Reservoir,11 Mais St,3073,Darebin,Northern Metropolitan,905000,8/04/2017,hockingstuart,4,2,2,696,-37.7074,145.0276
+191,Reservoir,19 Tovey St,3073,Darebin,Northern Metropolitan,770000,8/04/2017,Ray,4,3,3,697,-37.701,144.9993
+192,Reservoir,83 Whitelaw St,3073,Darebin,Northern Metropolitan,852000,6/05/2017,Love,2,1,2,705,-37.712,145.0205
+193,Reservoir,5 Carson St,3073,Darebin,Northern Metropolitan,665000,8/04/2017,Love,3,1,2,874,-37.6982,145.0043
+194,Preston,3/152 Tyler St,3072,Darebin,Northern Metropolitan,385000,29/04/2017,Brad,1,1,1,896,-37.7316,145.0201
+195,Reservoir,72 Henty St,3073,Darebin,Northern Metropolitan,1150000,13/05/2017,Barry,4,1,2,928,-37.7179,144.9908
+196,Craigieburn,28/60 Cradle Mountain Dr,3064,Hume,Northern Metropolitan,310000,15/07/2017,Ray,2,1,1,38,-37.57467,144.92229
+197,Tullamarine,8/366 Melrose Dr,3043,Hume,Western Metropolitan,355000,3/06/2017,Barry,2,1,1,108,-37.68837,144.87122
+198,Westmeadows,20/84 Hillcrest Dr,3049,Hume,Northern Metropolitan,500000,27/05/2017,Barry,3,1,2,141,-37.67941,144.8764
+199,Jacana,12/1051 Pascoe Vale Rd,3047,Hume,Northern Metropolitan,390000,1/07/2017,YPA,2,1,1,165,-37.68582,144.91638
+200,Broadmeadows,3/11 Martell St,3047,Hume,Northern Metropolitan,310000,17/06/2017,Barry,2,1,1,171,-37.68489,144.9212
+201,Jacana,11/1051 Pascoe Vale Rd,3047,Hume,Northern Metropolitan,280000,16/04/2016,Raine,2,1,1,197,-37.6859,144.9164
+202,Craigieburn,2 Andover La,3064,Hume,Northern Metropolitan,340000,27/05/2017,Ray,2,1,1,197,-37.57886,144.90817
+203,Craigieburn,84 Royal Tce,3064,Hume,Northern Metropolitan,420000,27/05/2017,Ray,3,2,2,219,-37.57243,144.92663
+204,Broadmeadows,1/124 Cuthbert St,3047,Hume,Northern Metropolitan,465000,1/07/2017,Barry,3,2,3,248,-37.68358,144.92387
+205,Roxburgh Park,12 Simmonds Pl,3064,Hume,Northern Metropolitan,425000,3/06/2017,Ray,3,2,2,255,-37.63382,144.92774
+206,Gladstone Park,1/96 Carrick Dr,3043,Hume,Western Metropolitan,452500,12/08/2017,Barry,3,1,0,259,-37.6974,144.8916
+207,Craigieburn,7 Perisher Dr,3064,Hume,Northern Metropolitan,425000,24/06/2017,Ray,3,2,2,263,-37.57307,144.92513
+208,Tullamarine,4/48 Banksia Gr,3043,Hume,Western Metropolitan,500000,1/07/2017,Jason,3,1,1,268,-37.70367,144.88081
+209,Craigieburn,77 Huntington Dr,3064,Hume,Northern Metropolitan,430000,27/05/2017,Ray,3,2,1,280,-37.57056,144.91751
+210,Tullamarine,1/6 Burvale Ct,3043,Hume,Western Metropolitan,555000,27/05/2017,Barry,3,2,2,286,-37.69728,144.87455
+211,Westmeadows,26 Coghill St,3049,Hume,Northern Metropolitan,578000,1/07/2017,Jason,3,2,1,308,-37.67485,144.88995
+212,Craigieburn,82 Bridgewater Rd,3064,Hume,Northern Metropolitan,365000,17/06/2017,Del,3,1,1,320,-37.60608,144.92841
+213,Broadmeadows,48 Walsh St,3047,Hume,Northern Metropolitan,386000,8/07/2017,hockingstuart,3,1,1,341,-37.6886,144.92281
+214,Roxburgh Park,12 Chesterville Ct,3064,Hume,Northern Metropolitan,500000,27/05/2017,Raine,4,2,2,383,-37.61132,144.92075
+215,Greenvale,12 Taormina St,3059,Hume,Northern Metropolitan,550000,27/05/2017,Barry,3,2,2,392,-37.62458,144.88546
+216,Craigieburn,40 Grove Rd,3064,Hume,Northern Metropolitan,548000,12/08/2017,Stockdale,4,2,2,400,-37.5951,144.9091
+217,Craigieburn,42 Valiant Cr,3064,Hume,Northern Metropolitan,667500,12/08/2017,LJ,4,2,2,448,-37.59264,144.8985
+218,Sunbury,60 Heysen Dr,3429,Hume,Western Metropolitan,420000,1/07/2017,Raine,3,1,2,466,-37.57282,144.70553
+219,Craigieburn,27 Kensley Cct,3064,Hume,Northern Metropolitan,492000,24/06/2017,Ray,4,2,2,479,-37.57005,144.91909
+220,Craigieburn,195 Newbury Bvd,3064,Hume,Northern Metropolitan,667000,3/06/2017,Ray,4,2,2,480,-37.57201,144.90897
+221,Craigieburn,16 Bottlebrush Rd,3064,Hume,Northern Metropolitan,565000,12/08/2017,Ray,4,2,2,482,-37.57416,144.91269
+222,Greenvale,21 Destination Dr,3059,Hume,Northern Metropolitan,840500,24/06/2017,YPA,4,2,2,494,-37.61424,144.88705
+223,Westmeadows,285 Mickleham Rd,3049,Hume,Northern Metropolitan,540000,3/06/2017,Barry,3,1,2,532,-37.67949,144.88349
+224,Campbellfield,33 Rainsford Tce,3061,Hume,Northern Metropolitan,445000,20/05/2017,Harcourts,3,1,2,534,-37.6741,144.9698
+225,Gladstone Park,5 Clarke Dr,3043,Hume,Western Metropolitan,660000,17/06/2017,Barry,5,2,1,536,-37.6852,144.89853
+226,Greenvale,17 Arkley Dr,3059,Hume,Northern Metropolitan,645000,17/06/2017,Barry,4,2,2,538,-37.6499,144.9013
+227,Westmeadows,14 Devenish Ct,3049,Hume,Northern Metropolitan,410000,8/07/2017,Barry,3,1,2,542,-37.66948,144.90385
+228,Gladstone Park,9 Dolphin Ct,3043,Hume,Western Metropolitan,625000,1/07/2017,YPA,3,1,2,544,-37.68541,144.88471
+229,Greenvale,4 Lysterfield Dr,3059,Hume,Northern Metropolitan,800000,8/07/2017,LJ,5,3,2,544,-37.61079,144.90823
+230,Broadmeadows,87 Academy Dr,3047,Hume,Northern Metropolitan,505000,27/05/2017,YPA,3,1,1,546,-37.67411,144.94677
+231,Gladstone Park,305 Carrick Dr,3043,Hume,Western Metropolitan,691000,17/06/2017,Barry,5,2,3,551,-37.68329,144.89302
+232,Gladstone Park,245 Carrick Dr,3043,Hume,Western Metropolitan,629000,12/08/2017,Barry,3,1,2,552,-37.68641,144.89826
+233,Craigieburn,25 Jirrahlinga Tce,3064,Hume,Northern Metropolitan,600000,17/06/2017,Ray,4,2,2,560,-37.59943,144.91439
+234,Gladstone Park,19 Osborne Av,3043,Hume,Western Metropolitan,749000,8/07/2017,Barry,4,2,2,561,-37.68269,144.88601
+235,Meadow Heights,2 Navarre Ct,3048,Hume,Northern Metropolitan,467000,24/06/2017,Raine,3,1,1,565,-37.65702,144.92447
+236,Gladstone Park,328 Carrick Dr,3043,Hume,Western Metropolitan,675000,17/06/2017,YPA,5,2,2,565,-37.68302,144.89327
+237,Meadow Heights,23 Goodenia Cl,3048,Hume,Northern Metropolitan,440000,8/07/2017,YPA,3,1,2,570,-37.64769,144.91359
+238,Broadmeadows,21 Graham St,3047,Hume,Northern Metropolitan,518500,1/07/2017,YPA,3,1,0,576,-37.69237,144.93144
+239,Sunbury,17 Mudie Av,3429,Hume,Western Metropolitan,512500,8/07/2017,Raine,4,2,2,581,-37.57355,144.70854
+240,Sunbury,1 Hume St,3429,Hume,Western Metropolitan,487000,8/07/2017,Leeburn,3,1,1,582,-37.58025,144.71759
+241,Dallas,18 Berger St,3047,Hume,Northern Metropolitan,459000,15/07/2017,YPA,3,1,0,583,-37.67048,144.93992
+242,Dallas,17 Hampden St,3047,Hume,Northern Metropolitan,408500,24/06/2017,Raine,3,1,2,584,-37.67159,144.94522
+243,Sunbury,13 McComb St,3429,Hume,Western Metropolitan,410000,8/07/2017,Brad,4,2,2,587,-37.58231,144.69962
+244,Dallas,50 Kaniva St,3047,Hume,Northern Metropolitan,310000,24/06/2017,Raine,3,1,1,595,-37.66648,144.93399
+245,Jacana,25 Bliburg St,3047,Hume,Northern Metropolitan,495000,27/11/2016,YPA,3,1,2,598,-37.6878,144.9112
+246,Jacana,147 Sunset Bvd,3047,Hume,Northern Metropolitan,350000,7/05/2016,Barry,3,1,2,600,-37.6866,144.9086
+247,Jacana,16 Gavin St,3047,Hume,Northern Metropolitan,537000,18/03/2017,Barry,3,1,2,600,-37.6876,144.9095
+248,Campbellfield,11 Bailey Ct,3061,Hume,Northern Metropolitan,368000,3/12/2016,Iconek,3,1,2,600,-37.6783,144.9672
+249,Sunbury,1 Heysen Dr,3429,Hume,Western Metropolitan,410000,3/06/2017,Brad,3,2,2,600,-37.57686,144.71023
+250,Jacana,15 Bliburg St,3047,Hume,Northern Metropolitan,460000,24/09/2016,Eview,3,1,1,601,-37.6889,144.9109
+251,Greenvale,23 Wallace Dr,3059,Hume,Northern Metropolitan,830000,3/06/2017,RW,5,4,5,602,-37.65039,144.89948
+252,Jacana,17 Bannister St,3047,Hume,Northern Metropolitan,618000,20/05/2017,YPA,4,1,2,604,-37.6875,144.9102
+253,Jacana,58 Bliburg St,3047,Hume,Northern Metropolitan,421000,30/07/2016,Barry,3,1,1,607,-37.6864,144.9111
+254,Jacana,39 Emu Pde,3047,Hume,Northern Metropolitan,551000,4/03/2017,YPA,3,1,0,610,-37.6885,144.9092
+255,Sunbury,11 Bannermann St,3429,Hume,Western Metropolitan,580000,1/07/2017,Raine,4,2,2,613,-37.59501,144.70069
+256,Coolaroo,11 Nareen Av,3048,Hume,Northern Metropolitan,515000,8/07/2017,Barry,4,1,0,616,-37.65879,144.9296
+257,Gladstone Park,10 Ballard Cl,3043,Hume,Western Metropolitan,653000,24/06/2017,Barry,3,1,2,618,-37.6953,144.89837
+258,Craigieburn,6 Vision Rd,3064,Hume,Northern Metropolitan,660000,1/07/2017,LJ,3,2,3,618,-37.59715,144.89656
+259,Jacana,1 Robinson St,3047,Hume,Northern Metropolitan,611000,25/02/2017,Barry,3,1,3,624,-37.6862,144.913
+260,Westmeadows,124 Raleigh St,3049,Hume,Northern Metropolitan,560000,27/05/2017,Raine,5,2,2,626,-37.67688,144.88996
+261,Jacana,50 Emu Pde,3047,Hume,Northern Metropolitan,556000,24/06/2017,YPA,3,1,1,627,-37.68861,144.91065
+262,Broadmeadows,8 Katandra Cr,3047,Hume,Northern Metropolitan,460000,8/07/2017,YPA,3,1,1,629,-37.67197,144.91896
+263,Jacana,81 Johnstone St,3047,Hume,Northern Metropolitan,485000,8/04/2017,Barry,3,1,2,630,-37.6822,144.9108
+264,Greenvale,65 Clare Bvd,3059,Hume,Northern Metropolitan,730000,27/05/2017,YPA,4,2,1,633,-37.63958,144.90267
+265,Gladstone Park,10 Taunton Pl,3043,Hume,Western Metropolitan,635000,27/05/2017,YPA,4,2,2,634,-37.68368,144.88976
+266,Broadmeadows,12 Ophir St,3047,Hume,Northern Metropolitan,374000,17/06/2017,Ray,3,1,2,635,-37.69248,144.93345
+267,Sunbury,27 Holloway Cl,3429,Hume,Western Metropolitan,455000,17/06/2017,Raine,3,1,6,639,-37.56291,144.72848
+268,Broadmeadows,37 Gosford Cr,3047,Hume,Northern Metropolitan,570500,15/07/2017,YPA,3,1,1,640,-37.68187,144.92421
+269,Craigieburn,17 Chinnock Ct,3064,Hume,Northern Metropolitan,680000,24/06/2017,YPA,5,3,2,646,-37.59902,144.92517
+270,Jacana,3 Fidge Ct,3047,Hume,Northern Metropolitan,600000,22/05/2016,Woodards,3,1,2,647,-37.6904,144.9121
+271,Jacana,108 Sunset Bvd,3047,Hume,Northern Metropolitan,425000,16/04/2016,Barry,3,1,2,650,-37.687,144.9084
+272,Greenvale,1 Chester Cl,3059,Hume,Northern Metropolitan,680000,3/06/2017,Barry,3,2,1,650,-37.64049,144.8846
+273,Craigieburn,13 Brampton Cl,3064,Hume,Northern Metropolitan,515500,1/07/2017,RE,3,1,4,651,-37.60329,144.93948
+274,Craigieburn,10 Huntingdale Ct,3064,Hume,Northern Metropolitan,506000,27/05/2017,Raine,6,2,2,655,-37.59052,144.93066
+275,Jacana,17 Fidge Ct,3047,Hume,Northern Metropolitan,575500,8/07/2017,RW,2,1,1,662,-37.68988,144.91113
+276,Westmeadows,12 Tylden Pl,3049,Hume,Northern Metropolitan,729000,12/08/2017,Nelson,3,1,1,672,-37.6784,144.88797
+277,Westmeadows,63 Kenny St,3049,Hume,Northern Metropolitan,700000,12/08/2017,Barry,3,2,4,673,-37.67558,144.8976
+278,Tullamarine,35 Finningley Dr,3043,Hume,Western Metropolitan,695000,27/05/2017,YPA,3,1,2,676,-37.69636,144.88265
+279,Greenvale,5 Barmah Gra,3059,Hume,Northern Metropolitan,715000,24/06/2017,YPA,4,2,2,680,-37.61236,144.90753
+280,Sunbury,68 Cornish St,3429,Hume,Western Metropolitan,455000,3/06/2017,YPA,3,2,2,690,-37.57456,144.71548
+281,Jacana,34 Bliburg St,3047,Hume,Northern Metropolitan,650000,1/07/2017,YPA,4,1,1,692,-37.6876,144.91167
+282,Broadmeadows,45 Cuthbert St,3047,Hume,Northern Metropolitan,616000,12/08/2017,YPA,3,1,1,695,-37.68489,144.93169
+283,Broadmeadows,37 Stanhope St,3047,Hume,Northern Metropolitan,631000,15/07/2017,YPA,4,2,2,696,-37.68584,144.9315
+284,Broadmeadows,38 Stanhope St,3047,Hume,Northern Metropolitan,632000,12/08/2017,Ray,3,1,4,697,-37.68557,144.93156
+285,Tullamarine,19 Gordon St,3043,Hume,Western Metropolitan,895000,8/07/2017,Jason,4,2,2,700,-37.70598,144.87616
+286,Meadow Heights,10 Castella Ct,3048,Hume,Northern Metropolitan,450000,8/07/2017,Barry,3,1,1,702,-37.66059,144.92006
+287,Jacana,47 Lorraine Cr,3047,Hume,Northern Metropolitan,550000,12/08/2017,Morrison,3,1,2,704,-37.6845,144.90761
+288,Jacana,7 Bessell Ct,3047,Hume,Northern Metropolitan,590500,27/05/2017,YPA,3,1,1,708,-37.68825,144.91484
+289,Greenvale,69 Greenvale Dr,3059,Hume,Northern Metropolitan,770000,27/05/2017,RW,3,2,2,711,-37.64297,144.88796
+290,Jacana,17 Sunset Bvd,3047,Hume,Northern Metropolitan,472500,28/05/2016,YPA,2,1,2,729,-37.6909,144.9136
+291,Westmeadows,14 Duncan Ct,3049,Hume,Northern Metropolitan,675000,8/07/2017,Barry,4,2,4,744,-37.6815,144.87892
+292,Greenvale,23 Fraserburgh Cr,3059,Hume,Northern Metropolitan,783000,8/07/2017,Barry,4,2,2,750,-37.64163,144.90493
+293,Craigieburn,13 Aston St,3064,Hume,Northern Metropolitan,665000,1/07/2017,RE,4,2,2,756,-37.58885,144.90135
+294,Craigieburn,1 Consort Pl,3064,Hume,Northern Metropolitan,615000,12/08/2017,YPA,4,2,2,756,-37.5729,144.93663
+295,Tullamarine,3 Henderson Rd,3043,Hume,Western Metropolitan,821000,1/07/2017,Jason,4,1,6,763,-37.69048,144.87312
+296,Campbellfield,7 Keown Ct,3061,Hume,Northern Metropolitan,455000,3/12/2016,YPA,3,1,1,766,-37.6804,144.9664
+297,Greenvale,13 Ambleside Rd,3059,Hume,Northern Metropolitan,770000,24/06/2017,YPA,3,2,2,775,-37.64385,144.89221
+298,Fawkner,16 Janice Ct,3060,Hume,Northern Metropolitan,538000,18/06/2016,Nelson,3,1,4,789,-37.6912,144.9623
+299,Sunbury,20 Miller St,3429,Hume,Western Metropolitan,535000,27/05/2017,Brad,4,2,2,808,-37.58089,144.72183
+300,Sunbury,18 Timins St,3429,Hume,Western Metropolitan,650000,1/07/2017,YPA,3,3,1,852,-37.58689,144.72865
+301,Greenvale,17 Bolton Ct,3059,Hume,Northern Metropolitan,750000,27/05/2017,Stockdale,5,2,2,877,-37.63823,144.88675
+302,Gladstone Park,91 Carrick Dr,3043,Hume,Western Metropolitan,755000,27/05/2017,Jason,3,1,1,935,-37.69744,144.89073
+303,Greenvale,29 Piccadilly Ct,3059,Hume,Northern Metropolitan,810000,24/06/2017,Jason,4,2,3,990,-37.6579,144.90523
+304,Craigieburn,12 Surrey Ct,3064,Hume,Northern Metropolitan,716000,12/08/2017,Stockdale,3,2,6,1005,-37.60574,144.92548
+305,Sunbury,64 Station St,3429,Hume,Western Metropolitan,755000,24/06/2017,Brad,3,1,2,1011,-37.58419,144.73188
+306,Greenvale,7 Murray Ct,3059,Hume,Northern Metropolitan,1170000,3/06/2017,Barry,5,3,5,1750,-37.65439,144.89113
+307,Wantirna,7/3 Ashley St,3152,Knox,Eastern Metropolitan,450000,1/07/2017,Prof.,2,2,2,74,-37.84646,145.22591
+308,Wantirna South,12/440 Stud Rd,3152,Knox,Eastern Metropolitan,622000,15/07/2017,Ray,3,1,1,137,-37.87615,145.23192
+309,Bayswater,1/20 Kumala Rd,3153,Knox,Eastern Metropolitan,520000,8/07/2017,Ray,2,1,1,158,-37.845,145.25624
+310,Bayswater,18B Orchard Rd,3153,Knox,Eastern Metropolitan,640000,1/07/2017,Fletchers,3,2,1,187,-37.83909,145.26075
+311,Wantirna South,10/1401 High Street Rd,3152,Knox,Eastern Metropolitan,570000,8/07/2017,Ray,3,1,1,190,-37.87638,145.2313
+312,Ferntree Gully,2 Clendon Rd,3156,Knox,Eastern Metropolitan,664000,8/07/2017,Ray,3,2,1,219,-37.8798,145.2775
+313,Ferntree Gully,4/4 Austin St,3156,Knox,Eastern Metropolitan,670000,27/05/2017,Philip,3,2,2,239,-37.886,145.28646
+314,Bayswater,4/22 Grandview Gr,3153,Knox,Eastern Metropolitan,720000,12/08/2017,RW,3,2,2,255,-37.84633,145.26267
+315,Boronia,1/347 Boronia Rd,3155,Knox,Eastern Metropolitan,740000,12/08/2017,Barry,4,2,2,261,-37.85784,145.26022
+316,Bayswater,12 Pindari Dr,3153,Knox,Eastern Metropolitan,860000,3/06/2017,Ray,4,3,2,304,-37.8543,145.25253
+317,Ferntree Gully,24a Helen Rd,3156,Knox,Eastern Metropolitan,617000,27/05/2017,Schroeder,2,2,1,306,-37.87275,145.26325
+318,Wantirna South,6/17 Pach Rd,3152,Knox,Eastern Metropolitan,778000,8/07/2017,Prof.,3,2,2,306,-37.85605,145.24496
+319,Rowville,240 Dandelion Dr,3178,Knox,South-Eastern Metropolitan,622000,3/06/2017,Ray,3,1,1,372,-37.91655,145.26933
+320,Bayswater,1/20 Church St,3153,Knox,Eastern Metropolitan,520000,17/06/2017,Schroeder,2,1,1,418,-37.83777,145.26345
+321,Wantirna South,14 Riverpark Dr,3152,Knox,Eastern Metropolitan,1180000,24/06/2017,Ray,6,2,2,453,-37.87309,145.23078
+322,Rowville,15 Ada St,3178,Knox,South-Eastern Metropolitan,1005800,17/06/2017,Jellis,4,2,2,502,-37.92985,145.25184
+323,Bayswater,17 Orange Gr,3153,Knox,Eastern Metropolitan,700000,3/06/2017,Biggin,3,2,1,509,-37.84823,145.26673
+324,The Basin,325 Forest Rd,3154,Knox,Eastern Metropolitan,477000,8/07/2017,Ray,3,1,1,518,-37.85971,145.31036
+325,Rowville,18 Yvette Dr,3178,Knox,South-Eastern Metropolitan,860000,8/07/2017,Harcourts,3,2,2,537,-37.92778,145.24796
+326,Wantirna South,53 Somes St,3152,Knox,Eastern Metropolitan,1015000,1/07/2017,Ray,3,2,2,550,-37.88695,145.21891
+327,Rowville,2 Wallingford Pl,3178,Knox,South-Eastern Metropolitan,755000,15/07/2017,Harcourts,3,2,2,551,-37.94266,145.24662
+328,Scoresby,5 Drysdale Ct,3179,Knox,Eastern Metropolitan,870000,12/08/2017,hockingstuart,3,2,2,590,-37.89628,145.22294
+329,Knoxfield,8 Mistletoe Cl,3180,Knox,Eastern Metropolitan,1010000,27/05/2017,Noel,4,2,2,620,-37.88308,145.24953
+330,Knoxfield,22 Watersedge Cl,3180,Knox,Eastern Metropolitan,1040000,15/07/2017,Ray,4,2,2,633,-37.88214,145.25058
+331,Wantirna South,1 Riverpark Dr,3152,Knox,Eastern Metropolitan,1055000,8/07/2017,Ray,4,2,2,652,-37.87325,145.23244
+332,Rowville,45 Severn Cr,3178,Knox,South-Eastern Metropolitan,936000,8/07/2017,HAR,4,2,2,675,-37.91692,145.25896
+333,Boronia,34 Russell Cr,3155,Knox,Eastern Metropolitan,820000,8/07/2017,Philip,4,2,4,719,-37.86434,145.25739
+334,Boronia,8 Darwin Rd,3155,Knox,Eastern Metropolitan,775000,8/07/2017,Ray,3,1,2,720,-37.86126,145.25808
+335,Rowville,3 Barwon Ct,3178,Knox,South-Eastern Metropolitan,735000,15/07/2017,Barry,3,2,1,721,-37.91713,145.24706
+336,Wantirna,6 Deauville Ct,3152,Knox,Eastern Metropolitan,1000000,24/06/2017,Barry,4,2,1,722,-37.85848,145.23982
+337,Boronia,3 Devenish Rd,3155,Knox,Eastern Metropolitan,785000,15/07/2017,iTRAK,3,2,2,723,-37.85284,145.26942
+338,Boronia,10 Weyburn Rd,3155,Knox,Eastern Metropolitan,706500,3/06/2017,iTRAK,3,2,3,723,-37.83883,145.28893
+339,Rowville,71 Kellbourne Dr,3178,Knox,South-Eastern Metropolitan,860000,24/06/2017,Fletchers,4,2,0,725,-37.9088,145.26319
+340,Rowville,38 Armstrong Dr,3178,Knox,South-Eastern Metropolitan,970000,12/08/2017,Harcourts,5,3,2,725,-37.92739,145.25705
+341,Rowville,4 Richard Ct,3178,Knox,South-Eastern Metropolitan,1275000,17/06/2017,Ray,4,2,2,726,-37.92502,145.23939
+342,Wantirna South,42 Argyle Wy,3152,Knox,Eastern Metropolitan,1045000,15/07/2017,Noel,4,3,2,728,-37.88009,145.22736
+343,Scoresby,147 George St,3179,Knox,Eastern Metropolitan,833800,24/06/2017,Barry,3,1,0,730,-37.88919,145.21629
+344,Boronia,27 Helene Ct,3155,Knox,Eastern Metropolitan,783000,3/06/2017,Barry,4,1,3,730,-37.87377,145.28688
+345,Wantirna South,11 Henry Rd,3152,Knox,Eastern Metropolitan,1160000,24/06/2017,Ray,3,1,4,733,-37.87105,145.23872
+346,Rowville,11 Jindalee Cl,3178,Knox,South-Eastern Metropolitan,870000,1/07/2017,Harcourts,5,2,2,733,-37.91894,145.24305
+347,Wantirna,509 Boronia Rd,3152,Knox,Eastern Metropolitan,1214000,15/07/2017,Ray,4,1,2,734,-37.85209,145.24268
+348,Ferntree Gully,32 Elton Rd,3156,Knox,Eastern Metropolitan,663500,3/06/2017,Harcourts,3,1,2,736,-37.88909,145.26935
+349,Ferntree Gully,42 Bryden Dr,3156,Knox,Eastern Metropolitan,850000,15/07/2017,Noel,4,2,1,738,-37.89863,145.26708
+350,Bayswater,15 Clifford St,3153,Knox,Eastern Metropolitan,705000,27/05/2017,Biggin,4,2,4,765,-37.854,145.2565
+351,Boronia,12 Briar St,3155,Knox,Eastern Metropolitan,780000,3/06/2017,Appleby,4,2,2,820,-37.87393,145.28858
+352,Ferntree Gully,50 Carlisle Rd,3156,Knox,Eastern Metropolitan,1100000,17/06/2017,Schroeder,5,3,2,836,-37.8801,145.26011
+353,Knoxfield,8 Markhill Pl,3180,Knox,Eastern Metropolitan,1218000,27/05/2017,Ray,4,2,2,900,-37.87695,145.2547
+354,Bayswater,15 Edinburgh Rd,3153,Knox,Eastern Metropolitan,900000,8/07/2017,LJ,5,2,2,942,-37.85721,145.26305
+355,Ferntree Gully,7 Austin St,3156,Knox,Eastern Metropolitan,740000,22/07/2017,Stockdale,3,1,2,968,-37.88523,145.28553
+356,Boronia,39 Lockwoods Rd,3155,Knox,Eastern Metropolitan,642000,1/07/2017,Stockdale,3,2,2,968,-37.84674,145.29351
+357,Bayswater,32 Kumala Rd,3153,Knox,Eastern Metropolitan,930000,3/06/2017,Noel,5,2,2,992,-37.84613,145.25606
+358,Bayswater,95 Orange Gr,3153,Knox,Eastern Metropolitan,925000,17/06/2017,Biggin,4,1,10,993,-37.84688,145.25632
+359,The Basin,65 Government Rd,3154,Knox,Eastern Metropolitan,551200,1/07/2017,iTRAK,3,1,2,1007,-37.86387,145.31762
+360,Ferntree Gully,41 Trafalgar St,3156,Knox,Eastern Metropolitan,805000,3/06/2017,Harcourts,3,1,2,1008,-37.89879,145.28866
+361,Ferntree Gully,11 Aitken Ct,3156,Knox,Eastern Metropolitan,904000,12/08/2017,LJ,3,1,3,1014,-37.88472,145.26653
+362,Ferntree Gully,5 Bruce Cr,3156,Knox,Eastern Metropolitan,748888,15/07/2017,Ray,4,2,4,1014,-37.88189,145.29148
+363,Scoresby,17 Gilbert Ct,3179,Knox,Eastern Metropolitan,1000000,8/07/2017,Ray,3,2,2,1088,-37.89385,145.23848
+364,Bayswater,7 Huxley Ct,3153,Knox,Eastern Metropolitan,1030000,24/06/2017,Philip,4,2,2,1094,-37.85757,145.2615
+365,Scoresby,72 Arnold Dr,3179,Knox,Eastern Metropolitan,1040000,22/07/2017,Purplebricks,4,2,2,1134,-37.89496,145.23404
+366,Wantirna South,5 Henry Rd,3152,Knox,Eastern Metropolitan,2020000,17/06/2017,LLC,4,2,2,1183,-37.87104,145.23807
+367,The Basin,14 Bayview Cr,3154,Knox,Eastern Metropolitan,610000,12/08/2017,iTRAK,3,1,0,1281,-37.863,145.30716
+368,Wantirna,6 Magnolia St,3152,Knox,Eastern Metropolitan,1280000,3/06/2017,Harcourts,2,1,0,1670,-37.839,145.22143
+369,Ferntree Gully,2 Francis Cr,3156,Knox,Eastern Metropolitan,1900000,8/07/2017,LJ,3,2,2,1869,-37.88096,145.29371
+370,Boronia,10 Hansen Rd,3155,Knox,Eastern Metropolitan,950000,15/07/2017,iTRAK,4,2,4,2033,-37.86669,145.29959
+371,Boronia,271 Scoresby Rd,3155,Knox,Eastern Metropolitan,2020000,3/06/2017,Prof.,5,3,0,2735,-37.86625,145.26317
+372,Footscray,10/30 Pickett St,3011,Maribyrnong,Western Metropolitan,170000,1/07/2017,Burnham,1,1,0,30,-37.80141,144.89587
+373,Footscray,6/6 Rosamond Rd,3011,Maribyrnong,Western Metropolitan,455000,27/05/2017,Biggin,2,1,1,43,-37.78822,144.88361
+374,West Footscray,3/30 Beaumont Pde,3012,Maribyrnong,Western Metropolitan,280000,15/07/2017,Jas,1,1,1,45,-37.80728,144.86702
+375,Maidstone,6 Mandrel St,3012,Maribyrnong,Western Metropolitan,505500,17/06/2017,hockingstuart,2,1,1,59,-37.77824,144.87427
+376,Yarraville,1/27 Stephen St,3013,Maribyrnong,Western Metropolitan,709500,27/05/2017,Jas,2,1,1,80,-37.81133,144.89553
+377,Maribyrnong,21/9 Fabian Ct,3032,Maribyrnong,Western Metropolitan,530000,27/05/2017,hockingstuart,2,1,1,81,-37.77323,144.89268
+378,Footscray,12/26 Park St,3011,Maribyrnong,Western Metropolitan,575000,12/08/2017,Nelson,2,2,1,88,-37.78872,144.88891
+379,Maribyrnong,7 Cavalry Cct,3032,Maribyrnong,Western Metropolitan,640000,22/07/2017,Biggin,3,2,2,91,-37.77449,144.88011
+380,Yarraville,3/367 Williamstown Rd,3013,Maribyrnong,Western Metropolitan,440000,8/07/2017,hockingstuart,2,1,1,100,-37.82356,144.88191
+381,Seddon,2A Austin St,3011,Maribyrnong,Western Metropolitan,750000,1/07/2017,Jas,2,1,1,104,-37.80601,144.89663
+382,Kingsville,3/14 Edgar St,3012,Maribyrnong,Western Metropolitan,570000,12/08/2017,Jas,3,1,1,118,-37.80857,144.87682
+383,Seddon,1 Bute St,3011,Maribyrnong,Western Metropolitan,1315000,27/05/2017,Biggin,3,3,2,122,-37.80401,144.89519
+384,West Footscray,5/2 Ormond Rd,3012,Maribyrnong,Western Metropolitan,700000,15/07/2017,Jas,3,2,2,125,-37.80735,144.87361
+385,Maidstone,3/10 Greenham St,3012,Maribyrnong,Western Metropolitan,520000,1/07/2017,Jas,2,1,1,126,-37.78775,144.87446
+386,Seddon,2/70 Windsor St,3011,Maribyrnong,Western Metropolitan,945000,29/07/2017,Village,2,1,1,126,-37.80473,144.89095
+387,West Footscray,5/19 Waratah St,3012,Maribyrnong,Western Metropolitan,597000,27/05/2017,Jas,3,1,1,126,-37.80962,144.86877
+388,Maidstone,3/25 Cathcart St,3012,Maribyrnong,Western Metropolitan,642500,12/08/2017,Biggin,2,2,1,126,-37.78458,144.88106
+389,Footscray,18 White St,3011,Maribyrnong,Western Metropolitan,957000,29/07/2017,Jas,2,1,0,148,-37.79462,144.89385
+390,Yarraville,89 Ballarat St,3013,Maribyrnong,Western Metropolitan,950000,3/06/2017,Jas,2,1,0,150,-37.81956,144.89054
+391,Seddon,57 Charles St,3011,Maribyrnong,Western Metropolitan,830000,27/05/2017,Village,2,1,1,152,-37.80697,144.8928
+392,Seddon,57 Charles St,3011,Maribyrnong,Western Metropolitan,850000,1/07/2017,Village,2,1,1,152,-37.80697,144.8928
+393,Yarraville,3/11 Fielding St,3013,Maribyrnong,Western Metropolitan,1120000,22/04/2017,hockingstuart,3,2,0,152,-37.811,144.8889
+394,Braybrook,12/27 Marnoo St,3019,Maribyrnong,Western Metropolitan,560000,22/07/2017,Sweeney,3,1,1,158,-37.78893,144.84652
+395,Maidstone,16A Madden St,3012,Maribyrnong,Western Metropolitan,798000,12/08/2017,Biggin,3,2,2,159,-37.78974,144.88143
+396,Maidstone,1/1 Clarendon St,3012,Maribyrnong,Western Metropolitan,650000,8/07/2017,Jas,3,2,2,159,-37.78502,144.86733
+397,Maidstone,1/1 Clarendon St,3012,Maribyrnong,Western Metropolitan,670000,29/07/2017,Jas,3,2,2,159,-37.78502,144.86733
+398,Footscray,60 Cross St,3011,Maribyrnong,Western Metropolitan,878000,15/07/2017,Jas,3,2,2,163,-37.80069,144.88199
+399,Kingsville,62A Williamstown Rd,3012,Maribyrnong,Western Metropolitan,735000,17/06/2017,McGrath,2,1,1,170,-37.80635,144.8845
+400,Yarraville,33A Severn St,3013,Maribyrnong,Western Metropolitan,780000,12/08/2017,Sweeney,2,1,1,178,-37.81481,144.88013
+401,Footscray,15 Greer St,3011,Maribyrnong,Western Metropolitan,1000000,22/07/2017,Nelson,4,2,1,180,-37.79686,144.908
+402,Yarraville,19/37 Stephen St,3013,Maribyrnong,Western Metropolitan,920000,12/08/2017,Village,3,2,2,182,-37.81249,144.89531
+403,Maidstone,3/13 Winston St,3012,Maribyrnong,Western Metropolitan,710000,12/08/2017,Jas,3,2,2,186,-37.78559,144.86483
+404,Yarraville,40 Kingston St,3013,Maribyrnong,Western Metropolitan,872500,29/04/2017,Jas,3,1,2,189,-37.8145,144.8808
+405,Maidstone,72B Richelieu St,3012,Maribyrnong,Western Metropolitan,702000,15/07/2017,Jas,3,2,2,189,-37.78606,144.87205
+406,Seddon,6 Alexander St,3011,Maribyrnong,Western Metropolitan,900000,17/06/2017,Village,3,1,0,194,-37.8041,144.8916
+407,Yarraville,55 Simpson St,3013,Maribyrnong,Western Metropolitan,1044000,22/07/2017,Jas,2,1,0,197,-37.81736,144.89133
+408,Maribyrnong,1/59 Middle Rd,3032,Maribyrnong,Western Metropolitan,675000,15/07/2017,Biggin,2,1,2,198,-37.76703,144.88915
+409,Seddon,17 Tennyson St,3011,Maribyrnong,Western Metropolitan,1180000,3/06/2017,Biggin,3,1,0,198,-37.80779,144.88887
+410,Yarraville,29 Wilson St,3013,Maribyrnong,Western Metropolitan,935000,8/04/2017,Jas,3,1,0,198,-37.8194,144.8914
+411,Maribyrnong,22 Mephan St,3032,Maribyrnong,Western Metropolitan,815000,24/06/2017,Edward,3,2,2,198,-37.78667,144.88834
+412,Seddon,19 Station Rd,3011,Maribyrnong,Western Metropolitan,940000,27/05/2017,Jellis,2,1,0,207,-37.8071,144.88912
+413,Maidstone,1/30 Burns St,3012,Maribyrnong,Western Metropolitan,810000,24/06/2017,Biggin,3,2,2,209,-37.78707,144.87608
+414,Yarraville,96 Hamilton St,3013,Maribyrnong,Western Metropolitan,820000,20/05/2017,Village,2,1,0,211,-37.812,144.8865
+415,Yarraville,24 Goulburn St,3013,Maribyrnong,Western Metropolitan,1225000,3/06/2017,RT,3,1,0,230,-37.81493,144.88974
+416,Yarraville,1/23 Bena St,3013,Maribyrnong,Western Metropolitan,1142000,12/08/2017,Nelson,4,3,2,234,-37.81961,144.88132
+417,Maribyrnong,11 Maireana St,3032,Maribyrnong,Western Metropolitan,1085000,3/06/2017,Biggin,4,2,2,238,-37.7833,144.89717
+418,Maidstone,33 Richelieu St,3012,Maribyrnong,Western Metropolitan,650000,22/07/2017,Sweeney,2,1,2,249,-37.78891,144.87114
+419,Maribyrnong,22 The Grand,3032,Maribyrnong,Western Metropolitan,1510500,27/05/2017,Biggin,4,2,4,251,-37.7839,144.89431
+420,Seddon,14 James St,3011,Maribyrnong,Western Metropolitan,900000,17/06/2017,Sweeney,3,1,1,252,-37.80552,144.88889
+421,Yarraville,1/6 Jepson St,3013,Maribyrnong,Western Metropolitan,1070000,13/05/2017,Jas,3,2,2,257,-37.813,144.8703
+422,Maidstone,3/83 Mitchell St,3012,Maribyrnong,Western Metropolitan,895000,1/07/2017,Rendina,3,2,2,262,-37.78284,144.88098
+423,Yarraville,2 Adeney St,3013,Maribyrnong,Western Metropolitan,750000,29/07/2017,hockingstuart,2,1,2,269,-37.81649,144.86731
+424,West Footscray,16 Market St,3012,Maribyrnong,Western Metropolitan,850000,22/07/2017,Jas,3,1,2,269,-37.79638,144.87911
+425,Kingsville,182 Williamstown Rd,3012,Maribyrnong,Western Metropolitan,900000,12/08/2017,Jas,3,1,1,275,-37.81167,144.88346
+426,Maidstone,76A Norfolk St,3012,Maribyrnong,Western Metropolitan,650000,15/07/2017,Jas,2,2,1,279,-37.78799,144.87515
+427,Kingsville,48 Coronation St,3012,Maribyrnong,Western Metropolitan,1020000,1/07/2017,Village,3,1,0,281,-37.80781,144.88083
+428,Yarraville,62 Stephen St,3013,Maribyrnong,Western Metropolitan,1285000,8/07/2017,Village,3,1,1,284,-37.81335,144.89471
+429,Yarraville,10 Salisbury St,3013,Maribyrnong,Western Metropolitan,950000,29/04/2017,Sweeney,3,2,2,287,-37.8233,144.8825
+430,Maidstone,2/166 Mitchell St,3012,Maribyrnong,Western Metropolitan,821000,29/07/2017,Jas,4,3,2,294,-37.78133,144.86768
+431,Seddon,36 Bayview Rd,3011,Maribyrnong,Western Metropolitan,1085000,24/06/2017,Village,3,1,1,297,-37.80828,144.8856
+432,Braybrook,1 Walker Pl,3019,Maribyrnong,Western Metropolitan,590000,8/07/2017,hockingstuart,2,1,1,304,-37.78341,144.85574
+433,Yarraville,455 Geelong Rd,3013,Maribyrnong,Western Metropolitan,650000,20/05/2017,Village,2,1,2,304,-37.8122,144.8671
+434,Yarraville,2C Castlemaine St,3013,Maribyrnong,Western Metropolitan,1425000,29/04/2017,Jas,3,3,2,305,-37.8149,144.8942
+435,Footscray,36 Southampton St,3011,Maribyrnong,Western Metropolitan,910000,17/06/2017,Sweeney,2,1,0,312,-37.79592,144.88595
+436,Maidstone,18 Pullar St,3012,Maribyrnong,Western Metropolitan,468000,22/07/2017,Burnham,2,1,2,312,-37.78353,144.87233
+437,Footscray,16 Creswick St,3011,Maribyrnong,Western Metropolitan,900000,22/07/2017,Sweeney,3,1,3,312,-37.79334,144.89128
+438,Footscray,27 Leander St,3011,Maribyrnong,Western Metropolitan,991000,15/07/2017,Village,2,1,1,318,-37.79529,144.88453
+439,West Footscray,18 Molesworth Ct,3012,Maribyrnong,Western Metropolitan,1276000,12/08/2017,Jas,4,2,1,323,-37.79429,144.87412
+440,Yarraville,46 MacKay St,3013,Maribyrnong,Western Metropolitan,1455000,29/04/2017,Village,4,1,1,328,-37.8097,144.8906
+441,Kingsville,69 Chirnside St,3012,Maribyrnong,Western Metropolitan,1180000,3/06/2017,Jas,3,1,1,335,-37.80742,144.88297
+442,West Footscray,6 Argyle St,3012,Maribyrnong,Western Metropolitan,1155000,3/06/2017,Village,3,2,1,342,-37.79369,144.87511
+443,Maribyrnong,13 Cedar Dr,3032,Maribyrnong,Western Metropolitan,1200000,12/08/2017,Biggin,3,2,2,352,-37.77413,144.87533
+444,Yarraville,183 Stephen St,3013,Maribyrnong,Western Metropolitan,970000,20/05/2017,Raine,3,2,0,354,-37.8212,144.8937
+445,Yarraville,86 Francis St,3013,Maribyrnong,Western Metropolitan,1042000,15/07/2017,Jas,3,1,1,358,-37.82116,144.89181
+446,Maribyrnong,2/10 Pridham St,3032,Maribyrnong,Western Metropolitan,940000,12/08/2017,Biggin,3,2,2,366,-37.7816,144.88999
+447,West Footscray,24 Hope St,3012,Maribyrnong,Western Metropolitan,876000,1/07/2017,Biggin,2,1,1,369,-37.79205,144.87142
+448,West Footscray,243 Essex St,3012,Maribyrnong,Western Metropolitan,749000,24/06/2017,Jas,2,1,1,369,-37.79221,144.86408
+449,West Footscray,22 Hope St,3012,Maribyrnong,Western Metropolitan,1100000,3/06/2017,Biggin,3,2,3,380,-37.79194,144.87144
+450,Yarraville,26 Buninyong St,3013,Maribyrnong,Western Metropolitan,1370000,20/05/2017,Greg,3,2,2,389,-37.8181,144.8882
+451,Footscray,7 Batman St,3011,Maribyrnong,Western Metropolitan,1100000,27/05/2017,Burnham,3,1,0,390,-37.79977,144.88887
+452,Yarraville,292 Hyde St,3013,Maribyrnong,Western Metropolitan,750000,20/05/2017,McGrath,3,2,1,390,-37.8227,144.8955
+453,Yarraville,56 Severn St,3013,Maribyrnong,Western Metropolitan,1190000,27/05/2017,Jas,4,1,2,405,-37.81611,144.87945
+454,Maidstone,1 Gilda St,3012,Maribyrnong,Western Metropolitan,793000,27/05/2017,hockingstuart,3,1,2,417,-37.78867,144.87397
+455,Maidstone,35 Lindenow St,3012,Maribyrnong,Western Metropolitan,876000,8/07/2017,Biggin,3,1,2,420,-37.77915,144.88137
+456,West Footscray,15 Alberta St,3012,Maribyrnong,Western Metropolitan,845000,1/07/2017,Jas,3,1,2,422,-37.79644,144.86388
+457,Yarraville,12 Montague St,3013,Maribyrnong,Western Metropolitan,1230000,15/07/2017,Jas,3,1,2,433,-37.81183,144.88569
+458,Yarraville,87 Ballard St,3013,Maribyrnong,Western Metropolitan,1000000,1/07/2017,Village,4,2,2,438,-37.81789,144.86744
+459,Yarraville,17 Adeney St,3013,Maribyrnong,Western Metropolitan,982500,15/07/2017,Village,3,2,2,444,-37.81662,144.866
+460,Yarraville,1 Highgate St,3013,Maribyrnong,Western Metropolitan,985500,13/05/2017,Jas,4,1,5,445,-37.8228,144.8769
+461,Yarraville,67 Hawkhurst St,3013,Maribyrnong,Western Metropolitan,1115000,1/07/2017,Village,3,1,2,446,-37.82004,144.87174
+462,Footscray,12 Jerrold St,3011,Maribyrnong,Western Metropolitan,891000,22/07/2017,Sweeney,4,1,3,446,-37.79221,144.89076
+463,Yarraville,30 Freame St,3013,Maribyrnong,Western Metropolitan,1407000,22/07/2017,Village,4,2,2,446,-37.81845,144.87464
+464,West Footscray,27 Wellington St,3012,Maribyrnong,Western Metropolitan,915000,22/07/2017,Jas,3,1,2,447,-37.792,144.86856
+465,Yarraville,260 Francis St,3013,Maribyrnong,Western Metropolitan,892000,13/05/2017,Village,3,1,2,449,-37.8195,144.8766
+466,Yarraville,220 Roberts St,3013,Maribyrnong,Western Metropolitan,1005000,15/07/2017,Jas,3,1,2,451,-37.81796,144.8681
+467,Seddon,124 Albert St,3011,Maribyrnong,Western Metropolitan,1870000,12/08/2017,Jas,4,2,2,457,-37.80803,144.89601
+468,West Footscray,41 Dongola Rd,3012,Maribyrnong,Western Metropolitan,955000,15/07/2017,Jas,4,1,3,459,-37.79433,144.88001
+469,Yarraville,61 Eirene St,3013,Maribyrnong,Western Metropolitan,900000,22/07/2017,Sweeney,2,1,3,463,-37.82333,144.87955
+470,Yarraville,42 Wilkins St,3013,Maribyrnong,Western Metropolitan,1035000,17/06/2017,Jas,4,2,3,463,-37.81869,144.8726
+471,Yarraville,33 Bromyard St,3013,Maribyrnong,Western Metropolitan,1035000,20/05/2017,Sweeney,2,1,3,469,-37.8184,144.872
+472,Maidstone,7 Churchill Av,3012,Maribyrnong,Western Metropolitan,681000,22/07/2017,Biggin,3,1,2,523,-37.78242,144.86955
+473,Yarraville,66 Drew St,3013,Maribyrnong,Western Metropolitan,1256000,22/04/2017,hockingstuart,2,1,3,531,-37.8158,144.8707
+474,Maidstone,20 Jackson St,3012,Maribyrnong,Western Metropolitan,930000,15/07/2017,Jas,3,1,4,545,-37.78571,144.87346
+475,Maribyrnong,6 Clyde St,3032,Maribyrnong,Western Metropolitan,1050000,1/07/2017,Brad,3,2,1,563,-37.769,144.89934
+476,Braybrook,15 Myalla St,3019,Maribyrnong,Western Metropolitan,570000,24/06/2017,Sweeney,2,1,2,567,-37.7877,144.84757
+477,Maribyrnong,29 Monash St,3032,Maribyrnong,Western Metropolitan,920000,24/06/2017,Biggin,2,1,1,575,-37.78446,144.88781
+478,West Footscray,24 Elphinstone St,3012,Maribyrnong,Western Metropolitan,1300000,29/07/2017,Jas,4,2,2,588,-37.79458,144.87271
+479,Braybrook,35 Carlton St,3019,Maribyrnong,Western Metropolitan,800000,29/07/2017,Biggin,3,1,2,591,-37.78062,144.84803
+480,Yarraville,54 Tongue St,3013,Maribyrnong,Western Metropolitan,2035000,8/04/2017,Jas,4,2,0,607,-37.8128,144.8905
+481,Braybrook,10 Menzies St,3019,Maribyrnong,Western Metropolitan,760000,8/07/2017,Biggin,5,2,2,622,-37.78207,144.85342
+482,Braybrook,15 McLennan St,3019,Maribyrnong,Western Metropolitan,810000,24/06/2017,GL,3,1,2,649,-37.78261,144.84954
+483,Maidstone,12 Inkerman St,3012,Maribyrnong,Western Metropolitan,1005000,22/07/2017,Sweeney,3,1,5,653,-37.78639,144.88214
+484,Yarraville,72 Bishop St,3013,Maribyrnong,Western Metropolitan,1240000,1/07/2017,Jas,3,3,6,668,-37.81381,144.87438
+485,Yarraville,72 Bishop St,3013,Maribyrnong,Western Metropolitan,1400000,15/07/2017,Jas,3,3,6,668,-37.81381,144.87438
+486,Maidstone,15 Havelock St,3012,Maribyrnong,Western Metropolitan,1170000,15/07/2017,Biggin,2,1,2,686,-37.78493,144.87968
+487,Braybrook,14 Enderby Ct,3019,Maribyrnong,Western Metropolitan,797000,8/07/2017,Douglas,3,1,2,694,-37.79382,144.85107
+488,Maribyrnong,8 Mitchell St,3032,Maribyrnong,Western Metropolitan,1340000,8/07/2017,hockingstuart,4,1,3,697,-37.78352,144.88981
+489,Yarraville,39 Benbow St,3013,Maribyrnong,Western Metropolitan,1100000,12/08/2017,Sweeney,3,1,6,732,-37.82252,144.87718
+490,Maribyrnong,6/82 Raleigh Rd,3032,Maribyrnong,Western Metropolitan,301000,17/06/2017,Frank,1,1,1,887,-37.76878,144.89197
+491,Footscray,9/3 Gordon St,3011,Maribyrnong,Western Metropolitan,240000,17/06/2017,Trimson,1,1,1,1015,-37.78778,144.89037
+492,Yarraville,54 Pentland Pde,3013,Maribyrnong,Western Metropolitan,2450000,29/07/2017,Village,6,3,2,1087,-37.81038,144.89389
+493,West Footscray,8/102 Cross St,3012,Maribyrnong,Western Metropolitan,480000,3/06/2017,Jas,2,1,1,1157,-37.80029,144.87859
+494,Footscray,107/250 Barkly St,3011,Maribyrnong,Western Metropolitan,430000,22/07/2017,McGrath,2,1,1,1909,-37.79919,144.89607
+495,Maidstone,14/4 Crefden St,3012,Maribyrnong,Western Metropolitan,280000,1/07/2017,McGrath,1,1,1,3826,-37.77757,144.87232
+496,Footscray,1 Swallow La,3011,Maribyrnong,Western Metropolitan,605000,3/06/2017,Rendina,3,1,2,4096,-37.8021,144.9075
+497,Maribyrnong,18/4 Wests Rd,3032,Maribyrnong,Western Metropolitan,353000,27/05/2017,Biggin,2,1,1,4977,-37.77367,144.88161
+498,Maribyrnong,2/6 Horizon Dr,3032,Maribyrnong,Western Metropolitan,585000,3/06/2017,Brad,2,2,2,37000,-37.77518,144.89254
+499,West Melbourne,8/115 Stanley St,3003,Melbourne,Northern Metropolitan,800000,6/08/2016,Nelson,2,2,2,54,-37.8094,144.9479
+500,Carlton,22 Faraday St,3053,Melbourne,Northern Metropolitan,1460000,4/03/2017,Nelson,2,1,0,99,-37.7992,144.9738
+501,Carlton,254 Faraday St,3053,Melbourne,Northern Metropolitan,1590000,7/05/2016,Woodards,3,2,2,100,-37.7983,144.9655
+502,West Melbourne,6/40 Batman St,3003,Melbourne,Northern Metropolitan,1130000,18/06/2016,Caine,3,2,2,116,-37.8102,144.9515
+503,Carlton,83 Princes St,3053,Melbourne,Northern Metropolitan,720000,7/05/2016,hockingstuart,2,1,1,117,-37.793,144.9728
+504,Carlton,40 Carlton St,3053,Melbourne,Northern Metropolitan,1662000,7/05/2016,Nelson,3,1,0,118,-37.8009,144.9729
+505,Southbank,85 Montague St,3006,Melbourne,Southern Metropolitan,700000,18/06/2016,Cayzer,3,1,0,199,-37.8299,144.9496
+506,West Melbourne,96 Roden St,3003,Melbourne,Northern Metropolitan,2370000,4/06/2016,Alexkarbon,3,3,2,265,-37.8073,144.9481
+507,West Melbourne,44 Miller St,3003,Melbourne,Northern Metropolitan,2100000,28/05/2016,Brad,4,1,0,440,-37.8056,144.9463
+508,West Melbourne,115 Abbotsford St,3003,Melbourne,Northern Metropolitan,1260000,4/06/2016,Alexkarbon,3,3,2,506,-37.805,144.9448
+509,Southbank,75/285 City Rd,3006,Melbourne,Southern Metropolitan,370000,30/07/2016,Dingle,1,1,1,546,-37.8274,144.9587
+510,West Melbourne,209/5 Stawell St,3003,Melbourne,Northern Metropolitan,443000,24/09/2016,Nelson,1,1,1,547,-37.806,144.942
+511,West Melbourne,7/88 Ireland St,3003,Melbourne,Northern Metropolitan,1120000,25/02/2017,Jellis,3,3,1,801,-37.8067,144.9435
+512,Southbank,909/118 Kavanagh St,3006,Melbourne,Southern Metropolitan,430000,12/11/2016,Dingle,2,2,0,2295,-37.8256,144.9622
+513,Southbank,601/65 Coventry St,3006,Melbourne,Southern Metropolitan,622500,22/05/2016,hockingstuart,2,2,1,2955,-37.8299,144.9679
+514,Carlton,46/121 Rathdowne St,3053,Melbourne,Northern Metropolitan,735000,3/12/2016,Woodards,3,1,2,3455,-37.8042,144.9691
+515,Southbank,406/152 Sturt St,3006,Melbourne,Southern Metropolitan,480000,14/05/2016,Greg,1,1,1,3878,-37.8255,144.9665
+516,Essendon,4/18 Shaftesbury St,3040,Moonee Valley,Western Metropolitan,280000,27/05/2017,Frank,1,1,1,28,-37.75209,144.92255
+517,Essendon West,2 Diamond St,3040,Moonee Valley,Western Metropolitan,1406000,13/05/2017,Nelson,3,1,1,34,-37.7506,144.8891
+518,Essendon,1/5 Thistle St,3040,Moonee Valley,Western Metropolitan,350000,22/04/2017,Jellis,1,1,1,46,-37.7515,144.9125
+519,Keilor East,12 Hilltop Ct,3033,Moonee Valley,Western Metropolitan,570000,29/04/2017,Nelson,2,2,2,55,-37.7388,144.8767
+520,Essendon,4/11 Stanley St,3040,Moonee Valley,Western Metropolitan,426500,29/04/2017,Brad,1,1,1,62,-37.7578,144.9134
+521,Keilor East,18 Grandvalley Dr,3033,Moonee Valley,Western Metropolitan,520000,1/07/2017,Whiting,2,2,2,62,-37.73893,144.87661
+522,Essendon North,5/15 Bulla Rd,3041,Moonee Valley,Western Metropolitan,415500,22/04/2017,Nelson,2,1,1,82,-37.743,144.9084
+523,Essendon North,5/8 Keam St,3041,Moonee Valley,Western Metropolitan,445000,27/05/2017,Barry,2,1,1,92,-37.7388,144.89984
+524,Moonee Ponds,4/342 Ascot Vale Rd,3039,Moonee Valley,Western Metropolitan,286000,24/06/2017,Nelson,1,1,1,114,-37.76911,144.92472
+525,Airport West,2/80 Hawker St,3042,Moonee Valley,Western Metropolitan,480000,29/04/2017,Barry,2,1,1,128,-37.7216,144.8837
+526,Flemington,14 Clarence St,3031,Moonee Valley,Northern Metropolitan,1000000,8/07/2017,Nelson,2,1,0,132,-37.78696,144.92556
+527,Essendon,3/222 Pascoe Vale Rd,3040,Moonee Valley,Western Metropolitan,600000,24/06/2017,Barry,2,1,1,132,-37.75344,144.92616
+528,Essendon,1/10 Schofield St,3040,Moonee Valley,Western Metropolitan,786000,3/06/2017,Nelson,3,2,1,138,-37.75284,144.90975
+529,Flemington,54 Princes St,3031,Moonee Valley,Northern Metropolitan,917000,29/04/2017,Jellis,3,1,0,143,-37.7868,144.9336
+530,Airport West,2/19 Hart St,3042,Moonee Valley,Western Metropolitan,737500,24/06/2017,Brad,3,2,2,143,-37.72967,144.88835
+531,Essendon North,2/9 McCulloch St,3041,Moonee Valley,Western Metropolitan,785000,15/07/2017,Nelson,2,1,2,145,-37.73993,144.90271
+532,Essendon West,7 Garnet St,3040,Moonee Valley,Western Metropolitan,1305000,20/05/2017,Gunn&Co,3,1,2,147,-37.7523,144.8862
+533,Ascot Vale,75B Bloomfield Rd,3032,Moonee Valley,Western Metropolitan,1010000,24/06/2017,Brad,3,2,1,150,-37.77639,144.91666
+534,Ascot Vale,2/41 Sandown Rd,3032,Moonee Valley,Western Metropolitan,855000,22/07/2017,Alexkarbon,3,1,2,159,-37.78329,144.91842
+535,Essendon North,2/9 Grace St,3041,Moonee Valley,Western Metropolitan,800000,17/06/2017,Frank,3,2,1,161,-37.73566,144.89368
+536,Keilor East,87A Wyong St,3033,Moonee Valley,Western Metropolitan,635000,8/04/2017,Nelson,3,2,1,162,-37.7308,144.8664
+537,Keilor East,1/74 Parkside Av,3033,Moonee Valley,Western Metropolitan,518500,12/08/2017,Nelson,3,1,1,165,-37.74182,144.85498
+538,Ascot Vale,11 Milton St,3032,Moonee Valley,Western Metropolitan,1400000,17/06/2017,Nelson,4,1,3,165,-37.77352,144.92188
+539,Ascot Vale,103b Maribyrnong Rd,3032,Moonee Valley,Western Metropolitan,819000,24/06/2017,Nelson,3,2,1,166,-37.7719,144.91565
+540,Niddrie,2/34 Haldane Rd,3042,Moonee Valley,Western Metropolitan,510000,20/05/2017,Barry,2,1,1,167,-37.7343,144.8824
+541,Airport West,3/26 Highridge Cr,3042,Moonee Valley,Western Metropolitan,670000,8/07/2017,Nelson,3,1,2,169,-37.72752,144.88358
+542,Moonee Ponds,11A Murray St,3039,Moonee Valley,Western Metropolitan,1100000,13/05/2017,Nelson,3,2,1,169,-37.7595,144.9255
+543,Moonee Ponds,53 Derby St,3039,Moonee Valley,Western Metropolitan,951000,15/07/2017,Nelson,2,1,1,172,-37.7638,144.9089
+544,Essendon North,3/26 Renown St,3041,Moonee Valley,Western Metropolitan,685000,17/06/2017,Nelson,2,1,1,173,-37.73746,144.90079
+545,Essendon,1B Ogilvie St,3040,Moonee Valley,Western Metropolitan,886000,27/05/2017,Nelson,3,2,1,173,-37.75382,144.89167
+546,Essendon North,3 Madden St,3041,Moonee Valley,Western Metropolitan,810000,20/05/2017,Pagan,2,2,1,175,-37.7417,144.9079
+547,Essendon,1/7 Mary St,3040,Moonee Valley,Western Metropolitan,830000,27/05/2017,Nelson,3,2,1,176,-37.74936,144.89669
+548,Essendon,1/8 Graves St,3040,Moonee Valley,Western Metropolitan,864000,1/07/2017,Brad,3,1,2,177,-37.7401,144.89674
+549,Niddrie,1/27 Pearl St,3042,Moonee Valley,Western Metropolitan,715000,27/05/2017,Frank,3,1,1,178,-37.74731,144.88826
+550,Essendon,4/31 Cooper St,3040,Moonee Valley,Western Metropolitan,707000,22/04/2017,Nelson,2,1,1,179,-37.7514,144.8966
+551,Flemington,8 John St,3031,Moonee Valley,Northern Metropolitan,990000,27/05/2017,Nelson,2,1,1,180,-37.7839,144.92727
+552,Flemington,8A John St,3031,Moonee Valley,Northern Metropolitan,1085000,22/04/2017,Nelson,3,1,1,180,-37.7839,144.9273
+553,Airport West,6/6 Etzel St,3042,Moonee Valley,Western Metropolitan,454000,22/07/2017,Nelson,2,1,1,182,-37.72158,144.8801
+554,Strathmore,2/30 Bulla Rd,3041,Moonee Valley,Western Metropolitan,646000,1/07/2017,Nelson,2,1,1,184,-37.7404,144.90835
+555,Flemington,90 Bryant St,3031,Moonee Valley,Northern Metropolitan,1100000,6/05/2017,Nelson,2,1,1,186,-37.7837,144.9338
+556,Essendon,1/143 Bradshaw St,3040,Moonee Valley,Western Metropolitan,762000,3/06/2017,Brad,2,1,1,195,-37.74125,144.89502
+557,Airport West,10A Coniston Av,3042,Moonee Valley,Western Metropolitan,780000,29/07/2017,RE,3,2,1,195,-37.7325,144.88272
+558,Ascot Vale,18 McCully St,3032,Moonee Valley,Western Metropolitan,990000,24/06/2017,Brad,3,1,0,196,-37.77552,144.92022
+559,Ascot Vale,18A Middle St,3032,Moonee Valley,Western Metropolitan,1200000,24/06/2017,Jellis,3,2,2,198,-37.7771,144.92793
+560,Ascot Vale,37 Roxburgh St,3032,Moonee Valley,Western Metropolitan,1306000,15/07/2017,Jellis,3,1,0,199,-37.77561,144.91695
+561,Niddrie,1/79 Coghlan St,3042,Moonee Valley,Western Metropolitan,800000,29/04/2017,Barry,3,2,2,202,-37.7418,144.8833
+562,Flemington,23 Waltham St,3031,Moonee Valley,Northern Metropolitan,1290000,3/06/2017,hockingstuart,4,2,0,202,-37.78358,144.92927
+563,Essendon,24 Butler St,3040,Moonee Valley,Western Metropolitan,1025000,3/06/2017,Nelson,3,2,2,203,-37.75582,144.91061
+564,Avondale Heights,12a Doyle St,3034,Moonee Valley,Western Metropolitan,622000,1/07/2017,Moonee,3,1,1,204,-37.76215,144.85986
+565,Essendon,1/10 Winifred St,3040,Moonee Valley,Western Metropolitan,850000,27/05/2017,Purplebricks,3,2,2,204,-37.74487,144.91194
+566,Flemington,121 Princes St,3031,Moonee Valley,Northern Metropolitan,1060000,29/04/2017,Nelson,2,1,0,209,-37.7846,144.9347
+567,Strathmore,77 Hillsyde Pde,3041,Moonee Valley,Western Metropolitan,790000,3/06/2017,Considine,2,2,1,213,-37.73519,144.92374
+568,Essendon,20 Butler St,3040,Moonee Valley,Western Metropolitan,1000000,8/07/2017,Nelson,3,2,2,213,-37.74635,144.9229
+569,Ascot Vale,30 Milton St,3032,Moonee Valley,Western Metropolitan,865000,27/05/2017,Nelson,3,1,0,217,-37.77391,144.92151
+570,Airport West,118 Marshall Rd,3042,Moonee Valley,Western Metropolitan,640000,1/07/2017,Nelson,3,1,2,219,-37.71655,144.88155
+571,Keilor East,3/50 Berembong Dr,3033,Moonee Valley,Western Metropolitan,490000,13/05/2017,hockingstuart,2,1,2,220,-37.7346,144.8584
+572,Ascot Vale,21 Walter St,3032,Moonee Valley,Western Metropolitan,1130000,8/07/2017,Brad,2,1,1,222,-37.77182,144.90524
+573,Essendon,116 Ogilvie St,3040,Moonee Valley,Western Metropolitan,930000,24/06/2017,Brad,3,2,1,223,-37.74566,144.89346
+574,Keilor East,1/77 Lincoln Dr,3033,Moonee Valley,Western Metropolitan,745000,20/05/2017,Barry,3,2,1,224,-37.7426,144.868
+575,Flemington,10 Dartford St,3031,Moonee Valley,Northern Metropolitan,1250000,6/05/2017,McDonald,3,2,2,226,-37.7824,144.9243
+576,Essendon,27 McPhail St,3040,Moonee Valley,Western Metropolitan,1315000,29/07/2017,Barry,3,3,1,226,-37.75485,144.9119
+577,Essendon,3/48 Deakin St,3040,Moonee Valley,Western Metropolitan,700000,22/04/2017,Nelson,3,1,1,227,-37.7496,144.892
+578,Essendon,5A Overman Ct,3040,Moonee Valley,Western Metropolitan,1162500,20/05/2017,Nelson,4,2,1,230,-37.7547,144.9239
+579,Moonee Ponds,6A McPherson St,3039,Moonee Valley,Western Metropolitan,1070000,20/05/2017,Nelson,3,1,2,231,-37.7616,144.9284
+580,Moonee Ponds,118 Athol St,3039,Moonee Valley,Western Metropolitan,1090000,3/06/2017,McDonald,2,1,0,233,-37.76919,144.91186
+581,Moonee Ponds,59 Margaret St,3039,Moonee Valley,Western Metropolitan,1245000,29/07/2017,McDonald,3,1,0,234,-37.76321,144.91958
+582,Ascot Vale,20 Kent St,3032,Moonee Valley,Western Metropolitan,920000,15/07/2017,Nelson,2,2,0,234,-37.78052,144.93002
+583,Essendon West,6 Bourke St,3040,Moonee Valley,Western Metropolitan,750000,1/07/2017,Brad,3,1,1,236,-37.75403,144.8867
+584,Airport West,18a Creswell Av,3042,Moonee Valley,Western Metropolitan,700000,12/08/2017,Barry,3,2,1,239,-37.73351,144.88749
+585,Ascot Vale,97 The Crescent,3032,Moonee Valley,Western Metropolitan,1100000,24/06/2017,hockingstuart,3,2,2,239,-37.77263,144.92045
+586,Airport West,18A Hart St,3042,Moonee Valley,Western Metropolitan,730000,17/06/2017,Brad,3,1,2,242,-37.72893,144.88859
+587,Moonee Ponds,26 Scotia St,3039,Moonee Valley,Western Metropolitan,760000,3/06/2017,Barry,2,1,0,251,-37.76856,144.90577
+588,Essendon,4a Mary St,3040,Moonee Valley,Western Metropolitan,700000,13/05/2017,Barry,2,1,1,251,-37.7491,144.8968
+589,Flemington,75 Farnham St,3031,Moonee Valley,Northern Metropolitan,1205000,22/04/2017,Nelson,3,1,0,251,-37.7823,144.9317
+590,Ascot Vale,91A Walter St,3032,Moonee Valley,Western Metropolitan,1082000,27/05/2017,Nelson,3,2,2,254,-37.77549,144.90865
+591,Airport West,44 Moorna Dr,3042,Moonee Valley,Western Metropolitan,950000,12/08/2017,Barry,4,2,1,255,-37.72572,144.86848
+592,Essendon,16 Glass St,3040,Moonee Valley,Western Metropolitan,1100000,17/06/2017,Brad,3,3,2,255,-37.7468,144.92033
+593,Moonee Ponds,33A Vine St,3039,Moonee Valley,Western Metropolitan,1410000,29/04/2017,Nelson,3,3,2,256,-37.7685,144.9294
+594,Ascot Vale,39 Middle St,3032,Moonee Valley,Western Metropolitan,1530000,27/05/2017,Nelson,3,2,1,257,-37.77727,144.92655
+595,Essendon,1 Daisy St,3040,Moonee Valley,Western Metropolitan,1360000,3/06/2017,Jellis,4,2,1,267,-37.75472,144.92723
+596,Moonee Ponds,59 Robinson St,3039,Moonee Valley,Western Metropolitan,1020000,1/07/2017,Jellis,2,1,1,269,-37.75782,144.92088
+597,Niddrie,64 Muriel St,3042,Moonee Valley,Western Metropolitan,1006000,22/07/2017,Brad,4,2,1,270,-37.74266,144.88577
+598,Ascot Vale,29 Doncaster St,3032,Moonee Valley,Western Metropolitan,1185000,29/07/2017,Barry,3,2,2,271,-37.7783,144.90876
+599,Moonee Ponds,20 Huntly St,3039,Moonee Valley,Western Metropolitan,970000,20/05/2017,Nelson,2,1,2,272,-37.7641,144.9073
+600,Flemington,84 Canterbury St,3031,Moonee Valley,Northern Metropolitan,953000,8/04/2017,Biggin,2,1,0,274,-37.7813,144.9238
+601,Moonee Ponds,65 Darling St,3039,Moonee Valley,Western Metropolitan,1240000,29/04/2017,McDonald,3,2,2,275,-37.767,144.9108
+602,Essendon,27 Miller St,3040,Moonee Valley,Western Metropolitan,1320000,3/06/2017,Rendina,3,2,1,276,-37.75126,144.89558
+603,Moonee Ponds,38 Bent St,3039,Moonee Valley,Western Metropolitan,1060000,12/08/2017,Nelson,2,1,1,283,-37.76218,144.92886
+604,Keilor East,20A Etka Av,3033,Moonee Valley,Western Metropolitan,1022000,12/08/2017,Nelson,4,2,2,284,-37.73574,144.87014
+605,Strathmore,1/351 Napier St,3041,Moonee Valley,Western Metropolitan,750000,8/07/2017,Nelson,3,2,2,288,-37.73415,144.91852
+606,Travancore,112 Baroda St,3032,Moonee Valley,Western Metropolitan,2070000,12/08/2017,Nelson,4,3,2,291,-37.77784,144.93482
+607,Essendon,129 Deakin St,3040,Moonee Valley,Western Metropolitan,1002000,29/07/2017,Nelson,3,2,2,292,-37.74093,144.89279
+608,Flemington,25 Elm St,3031,Moonee Valley,Northern Metropolitan,1220000,12/08/2017,Nelson,3,1,1,293,-37.78446,144.92797
+609,Niddrie,21 Ryder St,3042,Moonee Valley,Western Metropolitan,810000,8/04/2017,Barry,3,2,1,297,-37.738,144.8865
+610,Airport West,127A Parer Rd,3042,Moonee Valley,Western Metropolitan,856000,27/05/2017,Barry,3,2,1,300,-37.71917,144.87819
+611,Keilor East,28 Nyah St,3033,Moonee Valley,Western Metropolitan,777000,22/07/2017,Brad,3,2,1,300,-37.73421,144.86832
+612,Flemington,139 Victoria St,3031,Moonee Valley,Northern Metropolitan,1340000,24/06/2017,Nelson,4,2,1,302,-37.7845,144.93582
+613,Strathmore,47 York St,3041,Moonee Valley,Western Metropolitan,1016000,12/08/2017,Considine,3,2,1,304,-37.73456,144.91521
+614,Airport West,33 Green St,3042,Moonee Valley,Western Metropolitan,720000,8/04/2017,Brad,3,2,2,305,-37.7284,144.8874
+615,Airport West,2b Roberts Rd,3042,Moonee Valley,Western Metropolitan,850000,3/06/2017,Barry,3,2,1,307,-37.72649,144.88489
+616,Essendon,98A Hoffmans Rd,3040,Moonee Valley,Western Metropolitan,983000,20/05/2017,Rendina,3,3,2,309,-37.7457,144.8912
+617,Moonee Ponds,75 Bowen St,3039,Moonee Valley,Western Metropolitan,1040000,8/04/2017,Nelson,2,1,2,313,-37.7663,144.9098
+618,Keilor East,54 David Av,3033,Moonee Valley,Western Metropolitan,920000,15/07/2017,Nelson,3,2,1,313,-37.74214,144.86965
+619,Ascot Vale,67 The Parade,3032,Moonee Valley,Western Metropolitan,1035000,22/07/2017,Alexkarbon,2,1,1,319,-37.77266,144.9131
+620,Flemington,143 Victoria St,3031,Moonee Valley,Northern Metropolitan,940000,8/04/2017,hockingstuart,3,1,1,320,-37.7844,144.9359
+621,Essendon,48 Fitzgerald Rd,3040,Moonee Valley,Western Metropolitan,900000,3/06/2017,Nelson,3,1,1,324,-37.7525,144.90417
+622,Niddrie,45 Muriel St,3042,Moonee Valley,Western Metropolitan,1230000,12/08/2017,Barry,3,2,1,324,-37.7431,144.88722
+623,Travancore,1/15 Flemington St,3032,Moonee Valley,Western Metropolitan,856000,24/06/2017,Nelson,2,1,2,326,-37.78281,144.93567
+624,Ascot Vale,29 Myrnong Cr,3032,Moonee Valley,Western Metropolitan,1250000,12/08/2017,Jellis,3,1,1,327,-37.77659,144.9338
+625,Keilor East,3A Warren Ct,3033,Moonee Valley,Western Metropolitan,710000,8/07/2017,Barry,4,2,1,330,-37.74165,144.86279
+626,Essendon,37 McPhail St,3040,Moonee Valley,Western Metropolitan,1195000,17/06/2017,Jellis,2,1,1,337,-37.7545,144.91194
+627,Avondale Heights,7A Downland Sq,3034,Moonee Valley,Western Metropolitan,773000,24/06/2017,Moonee,4,2,2,344,-37.75861,144.86687
+628,Ascot Vale,33 Fenton St,3032,Moonee Valley,Western Metropolitan,1750000,17/06/2017,Rendina,4,2,1,360,-37.77459,144.92993
+629,Strathmore,8 Jones Ct,3041,Moonee Valley,Western Metropolitan,1021000,8/04/2017,Considine,3,2,2,371,-37.7229,144.9055
+630,Airport West,163 Halsey Rd,3042,Moonee Valley,Western Metropolitan,650000,27/05/2017,Prime,2,1,3,374,-37.71811,144.87693
+631,Moonee Ponds,90 Bent St,3039,Moonee Valley,Western Metropolitan,1400000,29/07/2017,Hodges,4,2,1,375,-37.76261,144.93249
+632,Ascot Vale,27 Hurtle St,3032,Moonee Valley,Western Metropolitan,1500000,3/06/2017,Biggin,3,3,1,382,-37.77206,144.90397
+633,Essendon,42 Fitzgerald Rd,3040,Moonee Valley,Western Metropolitan,1131000,20/05/2017,Frank,3,1,1,387,-37.755,144.9272
+634,Moonee Ponds,115 Eglinton St,3039,Moonee Valley,Western Metropolitan,1425000,15/07/2017,Jellis,4,2,2,388,-37.7685,144.91103
+635,Essendon,15 Robb St,3040,Moonee Valley,Western Metropolitan,1620000,22/07/2017,Nelson,3,1,1,393,-37.75769,144.91051
+636,Aberfeldie,45 Afton St,3040,Moonee Valley,Western Metropolitan,2050000,22/07/2017,McDonald,3,2,6,402,-37.76027,144.88954
+637,Essendon,2/2 Roberts St,3040,Moonee Valley,Western Metropolitan,960000,22/04/2017,Barry,3,2,1,411,-37.7544,144.8986
+638,Moonee Ponds,79 Ormond Rd,3039,Moonee Valley,Western Metropolitan,940000,8/04/2017,Brad,2,1,2,428,-37.773,144.9332
+639,Moonee Ponds,6 Addison St,3039,Moonee Valley,Western Metropolitan,1810000,1/07/2017,Jellis,4,2,2,431,-37.77019,144.92691
+640,Moonee Ponds,25 George St,3039,Moonee Valley,Western Metropolitan,955000,29/04/2017,Woodards,4,2,3,431,-37.7615,144.9094
+641,Flemington,20 Bryant St,3031,Moonee Valley,Northern Metropolitan,1550000,13/05/2017,Nelson,5,1,1,432,-37.7859,144.9323
+642,Essendon,21 Butler St,3040,Moonee Valley,Western Metropolitan,1325000,1/07/2017,McDonald,3,2,2,441,-37.74664,144.92285
+643,Essendon,13 Gordon St,3040,Moonee Valley,Western Metropolitan,1398000,8/07/2017,Barry,3,2,1,445,-37.75621,144.93401
+644,Moonee Ponds,184 Maribyrnong Rd,3039,Moonee Valley,Western Metropolitan,1375000,24/06/2017,Brad,3,1,1,449,-37.77106,144.91162
+645,Moonee Ponds,27 The Strand,3039,Moonee Valley,Western Metropolitan,1250000,1/07/2017,Nelson,2,1,1,450,-37.76121,144.92525
+646,Moonee Ponds,121 Vine St,3039,Moonee Valley,Western Metropolitan,1302500,13/05/2017,Jellis,2,1,2,455,-37.7692,144.9353
+647,Moonee Ponds,13 Ophir St,3039,Moonee Valley,Western Metropolitan,1350000,13/05/2017,Jellis,2,1,1,459,-37.7589,144.9184
+648,Moonee Ponds,74 Vine St,3039,Moonee Valley,Western Metropolitan,1320000,8/07/2017,McDonald,3,1,2,459,-37.7693,144.93415
+649,Essendon,32 Roberts St,3040,Moonee Valley,Western Metropolitan,1500000,12/08/2017,Nelson,4,2,2,465,-37.75178,144.89876
+650,Essendon,22 Lyon St,3040,Moonee Valley,Western Metropolitan,1200000,24/06/2017,Nelson,2,1,2,470,-37.75225,144.90462
+651,Flemington,1/44 Ascot Vale Rd,3031,Moonee Valley,Northern Metropolitan,390000,22/04/2017,Nelson,2,1,1,472,-37.7851,144.922
+652,Essendon,10 Glen St,3040,Moonee Valley,Western Metropolitan,1400000,20/05/2017,Considine,3,1,1,476,-37.7495,144.9157
+653,Moonee Ponds,102 Waverley St,3039,Moonee Valley,Western Metropolitan,1270000,8/07/2017,Jellis,4,1,3,478,-37.76421,144.90571
+654,Ascot Vale,68 South St,3032,Moonee Valley,Western Metropolitan,1375000,24/06/2017,Brad,3,1,2,483,-37.7777,144.92512
+655,Aberfeldie,18 Valencia St,3040,Moonee Valley,Western Metropolitan,1472000,22/07/2017,Rendina,5,3,2,486,-37.76111,144.89845
+656,Airport West,67 Halsey Rd,3042,Moonee Valley,Western Metropolitan,510000,29/04/2017,Nelson,3,1,1,488,-37.7191,144.8857
+657,Keilor East,44 Granite Wy,3033,Moonee Valley,Western Metropolitan,1100000,15/07/2017,Nelson,4,4,2,500,-37.73573,144.87531
+658,Ascot Vale,54 The Parade,3032,Moonee Valley,Western Metropolitan,1230000,17/06/2017,Woodards,3,1,1,504,-37.77279,144.91732
+659,Moonee Ponds,31 Pattison St,3039,Moonee Valley,Western Metropolitan,1531000,6/05/2017,Rendina,4,2,3,508,-37.7709,144.9338
+660,Essendon,127 Deakin St,3040,Moonee Valley,Western Metropolitan,1280000,12/08/2017,Nelson,2,1,1,512,-37.74121,144.89273
+661,Essendon North,10 Cowper St,3041,Moonee Valley,Western Metropolitan,1291000,8/04/2017,Barry,4,2,2,521,-37.7372,144.9022
+662,Ascot Vale,85 The Parade,3032,Moonee Valley,Western Metropolitan,1310000,22/07/2017,Brad,3,1,2,523,-37.77255,144.91213
+663,Strathmore,221 Mascoma St,3041,Moonee Valley,Western Metropolitan,900000,13/05/2017,Nelson,3,1,2,531,-37.7192,144.9045
+664,Strathmore,186 Mascoma St,3041,Moonee Valley,Western Metropolitan,910000,8/04/2017,Brad,5,2,2,533,-37.7189,144.9044
+665,Keilor East,5 Carey Ct,3033,Moonee Valley,Western Metropolitan,825000,27/05/2017,Barry,3,1,0,534,-37.7444,144.86124
+666,Strathmore,164 Mascoma St,3041,Moonee Valley,Western Metropolitan,883000,24/06/2017,Considine,3,1,1,534,-37.719,144.90634
+667,Keilor East,23 Phillip Rd,3033,Moonee Valley,Western Metropolitan,880000,22/07/2017,Barry,4,1,1,534,-37.74807,144.86927
+668,Airport West,8 Kittyhawk St,3042,Moonee Valley,Western Metropolitan,1026000,3/06/2017,Brad,4,3,2,534,-37.72623,144.86773
+669,Keilor East,12 Cecelia Dr,3033,Moonee Valley,Western Metropolitan,745000,13/05/2017,Nelson,3,1,1,535,-37.7475,144.852
+670,Keilor East,92 Sterling Dr,3033,Moonee Valley,Western Metropolitan,698000,27/05/2017,Nelson,4,2,2,535,-37.74083,144.85545
+671,Avondale Heights,26 Clarendon St,3034,Moonee Valley,Western Metropolitan,665000,22/07/2017,Nelson,4,1,1,538,-37.76518,144.85621
+672,Strathmore,18 Strathaird St,3041,Moonee Valley,Western Metropolitan,810000,6/05/2017,Nelson,4,1,1,543,-37.7199,144.9044
+673,Moonee Ponds,72 Clarinda Rd,3039,Moonee Valley,Western Metropolitan,1420200,20/05/2017,Purplebricks,3,2,2,543,-37.7619,144.9083
+674,Keilor East,52 Prospect Dr,3033,Moonee Valley,Western Metropolitan,738000,13/05/2017,Moonee,3,1,4,546,-37.7486,144.8565
+675,Keilor East,10 Cecelia Dr,3033,Moonee Valley,Western Metropolitan,806000,27/05/2017,Barry,3,2,4,546,-37.74761,144.8521
+676,Moonee Ponds,15 Grandison St,3039,Moonee Valley,Western Metropolitan,1425500,8/07/2017,hockingstuart,1,1,1,552,-37.76075,144.91927
+677,Strathmore,12 Loeman St,3041,Moonee Valley,Western Metropolitan,925000,8/04/2017,Frank,3,3,1,555,-37.7345,144.9228
+678,Aberfeldie,5 Rita St,3040,Moonee Valley,Western Metropolitan,2905000,27/05/2017,Rendina,5,3,2,557,-37.76181,144.89327
+679,Niddrie,42 Newman Cr,3042,Moonee Valley,Western Metropolitan,950000,15/07/2017,Nelson,4,1,2,558,-37.73834,144.88197
+680,Avondale Heights,49 Ridge Dr,3034,Moonee Valley,Western Metropolitan,750000,22/07/2017,Barry,3,1,2,561,-37.7528,144.85585
+681,Niddrie,27 The Avenue,3042,Moonee Valley,Western Metropolitan,1751000,17/06/2017,Barry,4,3,2,564,-37.73666,144.87725
+682,Ascot Vale,13 Victory Pde,3032,Moonee Valley,Western Metropolitan,1370000,27/05/2017,Nelson,3,2,2,566,-37.7801,144.90976
+683,Keilor East,43 The Crossway,3033,Moonee Valley,Western Metropolitan,860000,15/07/2017,Nelson,3,1,1,568,-37.7465,144.8613
+684,Avondale Heights,13 Wood St,3034,Moonee Valley,Western Metropolitan,945000,3/06/2017,Moonee,5,2,1,570,-37.76848,144.86294
+685,Airport West,4 Myrtle Gr,3042,Moonee Valley,Western Metropolitan,905000,24/06/2017,Jellis,3,1,2,573,-37.72908,144.88327
+686,Keilor East,63 Park Dr,3033,Moonee Valley,Western Metropolitan,843000,8/04/2017,Nelson,3,2,4,573,-37.7473,144.8555
+687,Avondale Heights,24 Thompson St,3034,Moonee Valley,Western Metropolitan,835000,27/05/2017,Nelson,4,2,2,573,-37.76272,144.85569
+688,Moonee Ponds,109 Waverley St,3039,Moonee Valley,Western Metropolitan,1515000,8/04/2017,Nelson,4,2,3,574,-37.7644,144.9061
+689,Keilor East,14 Noga Av,3033,Moonee Valley,Western Metropolitan,840000,15/07/2017,Whiting,3,1,2,575,-37.74316,144.87894
+690,Niddrie,13 The Avenue,3042,Moonee Valley,Western Metropolitan,980000,27/05/2017,Nelson,3,1,2,577,-37.73521,144.87709
+691,Avondale Heights,55 Ridge Dr,3034,Moonee Valley,Western Metropolitan,800000,22/07/2017,Barry,5,2,3,577,-37.75261,144.85631
+692,Avondale Heights,9 Thompson St,3034,Moonee Valley,Western Metropolitan,934000,15/07/2017,Moonee,4,2,1,581,-37.76421,144.85594
+693,Avondale Heights,6 Ridley Av,3034,Moonee Valley,Western Metropolitan,720000,8/07/2017,Harcourts,3,1,1,582,-37.76063,144.8603
+694,Avondale Heights,24 Doyle St,3034,Moonee Valley,Western Metropolitan,750000,17/06/2017,Moonee,3,1,1,585,-37.75986,144.85886
+695,Essendon West,384 Buckley St,3040,Moonee Valley,Western Metropolitan,1410000,15/07/2017,Jellis,3,2,1,585,-37.75374,144.88932
+696,Airport West,65 Clydesdale Rd,3042,Moonee Valley,Western Metropolitan,845000,3/06/2017,Barry,3,1,2,589,-37.72207,144.87905
+697,Essendon,75 Deakin St,3040,Moonee Valley,Western Metropolitan,1165000,12/08/2017,Barry,3,1,1,590,-37.74652,144.89178
+698,Essendon,35 Washington St,3040,Moonee Valley,Western Metropolitan,2210000,3/06/2017,Brad,5,3,2,590,-37.75511,144.90935
+699,Airport West,48 Bedford St,3042,Moonee Valley,Western Metropolitan,872500,8/04/2017,Nelson,3,1,1,594,-37.7203,144.8757
+700,Avondale Heights,107 North Rd,3034,Moonee Valley,Western Metropolitan,680000,8/07/2017,FN,3,1,1,596,-37.75718,144.85357
+701,Moonee Ponds,36 Aberfeldie St,3039,Moonee Valley,Western Metropolitan,1850000,3/06/2017,McDonald,3,2,2,596,-37.76086,144.90497
+702,Moonee Ponds,36 Aberfeldie St,3039,Moonee Valley,Western Metropolitan,1850000,17/06/2017,McDonald,3,2,2,596,-37.76086,144.90497
+703,Keilor East,71 Nyah St,3033,Moonee Valley,Western Metropolitan,1005000,8/07/2017,Nelson,5,3,2,596,-37.7305,144.86863
+704,Keilor East,50 Milleara Rd,3033,Moonee Valley,Western Metropolitan,850000,12/08/2017,Barry,3,1,1,597,-37.73305,144.86526
+705,Niddrie,59 Hoffmans Rd,3042,Moonee Valley,Western Metropolitan,944000,13/05/2017,Barry,3,1,2,597,-37.7473,144.8905
+706,Moonee Ponds,119 Park St,3039,Moonee Valley,Western Metropolitan,2300000,13/05/2017,Nelson,5,2,2,597,-37.7611,144.9095
+707,Keilor East,6 Mark St,3033,Moonee Valley,Western Metropolitan,1120000,17/06/2017,Barry,4,2,2,599,-37.73514,144.87144
+708,Avondale Heights,41 Herbert St,3034,Moonee Valley,Western Metropolitan,825000,1/07/2017,McDonald,3,1,4,603,-37.76616,144.8575
+709,Keilor East,68 Nyah St,3033,Moonee Valley,Western Metropolitan,1001000,17/06/2017,Nelson,3,1,2,605,-37.73137,144.86882
+710,Essendon West,36 Emerald St,3040,Moonee Valley,Western Metropolitan,2200000,1/07/2017,Nelson,5,3,2,607,-37.75148,144.88519
+711,Strathmore,78 Bulla Rd,3041,Moonee Valley,Western Metropolitan,2000000,12/08/2017,Nelson,7,3,4,608,-37.73681,144.90587
+712,Essendon,11 Waverley St,3040,Moonee Valley,Western Metropolitan,1155000,17/06/2017,Brad,4,1,3,616,-37.75728,144.90723
+713,Flemington,36 Wellington St,3031,Moonee Valley,Northern Metropolitan,2268000,3/06/2017,Nelson,4,2,2,616,-37.78474,144.9322
+714,Niddrie,13 George St,3042,Moonee Valley,Western Metropolitan,960000,6/05/2017,Nelson,3,1,2,626,-37.7421,144.8851
+715,Essendon,35 Glen St,3040,Moonee Valley,Western Metropolitan,1720000,20/05/2017,Frank,4,2,2,639,-37.7471,144.9157
+716,Aberfeldie,435 Buckley St,3040,Moonee Valley,Western Metropolitan,1210000,24/06/2017,Nelson,3,1,6,645,-37.75418,144.89017
+717,Niddrie,19 Nolan St,3042,Moonee Valley,Western Metropolitan,1300000,17/06/2017,Nelson,3,1,4,646,-37.7415,144.88923
+718,Niddrie,20 Rutland St,3042,Moonee Valley,Western Metropolitan,1405000,29/04/2017,Barry,1,1,0,649,-37.7356,144.8799
+719,Niddrie,13 Hotham Rd,3042,Moonee Valley,Western Metropolitan,1450000,29/04/2017,Barry,3,1,1,650,-37.7368,144.8886
+720,Niddrie,60 Teague St,3042,Moonee Valley,Western Metropolitan,1200000,8/04/2017,Brad,3,1,1,650,-37.7436,144.8856
+721,Niddrie,30 Carrington Rd,3042,Moonee Valley,Western Metropolitan,1312000,6/05/2017,Brad,3,1,1,650,-37.7375,144.8885
+722,Niddrie,35 Spring St,3042,Moonee Valley,Western Metropolitan,1010000,27/05/2017,Barry,4,2,2,650,-37.73327,144.87482
+723,Niddrie,61 Nolan St,3042,Moonee Valley,Western Metropolitan,1337000,3/06/2017,Barry,4,2,2,650,-37.74103,144.88496
+724,Niddrie,48 Ida St,3042,Moonee Valley,Western Metropolitan,1315000,24/06/2017,Barry,4,2,2,650,-37.74549,144.88666
+725,Niddrie,8 Goble St,3042,Moonee Valley,Western Metropolitan,1130000,22/07/2017,Nelson,4,2,2,650,-37.73435,144.8768
+726,Strathmore,1 Lebanon St,3041,Moonee Valley,Western Metropolitan,995000,20/05/2017,Jellis,3,2,3,653,-37.7296,144.9225
+727,Niddrie,13 Haldane Rd,3042,Moonee Valley,Western Metropolitan,935000,6/05/2017,Purplebricks,3,1,2,657,-37.7356,144.8859
+728,Keilor East,17 Janet St,3033,Moonee Valley,Western Metropolitan,912000,20/05/2017,Nelson,3,1,3,660,-37.7466,144.8707
+729,Essendon,25 Hesleden St,3040,Moonee Valley,Western Metropolitan,2050000,12/08/2017,Bullen,5,3,3,663,-37.74351,144.92174
+730,Avondale Heights,132 Templewood Cr,3034,Moonee Valley,Western Metropolitan,1107500,8/07/2017,Nelson,3,3,1,668,-37.75962,144.86675
+731,Keilor East,3 Border Dr,3033,Moonee Valley,Western Metropolitan,918000,22/07/2017,Nelson,3,2,2,669,-37.73936,144.85874
+732,Aberfeldie,5 Aroona Ct,3040,Moonee Valley,Western Metropolitan,1680000,22/07/2017,Raine,3,2,2,673,-37.76316,144.89799
+733,Moonee Ponds,39 Taylor St,3039,Moonee Valley,Western Metropolitan,1225000,12/08/2017,Jellis,3,2,2,674,-37.76389,144.9185
+734,Moonee Ponds,99 Eglinton St,3039,Moonee Valley,Western Metropolitan,1940000,8/04/2017,Frank,4,2,3,675,-37.7686,144.912
+735,Avondale Heights,29 Brentwood Dr,3034,Moonee Valley,Western Metropolitan,820000,8/07/2017,Moonee,3,1,2,680,-37.77178,144.85397
+736,Essendon,6 Fitzgerald Rd,3040,Moonee Valley,Western Metropolitan,1607500,20/05/2017,Barry,5,3,1,695,-37.7577,144.9267
+737,Strathmore,38 Upland Rd,3041,Moonee Valley,Western Metropolitan,1742000,12/08/2017,Barry,3,2,3,697,-37.74057,144.92172
+738,Essendon,3 Crisp St,3040,Moonee Valley,Western Metropolitan,1652000,20/05/2017,Brad,5,2,1,697,-37.7459,144.9159
+739,Strathmore,140 Woodland St,3041,Moonee Valley,Western Metropolitan,1650000,24/06/2017,Trimson,3,3,2,698,-37.74246,144.92074
+740,Strathmore,2 Henshall Rd,3041,Moonee Valley,Western Metropolitan,1780000,3/06/2017,Nelson,5,3,6,699,-37.7377,144.91896
+741,Keilor East,188 Rachelle Rd,3033,Moonee Valley,Western Metropolitan,835000,8/04/2017,Brad,3,2,2,700,-37.7322,144.8722
+742,Strathmore,68 Willonga St,3041,Moonee Valley,Western Metropolitan,1150000,20/05/2017,Brad,5,2,2,702,-37.7253,144.9146
+743,Keilor East,3 Pennington St,3033,Moonee Valley,Western Metropolitan,941000,13/05/2017,Harcourts,3,1,1,703,-37.746,144.8651
+744,Niddrie,4/503 Keilor Rd,3042,Moonee Valley,Western Metropolitan,325000,20/05/2017,Nelson,1,1,1,710,-37.7355,144.8874
+745,Airport West,9 South Rd,3042,Moonee Valley,Western Metropolitan,961000,1/07/2017,Nelson,3,1,2,717,-37.72274,144.88002
+746,Avondale Heights,12 Brentwood Dr,3034,Moonee Valley,Western Metropolitan,1000000,3/06/2017,Barry,3,1,1,723,-37.77222,144.85412
+747,Essendon,103 Woodland St,3040,Moonee Valley,Western Metropolitan,1550000,15/07/2017,Nelson,3,1,1,730,-37.74253,144.91753
+748,Strathmore,10 Fenacre St,3041,Moonee Valley,Western Metropolitan,1220000,22/07/2017,Nelson,4,1,2,750,-37.73051,144.91731
+749,Aberfeldie,241 Buckley St,3040,Moonee Valley,Western Metropolitan,1380000,12/08/2017,Nelson,4,2,2,766,-37.75595,144.90551
+750,Airport West,72 Clydesdale Rd,3042,Moonee Valley,Western Metropolitan,1250000,3/06/2017,Barry,3,1,1,773,-37.72265,144.8793
+751,Avondale Heights,44 Alexander St,3034,Moonee Valley,Western Metropolitan,1085000,17/06/2017,Moonee,2,1,3,780,-37.76654,144.86469
+752,Essendon West,10 Beryl St,3040,Moonee Valley,Western Metropolitan,1390000,24/06/2017,Nelson,3,1,2,793,-37.74944,144.88479
+753,Niddrie,24 The Avenue,3042,Moonee Valley,Western Metropolitan,850000,8/04/2017,Barry,3,2,2,795,-37.736,144.8771
+754,Moonee Ponds,9 Corio St,3039,Moonee Valley,Western Metropolitan,1670000,8/04/2017,Brad,3,2,2,803,-37.7627,144.9047
+755,Essendon North,18 Royal Av,3041,Moonee Valley,Western Metropolitan,1535000,22/07/2017,Jellis,3,1,2,811,-37.7384,144.90485
+756,Keilor East,19 Tuppal Pl,3033,Moonee Valley,Western Metropolitan,885000,29/04/2017,Nelson,4,2,2,814,-37.7317,144.8619
+757,Essendon,61 William St,3040,Moonee Valley,Western Metropolitan,1875000,29/07/2017,Jellis,3,1,2,828,-37.74473,144.90238
+758,Airport West,25 Clydesdale Rd,3042,Moonee Valley,Western Metropolitan,985000,29/04/2017,McDonald,3,1,1,841,-37.7251,144.8785
+759,Essendon,1/8 Glass St,3040,Moonee Valley,Western Metropolitan,310000,20/05/2017,Brad,1,1,1,845,-37.7469,144.9206
+760,Essendon West,36 Ruby St,3040,Moonee Valley,Western Metropolitan,1050000,27/05/2017,Barry,3,3,1,846,-37.75228,144.88429
+761,Essendon,100 Bradshaw St,3040,Moonee Valley,Western Metropolitan,1980000,27/05/2017,Barry,2,1,6,856,-37.74022,144.89557
+762,Strathmore,5 Kilburn St,3041,Moonee Valley,Western Metropolitan,1610000,12/08/2017,Considine,4,3,2,861,-37.73154,144.92243
+763,Essendon,1/18 Balmoral St,3040,Moonee Valley,Western Metropolitan,580000,17/06/2017,Barry,2,1,1,921,-37.74904,144.90668
+764,Essendon,11 Banchory St,3040,Moonee Valley,Western Metropolitan,2165000,12/08/2017,Nelson,4,2,3,951,-37.74997,144.90752
+765,Keilor East,9 Surrey Dr,3033,Moonee Valley,Western Metropolitan,1475000,29/07/2017,Harcourts,4,2,2,988,-37.75166,144.87552
+766,Ascot Vale,1/129 The Parade,3032,Moonee Valley,Western Metropolitan,566000,15/07/2017,Nelson,2,1,1,1017,-37.77226,144.90942
+767,Essendon,1/46 Richardson St,3040,Moonee Valley,Western Metropolitan,550000,29/07/2017,Brad,2,1,1,1032,-37.7498,144.91228
+768,Niddrie,204/4 Hotham Rd,3042,Moonee Valley,Western Metropolitan,500000,29/04/2017,Nelson,3,1,1,1218,-37.736,144.8886
+769,Essendon,106/1020 Mt Alexander Rd,3040,Moonee Valley,Western Metropolitan,720000,24/06/2017,Weda,2,2,2,1523,-37.74999,144.91447
+770,Aberfeldie,6/39 St Kinnord St,3040,Moonee Valley,Western Metropolitan,310000,22/07/2017,Brad,1,1,1,1715,-37.75882,144.9027
+771,Ascot Vale,2/25 Harold St,3032,Moonee Valley,Western Metropolitan,425500,15/07/2017,Brad,2,1,1,1727,-37.77341,144.9013
+772,Essendon,2/31 Leslie Rd,3040,Moonee Valley,Western Metropolitan,485000,17/06/2017,Barry,2,1,1,1856,-37.76,144.91439
+773,Ascot Vale,24/157 Epsom Rd,3032,Moonee Valley,Western Metropolitan,825000,15/07/2017,McDonald,3,2,2,2905,-37.78258,144.91694
+774,Travancore,2115/18 Mt Alexander Rd,3032,Moonee Valley,Western Metropolitan,341500,15/07/2017,McGrath,2,1,1,16000,-37.78466,144.93829
+775,Brunswick,11 William St,3056,Moreland,Northern Metropolitan,705000,27/06/2016,Nelson,3,1,1,55,-37.7611,144.9622
+776,Brunswick West,4/38 Melville Rd,3055,Moreland,Northern Metropolitan,598000,28/05/2016,Nelson,2,1,1,69,-37.766,144.9439
+777,Brunswick,7/117 Albion St,3056,Moreland,Northern Metropolitan,620000,10/12/2016,Harrington,2,2,1,72,-37.7609,144.969
+778,Brunswick West,6/524 Moreland Rd,3055,Moreland,Northern Metropolitan,400000,10/12/2016,Nelson,2,1,1,73,-37.7528,144.9368
+779,Brunswick,2/3 Donald St,3056,Moreland,Northern Metropolitan,680000,4/06/2016,Nelson,3,3,1,81,-37.7575,144.9647
+780,Brunswick,3 Ballarat St,3056,Moreland,Northern Metropolitan,625000,18/06/2016,Jellis,1,1,1,82,-37.7661,144.9614
+781,Brunswick,5/185 Brunswick Rd,3056,Moreland,Northern Metropolitan,860000,7/05/2016,Nelson,4,2,1,95,-37.7772,144.9653
+782,Brunswick,77 Brickworks Dr,3056,Moreland,Northern Metropolitan,815000,18/06/2016,Nelson,3,2,1,99,-37.769,144.953
+783,Brunswick,1/263 Albion St,3056,Moreland,Northern Metropolitan,659500,7/11/2016,Walshe,2,1,1,100,-37.7601,144.9581
+784,Brunswick,2/123 Brunswick Rd,3056,Moreland,Northern Metropolitan,640000,27/06/2016,Walshe,3,2,1,110,-37.7776,144.9691
+785,Brunswick,1/32 Donald St,3056,Moreland,Northern Metropolitan,587000,12/11/2016,Jellis,2,1,1,114,-37.758,144.9667
+786,Coburg,3/262 Reynard St,3058,Moreland,Northern Metropolitan,610000,8/10/2016,Ray,2,2,1,114,-37.7466,144.9482
+787,Brunswick,3/38 Charles St,3056,Moreland,Northern Metropolitan,750000,10/09/2016,Nelson,2,2,1,118,-37.7723,144.9643
+788,Coburg,2/118 Bruce St,3058,Moreland,Northern Metropolitan,640000,10/12/2016,Nelson,3,1,2,119,-37.7403,144.9491
+789,Brunswick West,1/464 Victoria St,3055,Moreland,Northern Metropolitan,735000,24/09/2016,Jellis,2,1,2,120,-37.7659,144.9487
+790,Brunswick,3/5 Evans St,3056,Moreland,Northern Metropolitan,880000,10/12/2016,Dingle,3,2,1,122,-37.7697,144.9649
+791,Coburg,4/44 Victoria St,3058,Moreland,Northern Metropolitan,653000,10/09/2016,Peter,2,1,1,129,-37.7422,144.9606
+792,Brunswick,2/1 Sturrock St,3056,Moreland,Northern Metropolitan,620000,17/09/2016,Brad,2,1,1,135,-37.7583,144.9756
+793,Brunswick,94 Wilson St,3056,Moreland,Northern Metropolitan,800000,23/04/2016,Biggin,2,1,0,137,-37.7745,144.9558
+794,Coburg,8 Watchtower Rd,3058,Moreland,Northern Metropolitan,675000,4/02/2016,Walshe,3,1,2,142,-37.7382,144.973
+795,Brunswick,10 Cliff St,3056,Moreland,Northern Metropolitan,772000,28/08/2016,Collins,1,1,1,147,-37.7643,144.9584
+796,Brunswick,61 Evans St,3056,Moreland,Northern Metropolitan,1105000,11/02/2017,Nelson,2,1,1,147,-37.7702,144.9692
+797,Brunswick,332 Albion St,3056,Moreland,Northern Metropolitan,792000,12/11/2016,Nelson,2,1,1,149,-37.7597,144.9528
+798,Brunswick,157 Albion St,3056,Moreland,Northern Metropolitan,770000,15/10/2016,Nelson,2,1,0,152,-37.7611,144.966
+799,Brunswick,26 Talbot St,3056,Moreland,Northern Metropolitan,860000,22/08/2016,Jellis,2,1,0,153,-37.7657,144.9574
+800,Brunswick,28 Blair St,3056,Moreland,Northern Metropolitan,1100000,10/09/2016,Nelson,2,1,0,153,-37.7705,144.9647
+801,Brunswick,3/30 Heller St,3056,Moreland,Northern Metropolitan,801000,25/02/2017,Jellis,2,2,1,156,-37.7744,144.9498
+802,Brunswick West,2/494 Victoria St,3055,Moreland,Northern Metropolitan,815000,27/06/2016,Ray,3,1,2,157,-37.7652,144.9454
+803,Brunswick,52 Talbot St,3056,Moreland,Northern Metropolitan,755000,30/07/2016,Nelson,2,1,1,159,-37.7656,144.9562
+804,Brunswick,35 Percy St,3056,Moreland,Northern Metropolitan,705000,23/04/2016,Chambers,2,1,1,161,-37.7646,144.9586
+805,Coburg,16 Linda St,3058,Moreland,Northern Metropolitan,953000,6/08/2016,Jellis,2,1,1,170,-37.7508,144.9608
+806,Brunswick,77 Blyth St,3056,Moreland,Northern Metropolitan,950000,6/08/2016,Jellis,3,1,0,170,-37.7661,144.9691
+807,Brunswick West,201 Hope St,3055,Moreland,Northern Metropolitan,711000,16/04/2016,Nelson,2,1,1,177,-37.7619,144.9412
+808,Brunswick,2/18 De Carle St,3056,Moreland,Northern Metropolitan,754000,24/09/2016,Nelson,2,2,1,177,-37.7625,144.9653
+809,Brunswick,3A Austin Tce,3056,Moreland,Northern Metropolitan,810000,11/02/2017,Rendina,3,2,3,177,-37.7609,144.9677
+810,Brunswick,141 Gold St,3056,Moreland,Northern Metropolitan,845500,7/05/2016,Nelson,2,1,1,179,-37.7742,144.9542
+811,Brunswick,143 Gold St,3056,Moreland,Northern Metropolitan,860000,7/05/2016,Nelson,2,1,1,181,-37.7742,144.9541
+812,Brunswick,30 Mountfield St,3056,Moreland,Northern Metropolitan,1073000,28/08/2016,Jellis,2,1,1,182,-37.7629,144.968
+813,Brunswick,58 Cassels Rd,3056,Moreland,Northern Metropolitan,860000,22/08/2016,Ray,3,1,1,184,-37.7563,144.96
+814,Brunswick,144A Glenlyon Rd,3056,Moreland,Northern Metropolitan,840000,12/11/2016,Jellis,2,1,1,186,-37.7727,144.9707
+815,Brunswick,16 Thistle St,3056,Moreland,Northern Metropolitan,940000,8/10/2016,Ray,3,2,1,186,-37.7581,144.9514
+816,Brunswick,64 Henkel St,3056,Moreland,Northern Metropolitan,990000,19/11/2016,Nelson,3,2,1,194,-37.7653,144.9567
+817,Brunswick,246 Victoria St,3056,Moreland,Northern Metropolitan,890000,12/11/2016,Jellis,2,1,1,199,-37.7676,144.9659
+818,Brunswick,46 Tinning St,3056,Moreland,Northern Metropolitan,765000,28/05/2016,Nelson,2,1,1,199,-37.759,144.9597
+819,Brunswick,58 Donald St,3056,Moreland,Northern Metropolitan,936000,16/04/2016,Nelson,2,1,2,200,-37.7581,144.9678
+820,Brunswick West,12 Hamilton St,3055,Moreland,Northern Metropolitan,820000,26/07/2016,Jellis,2,1,1,206,-37.7604,144.9488
+821,Brunswick,7 Barrow St,3056,Moreland,Northern Metropolitan,840000,13/08/2016,Brad,3,1,0,209,-37.7624,144.9692
+822,Brunswick,311 Albion St,3056,Moreland,Northern Metropolitan,825000,16/04/2016,Nelson,3,1,1,210,-37.7597,144.9545
+823,Brunswick,35 Charles St,3056,Moreland,Northern Metropolitan,871000,22/05/2016,Jellis,2,1,1,215,-37.7722,144.9637
+824,Brunswick,78 Stewart St,3056,Moreland,Northern Metropolitan,910000,8/10/2016,Jellis,3,1,1,215,-37.7642,144.9688
+825,Brunswick,175 Edward St,3056,Moreland,Northern Metropolitan,1261000,16/04/2016,Nelson,3,1,1,216,-37.7746,144.9697
+826,Brunswick West,64 Pearson St,3055,Moreland,Northern Metropolitan,955000,7/05/2016,hockingstuart,3,1,0,220,-37.7659,144.9494
+827,Brunswick,84 Stewart St,3056,Moreland,Northern Metropolitan,1045000,16/04/2016,Jellis,3,1,2,222,-37.7642,144.969
+828,Brunswick,234 Victoria St,3056,Moreland,Northern Metropolitan,1026000,3/09/2016,Nelson,2,1,0,225,-37.7676,144.9665
+829,Brunswick,28 Osborne St,3056,Moreland,Northern Metropolitan,855000,8/10/2016,Nelson,3,1,1,229,-37.7622,144.9586
+830,Coburg,243 Moreland Rd,3058,Moreland,Northern Metropolitan,1370000,4/03/2017,Ray,3,1,1,233,-37.7549,144.9611
+831,Brunswick,9 Blair St,3056,Moreland,Northern Metropolitan,1802500,3/12/2016,Jellis,4,3,1,238,-37.7713,144.9643
+832,Brunswick,154 Brunswick Rd,3056,Moreland,Northern Metropolitan,1050000,17/09/2016,Nelson,3,1,1,239,-37.7776,144.963
+833,Brunswick,14 Murdock St,3056,Moreland,Northern Metropolitan,976000,14/05/2016,Jellis,3,2,1,240,-37.756,144.9587
+834,Brunswick,411 Barkly St,3056,Moreland,Northern Metropolitan,945000,30/07/2016,Jellis,2,1,2,246,-37.775,144.9536
+835,Coburg,3/58 Moore St,3058,Moreland,Northern Metropolitan,740000,8/10/2016,Nelson,3,2,1,255,-37.7546,144.9713
+836,Brunswick,98 Evans St,3056,Moreland,Northern Metropolitan,1060000,12/11/2016,Nelson,3,1,0,257,-37.7704,144.9695
+837,Brunswick,68 Henkel St,3056,Moreland,Northern Metropolitan,890000,18/06/2016,Jellis,2,1,1,259,-37.7653,144.9565
+838,Brunswick West,1/572 Moreland Rd,3055,Moreland,Northern Metropolitan,797500,11/02/2017,Nelson,3,2,2,262,-37.7519,144.9324
+839,Coburg,2/58 Moore St,3058,Moreland,Northern Metropolitan,865000,7/11/2016,Nelson,3,2,2,263,-37.7546,144.9713
+840,Brunswick,270 Albion St,3056,Moreland,Northern Metropolitan,880000,24/09/2016,Nelson,3,1,1,264,-37.7603,144.9573
+841,Brunswick,1/182 Albion St,3056,Moreland,Northern Metropolitan,1050000,4/06/2016,hockingstuart,3,1,2,264,-37.7611,144.9644
+842,Brunswick,129 Albion St,3056,Moreland,Northern Metropolitan,1115000,8/10/2016,Jellis,4,1,0,264,-37.7611,144.9677
+843,Brunswick,177 Barkly St,3056,Moreland,Northern Metropolitan,1800000,15/10/2016,Nelson,4,2,3,271,-37.7769,144.9691
+844,Brunswick West,81 Melville Rd,3055,Moreland,Northern Metropolitan,793000,10/12/2016,Ray,3,1,0,275,-37.763,144.9439
+845,Brunswick,39 Eveline St,3056,Moreland,Northern Metropolitan,1125000,8/10/2016,Jellis,3,1,1,278,-37.7701,144.9633
+846,Coburg,12 Hardwick St,3058,Moreland,Northern Metropolitan,1010000,4/03/2017,Jellis,3,2,1,278,-37.7494,144.9686
+847,Brunswick,41 Eveline St,3056,Moreland,Northern Metropolitan,1020000,25/02/2017,Jellis,2,1,1,279,-37.77,144.9633
+848,Coburg,6 Shackell St,3058,Moreland,Northern Metropolitan,735000,6/08/2016,Nelson,2,1,1,280,-37.7429,144.952
+849,Brunswick,69 Glenlyon Rd,3056,Moreland,Northern Metropolitan,1210000,28/08/2016,Nelson,3,2,1,280,-37.7719,144.9661
+850,Brunswick,113 Glenlyon Rd,3056,Moreland,Northern Metropolitan,1320000,15/10/2016,Nelson,4,2,1,281,-37.7722,144.9681
+851,Coburg,33 Wellington St,3058,Moreland,Northern Metropolitan,860000,4/06/2016,Peter,3,1,1,283,-37.7416,144.9582
+852,Brunswick West,33 Whitby St,3055,Moreland,Northern Metropolitan,1005000,17/09/2016,Nelson,2,1,1,284,-37.7646,144.9476
+853,Brunswick,4 Frederick St,3056,Moreland,Northern Metropolitan,1170000,26/07/2016,Nelson,3,1,0,285,-37.7634,144.9593
+854,Coburg,10 Shackell St,3058,Moreland,Northern Metropolitan,784000,3/09/2016,Nelson,3,1,1,286,-37.7427,144.952
+855,Coburg,43 Ohea St,3058,Moreland,Northern Metropolitan,955000,3/12/2016,Nelson,4,2,1,295,-37.7374,144.9617
+856,Brunswick,105 Dawson St,3056,Moreland,Northern Metropolitan,860000,19/11/2016,Jellis,2,1,1,298,-37.7704,144.9504
+857,Brunswick West,42 Whitby St,3055,Moreland,Northern Metropolitan,930000,4/06/2016,Nelson,4,2,2,299,-37.764,144.9454
+858,Brunswick,443 Albert St,3056,Moreland,Northern Metropolitan,1094000,11/03/2017,Nelson,2,1,2,301,-37.7672,144.9496
+859,Brunswick,4 McPherson St,3056,Moreland,Northern Metropolitan,835000,23/04/2016,Jellis,3,1,0,302,-37.758,144.9724
+860,Brunswick,7 Louisa St,3056,Moreland,Northern Metropolitan,1020000,27/11/2016,Jellis,3,1,3,308,-37.7649,144.9641
+861,Brunswick,54 Davies St,3056,Moreland,Northern Metropolitan,1075000,17/09/2016,Jellis,2,1,0,311,-37.7572,144.9687
+862,Brunswick,74 Davies St,3056,Moreland,Northern Metropolitan,905000,14/05/2016,Nelson,3,1,1,314,-37.7573,144.97
+863,Brunswick,73 Davies St,3056,Moreland,Northern Metropolitan,1056000,10/09/2016,Nelson,2,1,1,315,-37.757,144.9697
+864,Brunswick,26 Warburton St,3056,Moreland,Northern Metropolitan,1340000,27/11/2016,Nelson,3,1,1,316,-37.7741,144.9703
+865,Brunswick,109 Stewart St,3056,Moreland,Northern Metropolitan,1080000,28/08/2016,Nelson,3,2,1,316,-37.7643,144.9713
+866,Brunswick,50 Davies St,3056,Moreland,Northern Metropolitan,830000,16/04/2016,Nelson,2,1,1,319,-37.7572,144.9686
+867,Brunswick,329 Brunswick Rd,3056,Moreland,Northern Metropolitan,1175000,27/11/2016,Jellis,4,1,2,319,-37.7763,144.9549
+868,Brunswick,79 Hope St,3056,Moreland,Northern Metropolitan,1450000,7/11/2016,Jellis,4,2,2,323,-37.7637,144.9565
+869,Brunswick,13 Percy St,3056,Moreland,Northern Metropolitan,1055000,7/05/2016,Nelson,3,1,1,324,-37.7653,144.9586
+870,Brunswick,28 Frederick St,3056,Moreland,Northern Metropolitan,1510000,25/02/2017,Nelson,3,1,0,325,-37.7621,144.9595
+871,Brunswick,87 Hope St,3056,Moreland,Northern Metropolitan,955000,11/02/2017,Nelson,3,2,2,327,-37.7636,144.9559
+872,Brunswick,32 Rose St,3056,Moreland,Northern Metropolitan,800000,18/03/2017,Walshe,1,1,4,330,-37.7577,144.9524
+873,Brunswick,5 MacKenzie St,3056,Moreland,Northern Metropolitan,1222500,10/12/2016,Nelson,3,1,0,331,-37.7619,144.959
+874,Brunswick,7 Garnet St,3056,Moreland,Northern Metropolitan,1053000,27/06/2016,Ray,3,1,1,343,-37.7589,144.9529
+875,Brunswick West,196 Melville Rd,3055,Moreland,Northern Metropolitan,816000,28/08/2016,Nelson,2,2,1,343,-37.7552,144.9458
+876,Brunswick,19 Horne St,3056,Moreland,Northern Metropolitan,1550000,28/05/2016,Nelson,3,1,1,346,-37.7738,144.9695
+877,Brunswick West,10 Yarrabin St,3055,Moreland,Northern Metropolitan,810000,7/11/2016,Brad,3,1,2,349,-37.7589,144.9368
+878,Brunswick,46 Cassels Rd,3056,Moreland,Northern Metropolitan,860000,16/04/2016,Nelson,2,1,2,352,-37.7566,144.9599
+879,Brunswick West,81 Whitby St,3055,Moreland,Northern Metropolitan,1330000,12/11/2016,Nelson,3,1,2,353,-37.764,144.9428
+880,Brunswick,25 Gray St,3056,Moreland,Northern Metropolitan,1755000,28/08/2016,Jellis,4,2,1,354,-37.7745,144.9523
+881,Brunswick West,117 Pearson St,3055,Moreland,Northern Metropolitan,901000,23/04/2016,Rendina,3,1,4,357,-37.762,144.9497
+882,Brunswick West,89 Pearson St,3055,Moreland,Northern Metropolitan,942000,4/03/2017,McDonald,3,1,0,358,-37.7642,144.9493
+883,Brunswick,7 Hall St,3056,Moreland,Northern Metropolitan,1217000,27/11/2016,Walshe,4,1,0,363,-37.7621,144.9506
+884,Brunswick West,121 Pearson St,3055,Moreland,Northern Metropolitan,1300000,12/11/2016,Jellis,3,1,2,364,-37.7618,144.9497
+885,Brunswick,25 Hardy St,3056,Moreland,Northern Metropolitan,1500000,3/12/2016,Nelson,4,3,1,365,-37.7624,144.9671
+886,Brunswick,1 Davison St,3056,Moreland,Northern Metropolitan,1000000,24/09/2016,Nelson,3,1,1,370,-37.7632,144.9572
+887,Coburg,105 Moreland Rd,3058,Moreland,Northern Metropolitan,812000,8/10/2016,Nicholson,3,1,1,370,-37.7561,144.9718
+888,Brunswick,30 Charles St,3056,Moreland,Northern Metropolitan,1350000,15/10/2016,Nelson,4,1,1,370,-37.7728,144.9639
+889,Coburg,45 Portland St,3058,Moreland,Northern Metropolitan,1000000,4/03/2017,Jellis,3,2,3,370,-37.744,144.9501
+890,Coburg,29 Molesworth St,3058,Moreland,Northern Metropolitan,850000,3/09/2016,Brad,2,1,1,371,-37.735,144.9589
+891,Coburg,181 Munro St,3058,Moreland,Northern Metropolitan,790000,3/12/2016,Del,3,1,2,371,-37.7435,144.9507
+892,Coburg,27 Higinbotham St,3058,Moreland,Northern Metropolitan,947000,7/11/2016,Brad,3,1,1,372,-37.735,144.9581
+893,Coburg,109 Moreland Rd,3058,Moreland,Northern Metropolitan,825000,8/10/2016,Nicholson,3,1,1,374,-37.7561,144.9715
+894,Coburg,107 Moreland Rd,3058,Moreland,Northern Metropolitan,766000,8/10/2016,Nicholson,3,1,0,378,-37.7561,144.9716
+895,Coburg,60 Glengyle St,3058,Moreland,Northern Metropolitan,1210000,10/09/2016,Nelson,3,1,1,379,-37.7544,144.9764
+896,Brunswick,5 Hanover St,3056,Moreland,Northern Metropolitan,985000,22/05/2016,Jellis,3,1,2,384,-37.7626,144.9535
+897,Brunswick West,29 Grantham St,3055,Moreland,Northern Metropolitan,988000,19/11/2016,Nelson,4,1,1,384,-37.7733,144.9491
+898,Brunswick,136 Hope St,3056,Moreland,Northern Metropolitan,1260000,11/02/2017,Jellis,2,1,1,385,-37.7631,144.9534
+899,Coburg,6 Stawell St,3058,Moreland,Northern Metropolitan,935500,4/03/2017,Brad,3,1,2,386,-37.7364,144.96
+900,Coburg,21 Governors Rd,3058,Moreland,Northern Metropolitan,1335000,10/12/2016,Nelson,5,3,2,390,-37.7376,144.9726
+901,Brunswick,131 Tinning St,3056,Moreland,Northern Metropolitan,1395000,22/05/2016,Nelson,5,2,2,391,-37.7587,144.9548
+902,Brunswick West,102 Melville Rd,3055,Moreland,Northern Metropolitan,900000,14/05/2016,hockingstuart,2,1,1,410,-37.7613,144.9446
+903,Brunswick,2 Sheffield St,3056,Moreland,Northern Metropolitan,990000,7/11/2016,Nelson,3,1,2,410,-37.7604,144.9514
+904,Brunswick West,171 Union St,3055,Moreland,Northern Metropolitan,1095000,15/10/2016,Nelson,3,1,1,411,-37.7728,144.9478
+905,Brunswick West,24 Burnell St,3055,Moreland,Northern Metropolitan,1245000,14/05/2016,Barry,3,1,1,412,-37.7618,144.9455
+906,Brunswick,4 Bryant St,3056,Moreland,Northern Metropolitan,820000,27/06/2016,Nelson,4,1,0,416,-37.763,144.9598
+907,Brunswick,190 Barkly St,3056,Moreland,Northern Metropolitan,1358000,13/08/2016,Nelson,4,1,1,416,-37.7769,144.9661
+908,Brunswick,4 Bell St,3056,Moreland,Northern Metropolitan,1790000,27/06/2016,Ray,4,1,1,416,-37.7737,144.965
+909,Coburg,114 Reynard St,3058,Moreland,Northern Metropolitan,1064000,8/10/2016,Nelson,3,2,1,417,-37.7478,144.9583
+910,Coburg,3 Mavis St,3058,Moreland,Northern Metropolitan,1202000,4/03/2017,Nelson,3,2,2,423,-37.7493,144.9559
+911,Brunswick,314 Barkly St,3056,Moreland,Northern Metropolitan,1310000,7/05/2016,Nelson,3,2,2,426,-37.7759,144.9578
+912,Brunswick,391 Brunswick Rd,3056,Moreland,Northern Metropolitan,1135000,11/03/2017,Barry,3,1,1,438,-37.7758,144.9508
+913,Coburg,191 Ohea St,3058,Moreland,Northern Metropolitan,905000,4/06/2016,LITTLE,4,2,1,439,-37.7363,144.9507
+914,Brunswick West,2 Henderson St,3055,Moreland,Northern Metropolitan,1205000,15/10/2016,Raine,7,3,1,447,-37.7634,144.9403
+915,Brunswick,17 Sutherland St,3056,Moreland,Northern Metropolitan,1015000,18/03/2017,Nelson,2,1,0,453,-37.762,144.9547
+916,Brunswick,11 Denman St,3056,Moreland,Northern Metropolitan,1410000,28/05/2016,Jellis,4,2,1,460,-37.7554,144.9544
+917,Coburg,5 Donne St,3058,Moreland,Northern Metropolitan,1090000,12/11/2016,ASL,3,1,1,464,-37.753,144.9485
+918,Brunswick,2 Chambers St,3056,Moreland,Northern Metropolitan,1691500,17/09/2016,Nelson,3,2,3,470,-37.7788,144.9688
+919,Brunswick,38 Stewart St,3056,Moreland,Northern Metropolitan,1317000,28/05/2016,Nelson,3,1,1,480,-37.7639,144.966
+920,Brunswick,64 Hanover St,3056,Moreland,Northern Metropolitan,1250000,22/05/2016,Ray,3,1,1,483,-37.7602,144.9543
+921,Coburg,2 Quarry Cct,3058,Moreland,Northern Metropolitan,1131000,8/10/2016,Nelson,4,2,2,494,-37.7359,144.9711
+922,Brunswick,52 Evans St,3056,Moreland,Northern Metropolitan,1650000,18/03/2017,Nelson,3,1,2,495,-37.7702,144.9672
+923,Brunswick West,16 Bakers Pde,3055,Moreland,Northern Metropolitan,970000,30/07/2016,Nelson,4,3,2,499,-37.7538,144.944
+924,Brunswick West,6/86 Heller St,3055,Moreland,Northern Metropolitan,537000,22/08/2016,Jellis,2,1,1,501,-37.7741,144.9449
+925,Brunswick West,468 Moreland Rd,3055,Moreland,Northern Metropolitan,920000,12/11/2016,Jellis,3,1,2,501,-37.753,144.9421
+926,Brunswick West,1 Culloden St,3055,Moreland,Northern Metropolitan,995000,23/04/2016,Brad,3,1,2,505,-37.757,144.9446
+927,Brunswick West,497 Albion St,3055,Moreland,Northern Metropolitan,1350000,7/11/2016,Woodards,5,2,2,510,-37.7581,144.9414
+928,Brunswick West,915 Park St,3055,Moreland,Northern Metropolitan,1172000,12/11/2016,Stockdale,3,1,2,512,-37.7758,144.9435
+929,Brunswick West,53 Heller St,3055,Moreland,Northern Metropolitan,1150000,28/05/2016,Nelson,4,1,2,519,-37.7747,144.9474
+930,Coburg,171 Moreland Rd,3058,Moreland,Northern Metropolitan,145000,4/06/2016,Jellis,4,1,1,536,-37.7555,144.9658
+931,Brunswick,10/285 Brunswick Rd,3056,Moreland,Northern Metropolitan,370000,26/07/2016,Jellis,1,1,1,540,-37.7766,144.9574
+932,Brunswick West,542 Albion St,3055,Moreland,Northern Metropolitan,1200000,22/08/2016,Jellis,5,2,3,553,-37.7576,144.9348
+933,Brunswick West,1 Jordan St,3055,Moreland,Northern Metropolitan,1315000,24/09/2016,Nelson,2,1,2,554,-37.7715,144.9426
+934,Brunswick,222 Barkly St,3056,Moreland,Northern Metropolitan,2500000,19/11/2016,Jellis,5,2,2,555,-37.7767,144.9645
+935,Brunswick West,481 Albion St,3055,Moreland,Northern Metropolitan,1585000,30/07/2016,Gunn&Co,4,1,2,562,-37.7583,144.9428
+936,Brunswick,393A Brunswick Rd,3056,Moreland,Northern Metropolitan,1260000,18/03/2017,Rendina,3,1,6,563,-37.7757,144.9505
+937,Brunswick West,2/13 Walker St,3055,Moreland,Northern Metropolitan,471000,4/03/2017,Jellis,2,1,1,564,-37.7665,144.9425
+938,Brunswick West,4/1 Allard St,3055,Moreland,Northern Metropolitan,473000,4/06/2016,Harrington,2,1,2,568,-37.7682,144.9422
+939,Brunswick West,9 Peacock St,3055,Moreland,Northern Metropolitan,921500,22/08/2016,Ray,4,1,1,575,-37.7575,144.9402
+940,Brunswick West,7 Zeal St,3055,Moreland,Northern Metropolitan,910000,16/04/2016,Raine,2,1,4,576,-37.7578,144.9439
+941,Coburg,56 Rose St,3058,Moreland,Northern Metropolitan,1100000,7/05/2016,Nelson,3,1,1,576,-37.7432,144.9474
+942,Brunswick West,15 Wallace St,3055,Moreland,Northern Metropolitan,1000000,24/09/2016,Nelson,4,1,1,589,-37.7628,144.9459
+943,Coburg,38 Harding St,3058,Moreland,Northern Metropolitan,1221000,3/12/2016,Nelson,4,1,2,596,-37.7456,144.9696
+944,Coburg,31 Elizabeth St,3058,Moreland,Northern Metropolitan,820000,10/12/2016,Peter,2,1,1,597,-37.7402,144.9807
+945,Brunswick West,5 Halpin St,3055,Moreland,Northern Metropolitan,1200000,4/06/2016,Nelson,3,1,1,600,-37.769,144.9478
+946,Brunswick West,194 Dawson St,3055,Moreland,Northern Metropolitan,1186000,16/07/2016,Nelson,3,1,3,608,-37.7694,144.9448
+947,Brunswick,144 Union St,3056,Moreland,Northern Metropolitan,1815000,18/06/2016,Nelson,3,1,3,612,-37.773,144.952
+948,Coburg,7 Gladstone St,3058,Moreland,Northern Metropolitan,1250000,10/12/2016,Jellis,4,1,2,613,-37.7433,144.9762
+949,Brunswick West,871 Park St,3055,Moreland,Northern Metropolitan,1700000,25/02/2017,Jellis,4,2,2,621,-37.7764,144.9479
+950,Brunswick,36 Charles St,3056,Moreland,Northern Metropolitan,1875000,27/06/2016,Jellis,4,2,2,657,-37.7725,144.964
+951,Coburg,37 Elizabeth St,3058,Moreland,Northern Metropolitan,680000,3/12/2016,Nelson,3,1,0,702,-37.7391,144.9812
+952,Brunswick West,7 Morrow St,3055,Moreland,Northern Metropolitan,910000,22/08/2016,Brad,3,1,2,717,-37.7525,144.9321
+953,Brunswick West,487 Brunswick Rd,3055,Moreland,Northern Metropolitan,1150000,27/11/2016,Jellis,3,1,2,726,-37.7747,144.9421
+954,Brunswick,6/837 Park St,3056,Moreland,Northern Metropolitan,600000,13/08/2016,Woodards,2,1,1,768,-37.7768,144.9512
+955,Brunswick,29 Stewart St,3056,Moreland,Northern Metropolitan,2230000,4/03/2017,Nelson,4,2,3,851,-37.7637,144.9662
+956,Coburg,35 The Grove,3058,Moreland,Northern Metropolitan,2250000,4/03/2017,Peter,8,2,4,983,-37.7517,144.9699
+957,Brunswick,60 Rose St,3056,Moreland,Northern Metropolitan,947000,28/05/2016,Woodards,3,1,2,996,-37.7564,144.9527
+958,Coburg,56 The Grove,3058,Moreland,Northern Metropolitan,1900000,10/12/2016,hockingstuart,6,2,2,1060,-37.7523,144.9725
+959,Brunswick,10/66 De Carle St,3056,Moreland,Northern Metropolitan,491000,19/11/2016,Jellis,2,1,1,1080,-37.7598,144.9655
+960,Brunswick,23/10 Breese St,3056,Moreland,Northern Metropolitan,501000,18/03/2017,Nelson,2,1,1,1140,-37.7634,144.9616
+961,Brunswick,17 Goodman St,3056,Moreland,Northern Metropolitan,916000,24/09/2016,Nelson,2,1,0,1328,-37.773,144.9568
+962,Brunswick West,3/546 Moreland Rd,3055,Moreland,Northern Metropolitan,370000,18/03/2017,Ray,2,1,1,2120,-37.7524,144.9347
+963,Brunswick,32 Lobb St,3056,Moreland,Northern Metropolitan,820000,25/02/2017,Jellis,3,2,2,4668,-37.7687,144.9649
+964,Brunswick,30 Lobb St,3056,Moreland,Northern Metropolitan,740000,28/05/2016,Nelson,3,2,1,4676,-37.7687,144.9649
+965,Mill Park,3/84 Mill Park Dr,3082,Whittlesea,Northern Metropolitan,480750,27/05/2017,Ray,2,1,1,114,-37.67761,145.06132
+966,Lalor,3/103 Cyprus St,3075,Whittlesea,Northern Metropolitan,383000,27/05/2017,Harcourts,2,1,2,138,-37.67527,145.02775
+967,Thomastown,2/1 Charles St,3074,Whittlesea,Northern Metropolitan,407000,29/07/2017,HAR,2,1,1,140,-37.68199,145.01744
+968,Lalor,2/70 David St,3075,Whittlesea,Northern Metropolitan,410000,1/07/2017,Harcourts,2,1,1,143,-37.67222,145.0231
+969,Epping,9 Inverloch St,3076,Whittlesea,Northern Metropolitan,401500,15/07/2017,Love,2,2,1,149,-37.6311,145.0232
+970,South Morang,3/32 Kumara Cct,3752,Whittlesea,Northern Metropolitan,420000,8/07/2017,Harcourts,3,2,2,155,-37.63478,145.08486
+971,Epping,2/12 Chettam St,3076,Whittlesea,Northern Metropolitan,380500,27/05/2017,Iconek,3,2,1,156,-37.6349,145.04042
+972,Epping,2/8 Zurzolo Tce,3076,Whittlesea,Northern Metropolitan,417500,8/07/2017,Harcourts,2,1,1,157,-37.64827,145.05317
+973,Thomastown,52 Richardson St,3074,Whittlesea,Northern Metropolitan,508000,15/07/2017,Harcourts,3,2,1,189,-37.68159,145.0371
+974,South Morang,15 Vincent Dr,3752,Whittlesea,Northern Metropolitan,485000,12/08/2017,Love,4,2,2,196,-37.63873,145.07805
+975,Wollert,6 Burley St,3750,Whittlesea,Northern Metropolitan,390000,1/07/2017,Ray,2,1,1,197,-37.61401,145.03301
+976,Epping,14 Garth Pl,3076,Whittlesea,Northern Metropolitan,441000,12/08/2017,HAR,3,2,1,210,-37.63463,145.03863
+977,Wollert,34 Tindales Rd,3750,Whittlesea,Northern Metropolitan,400000,22/07/2017,Harcourts,3,2,1,213,-37.60983,145.03874
+978,Thomastown,2/11 French St,3074,Whittlesea,Northern Metropolitan,542000,1/07/2017,Ray,3,2,2,213,-37.67748,145.01791
+979,Epping,2/33 Wedge St,3076,Whittlesea,Northern Metropolitan,503000,29/07/2017,Love,2,2,2,214,-37.65151,145.02815
+980,Epping,111 Duffy St,3076,Whittlesea,Northern Metropolitan,410000,22/07/2017,hockingstuart,3,1,1,216,-37.64151,145.02265
+981,South Morang,7/7 Old Plenty Rd,3752,Whittlesea,Northern Metropolitan,386000,1/07/2017,Millership,3,1,1,216,-37.64491,145.09233
+982,Epping,6/7 Houston St,3076,Whittlesea,Northern Metropolitan,392250,8/07/2017,Harcourts,3,1,1,227,-37.64836,145.03139
+983,South Morang,7 Loveridge Wy,3752,Whittlesea,Northern Metropolitan,561000,29/07/2017,Ray,4,2,1,229,-37.62614,145.06723
+984,Mill Park,2/2 Comeram Ct,3082,Whittlesea,Northern Metropolitan,460000,1/07/2017,Love,2,1,1,241,-37.67231,145.05878
+985,Mill Park,1/6 Patmore Ct,3082,Whittlesea,Northern Metropolitan,421000,24/06/2017,Ray,2,1,1,257,-37.65636,145.03997
+986,Lalor,2/7 Cooma Ct,3075,Whittlesea,Northern Metropolitan,444000,29/07/2017,HAR,2,1,1,277,-37.66612,145.0008
+987,Epping,14A Supply Dr,3076,Whittlesea,Northern Metropolitan,452500,27/05/2017,Barry,2,1,1,279,-37.65791,145.02643
+988,Bundoora,13 Cher Av,3083,Whittlesea,Northern Metropolitan,685000,12/08/2017,Morrison,4,2,1,287,-37.69382,145.04831
+989,Bundoora,48 Zara Cl,3083,Whittlesea,Northern Metropolitan,755000,17/06/2017,Ray,4,2,2,300,-37.68223,145.07818
+990,South Morang,16/74 Thomas St,3752,Whittlesea,Northern Metropolitan,383000,15/07/2017,Harcourts,2,1,1,305,-37.6522,145.09261
+991,Epping,13 Manley St,3076,Whittlesea,Northern Metropolitan,500000,29/07/2017,Darren,3,2,2,321,-37.63169,145.03135
+992,South Morang,102 Vincent Dr,3752,Whittlesea,Northern Metropolitan,500000,22/07/2017,Harcourts,3,2,2,330,-37.64027,145.08745
+993,Thomastown,2/4 Currajong St,3074,Whittlesea,Northern Metropolitan,460000,24/06/2017,Love,3,1,1,340,-37.67803,145.01769
+994,Epping,2/4 Grimwade Ct,3076,Whittlesea,Northern Metropolitan,437000,1/07/2017,hockingstuart,2,1,2,351,-37.65099,145.04663
+995,Lalor,1 Howell St,3075,Whittlesea,Northern Metropolitan,560000,24/06/2017,Harcourts,3,1,1,364,-37.67122,145.01487
+996,Mill Park,2 Mimosa Rd,3082,Whittlesea,Northern Metropolitan,490000,29/07/2017,Stockdale,2,1,2,374,-37.6745,145.05491
+997,Epping,8 Efficient St,3076,Whittlesea,Northern Metropolitan,490000,8/07/2017,Ristic,3,2,2,375,-37.62157,145.01049
+998,Epping,40 Lyndarum Dr,3076,Whittlesea,Northern Metropolitan,630000,15/07/2017,Ray,3,2,2,388,-37.62864,145.02265
+999,Mill Park,2/7 Bradley Dr,3082,Whittlesea,Northern Metropolitan,428000,24/06/2017,Ray,2,1,1,389,-37.65623,145.07431
+1000,Epping,8 Shields St,3076,Whittlesea,Northern Metropolitan,560000,29/07/2017,HAR,3,2,1,390,-37.62882,145.00979
+1001,Epping,6 Shields St,3076,Whittlesea,Northern Metropolitan,545000,22/07/2017,hockingstuart,3,1,2,400,-37.62894,145.00977
+1002,Doreen,33 Starboard Dr,3754,Whittlesea,Northern Victoria,530500,1/07/2017,Buckingham,3,2,2,400,-37.61042,145.11932
+1003,Wollert,60 Saltlake Bvd,3750,Whittlesea,Northern Metropolitan,525300,29/07/2017,Stockdale,3,2,2,400,-37.61387,145.0385
+1004,Mernda,3 Flowerdale Ct,3754,Whittlesea,Northern Metropolitan,517000,17/06/2017,Harcourts,3,2,4,400,-37.60697,145.09208
+1005,Epping,17 Brigantia St,3076,Whittlesea,Northern Metropolitan,550000,12/08/2017,Barry,4,2,2,400,-37.62114,144.99715
+1006,Doreen,13 Sandover St,3754,Whittlesea,Northern Victoria,531000,29/07/2017,Barry,4,2,2,411,-37.6038,145.10958
+1007,Wollert,20 Vanin St,3750,Whittlesea,Northern Metropolitan,525000,1/07/2017,Harcourts,4,2,2,415,-37.6161,145.03937
+1008,Lalor,1/11 Maxwell St,3075,Whittlesea,Northern Metropolitan,511500,24/06/2017,Harcourts,2,1,2,416,-37.67096,145.02445
+1009,Epping,10 Efficient St,3076,Whittlesea,Northern Metropolitan,568000,17/06/2017,Ray,3,2,2,420,-37.62145,145.01051
+1010,Wollert,24 Edenvale Bvd,3750,Whittlesea,Northern Metropolitan,530000,15/07/2017,hockingstuart,4,2,2,448,-37.61944,145.01243
+1011,Wollert,8 Yumbarra Pde,3750,Whittlesea,Northern Metropolitan,595000,27/05/2017,Iconek,4,2,2,448,-37.61337,145.03606
+1012,South Morang,15 Domain Tce,3752,Whittlesea,Northern Metropolitan,601000,22/07/2017,Ray,3,2,2,454,-37.63556,145.06679
+1013,Epping,52 Shields St,3076,Whittlesea,Northern Metropolitan,650000,3/06/2017,Harcourts,4,2,2,469,-37.6248,145.01032
+1014,Mernda,4 Vasari Gdns,3754,Whittlesea,Northern Metropolitan,630000,12/08/2017,Love,4,2,2,475,-37.606,145.08785
+1015,Mernda,6 Renaissance Bvd,3754,Whittlesea,Northern Metropolitan,520500,1/07/2017,RW,4,2,2,482,-37.60238,145.08695
+1016,South Morang,18 Grange Dr,3752,Whittlesea,Northern Metropolitan,644000,3/06/2017,Harcourts,3,2,4,492,-37.64215,145.08584
+1017,Lalor,92 Sarissa St,3075,Whittlesea,Northern Metropolitan,795000,15/07/2017,Harcourts,4,2,2,499,-37.66641,144.98781
+1018,Epping,13 Anglers Dr,3076,Whittlesea,Northern Metropolitan,600000,22/07/2017,Stockdale,4,2,2,500,-37.62756,145.03364
+1019,South Morang,15 Ferncroft Dr,3752,Whittlesea,Northern Metropolitan,600000,1/07/2017,Millership,4,2,2,505,-37.61957,145.0948
+1020,Epping,59 Greenfields Dr,3076,Whittlesea,Northern Metropolitan,940000,1/07/2017,Iconek,4,3,2,508,-37.62693,145.01563
+1021,Mernda,9 Powlett St,3754,Whittlesea,Northern Metropolitan,596000,17/06/2017,Buckingham,4,2,2,512,-37.61133,145.0945
+1022,Mernda,26 Coppice St,3754,Whittlesea,Northern Metropolitan,670000,1/07/2017,Harcourts,4,2,2,512,-37.58676,145.08889
+1023,Epping,8 Brownlow Cr,3076,Whittlesea,Northern Metropolitan,561000,12/08/2017,hockingstuart,3,1,0,518,-37.64887,145.04254
+1024,Bundoora,16 Cranberry Pl,3083,Whittlesea,Northern Metropolitan,880000,27/05/2017,Ray,4,2,2,520,-37.68155,145.04945
+1025,Epping,1 Centurion Ct,3076,Whittlesea,Northern Metropolitan,600000,15/07/2017,Love,3,1,2,524,-37.64273,145.03751
+1026,Epping,5 Combe Ct,3076,Whittlesea,Northern Metropolitan,556000,12/08/2017,hockingstuart,3,1,1,525,-37.64421,145.03773
+1027,Lalor,312 Edgars Rd,3075,Whittlesea,Northern Metropolitan,570000,12/08/2017,HAR,3,1,2,525,-37.6676,145.00445
+1028,Thomastown,46 Lincoln Dr,3074,Whittlesea,Northern Metropolitan,580000,3/06/2017,Harcourts,3,1,2,525,-37.68484,145.0072
+1029,Epping,18 Grimwade Ct,3076,Whittlesea,Northern Metropolitan,528000,27/05/2017,Ray,3,2,1,525,-37.6507,145.04681
+1030,Thomastown,24 Banksia Av,3074,Whittlesea,Northern Metropolitan,651000,22/07/2017,Harcourts,3,1,2,526,-37.68164,144.99769
+1031,Mill Park,6 Parklea Ct,3082,Whittlesea,Northern Metropolitan,556500,3/06/2017,LJ,3,1,2,526,-37.67561,145.05641
+1032,Mill Park,38 Wenden Rd,3082,Whittlesea,Northern Metropolitan,635000,29/07/2017,RW,3,1,2,528,-37.66726,145.05819
+1033,Mill Park,15 Heritage Dr,3082,Whittlesea,Northern Metropolitan,790000,8/07/2017,Ray,4,2,2,530,-37.65217,145.04863
+1034,Mill Park,79 Freeman Cr,3082,Whittlesea,Northern Metropolitan,705000,8/07/2017,Love,3,2,2,531,-37.66462,145.05659
+1035,Mill Park,49 Romano Av,3082,Whittlesea,Northern Metropolitan,550000,8/07/2017,Ray,4,2,1,531,-37.65121,145.05404
+1036,Mill Park,53 Romano Av,3082,Whittlesea,Northern Metropolitan,598000,8/07/2017,Ray,5,3,1,531,-37.65116,145.05439
+1037,Lalor,52 Monash St,3075,Whittlesea,Northern Metropolitan,580500,29/07/2017,Love,3,1,1,532,-37.66101,145.02568
+1038,Lalor,61 McKimmies Rd,3075,Whittlesea,Northern Metropolitan,487000,27/05/2017,Love,3,1,1,533,-37.67605,145.03956
+1039,Thomastown,18 Dakota Dr,3074,Whittlesea,Northern Metropolitan,605000,8/07/2017,Ray,3,1,2,533,-37.68579,144.98878
+1040,Lalor,168 Darebin Dr,3075,Whittlesea,Northern Metropolitan,544000,29/07/2017,Langwell,3,1,2,534,-37.67024,145.03644
+1041,Bundoora,74 Arthur St,3083,Whittlesea,Northern Metropolitan,796000,24/06/2017,Barry,3,2,2,534,-37.69852,145.04836
+1042,Lalor,1 Kent Rd,3075,Whittlesea,Northern Metropolitan,600000,27/05/2017,Ray,3,2,2,534,-37.67323,145.03976
+1043,Lalor,69 Monash St,3075,Whittlesea,Northern Metropolitan,560000,22/07/2017,Love,3,1,2,535,-37.6615,145.02761
+1044,Thomastown,15 Charlton Pl,3074,Whittlesea,Northern Metropolitan,632500,24/06/2017,Harcourts,3,1,2,536,-37.67669,144.99197
+1045,Lalor,226 Dalton Rd,3075,Whittlesea,Northern Metropolitan,635000,1/07/2017,Harcourts,3,1,4,536,-37.67125,145.03171
+1046,Mill Park,7 Mew Ct,3082,Whittlesea,Northern Metropolitan,676000,8/07/2017,Harcourts,4,2,2,537,-37.65532,145.04131
+1047,Thomastown,232 Main St,3074,Whittlesea,Northern Metropolitan,580000,8/07/2017,Harcourts,3,1,2,538,-37.67751,144.98663
+1048,Bundoora,10 Merryn Cl,3083,Whittlesea,Northern Metropolitan,680000,17/06/2017,Ray,3,1,1,539,-37.68274,145.05832
+1049,Thomastown,5 Natalie Ct,3074,Whittlesea,Northern Metropolitan,670000,12/08/2017,HAR,3,2,2,541,-37.67231,145.00556
+1050,Bundoora,22 Ebony Dr,3083,Whittlesea,Northern Metropolitan,725000,12/08/2017,Barry,4,1,2,542,-37.68238,145.06432
+1051,Thomastown,13 Kemp Av,3074,Whittlesea,Northern Metropolitan,610000,8/07/2017,Harcourts,3,1,2,544,-37.68336,145.0029
+1052,Lalor,11 Benaroon Dr,3075,Whittlesea,Northern Metropolitan,750000,1/07/2017,Ray,4,2,4,544,-37.66747,144.98802
+1053,Thomastown,20 Caroline St,3074,Whittlesea,Northern Metropolitan,705000,27/05/2017,Barry,3,1,2,545,-37.68035,145.00925
+1054,Thomastown,167 Victoria Dr,3074,Whittlesea,Northern Metropolitan,740000,3/06/2017,Harcourts,3,2,2,545,-37.68403,144.99246
+1055,South Morang,35 Cobblestone Dr,3752,Whittlesea,Northern Metropolitan,690000,8/07/2017,Harcourts,3,2,2,545,-37.64426,145.1
+1056,Mill Park,11 Woolnough Dr,3082,Whittlesea,Northern Metropolitan,602000,8/07/2017,Ray,3,1,1,546,-37.65359,145.04276
+1057,Epping,1 Saddlers Ct,3076,Whittlesea,Northern Metropolitan,565000,15/07/2017,Ray,4,2,2,548,-37.64386,145.04817
+1058,Epping,99 Peppercorn Pde,3076,Whittlesea,Northern Metropolitan,552000,12/08/2017,Love,3,1,2,549,-37.64992,145.04257
+1059,Doreen,2 Hughes Rd,3754,Whittlesea,Northern Victoria,500000,29/07/2017,LITTLE,4,2,2,550,-37.58279,145.12172
+1060,Thomastown,160 Dalton Rd,3074,Whittlesea,Northern Metropolitan,550000,27/05/2017,Stockdale,3,1,2,551,-37.67646,145.03084
+1061,Epping,12 Cabot Dr,3076,Whittlesea,Northern Metropolitan,500000,27/05/2017,Harcourts,3,2,2,553,-37.64463,145.04155
+1062,Thomastown,18 Darebin Dr,3074,Whittlesea,Northern Metropolitan,651000,24/06/2017,Harcourts,3,1,2,555,-37.68211,145.03204
+1063,Mill Park,14 Jasmine Dr,3082,Whittlesea,Northern Metropolitan,668000,29/07/2017,Ray,3,2,1,555,-37.6764,145.05085
+1064,Bundoora,10 Dorothea Ct,3083,Whittlesea,Northern Metropolitan,685000,12/08/2017,Ray,3,1,2,557,-37.68811,145.05507
+1065,Epping,62 Davisson St,3076,Whittlesea,Northern Metropolitan,660000,17/06/2017,Purplebricks,4,1,3,558,-37.64666,145.03062
+1066,Epping,124 Northumberland Dr,3076,Whittlesea,Northern Metropolitan,598000,3/06/2017,Harcourts,4,2,3,558,-37.64262,145.0407
+1067,Mill Park,18 Henricks Ct,3082,Whittlesea,Northern Metropolitan,610000,1/07/2017,Ray,3,1,1,560,-37.66903,145.05091
+1068,Epping,19 Lotus Ct,3076,Whittlesea,Northern Metropolitan,658000,29/07/2017,hockingstuart,4,2,2,571,-37.63762,145.03539
+1069,Mill Park,17 Winter Ct,3082,Whittlesea,Northern Metropolitan,725000,27/05/2017,Ray,5,2,2,574,-37.66936,145.05413
+1070,Lalor,17 Menzies Pde,3075,Whittlesea,Northern Metropolitan,622000,8/07/2017,Ray,3,1,2,575,-37.67146,145.03232
+1071,Lalor,6 Willard Ct,3075,Whittlesea,Northern Metropolitan,660000,15/07/2017,Harcourts,4,2,3,578,-37.66225,145.0116
+1072,Thomastown,14 Marjory St,3074,Whittlesea,Northern Metropolitan,631000,22/07/2017,Harcourts,3,1,2,584,-37.6819,145.02294
+1073,Thomastown,13 Tanjil Ct,3074,Whittlesea,Northern Metropolitan,590500,29/07/2017,HAR,3,1,1,585,-37.67681,145.00323
+1074,Lalor,4 Casey Dr,3075,Whittlesea,Northern Metropolitan,521000,3/06/2017,Ray,3,1,2,589,-37.67056,145.03698
+1075,Epping,27 Hammond Dr,3076,Whittlesea,Northern Metropolitan,490000,8/07/2017,Ristic,3,1,1,597,-37.64166,145.02885
+1076,Mill Park,4 Streeton Cct,3082,Whittlesea,Northern Metropolitan,725000,22/07/2017,Ray,3,2,2,602,-37.66916,145.06912
+1077,Lalor,18 Howell St,3075,Whittlesea,Northern Metropolitan,752000,8/07/2017,hockingstuart,3,1,2,604,-37.6708,145.01353
+1078,Epping,6 Letchworth Pl,3076,Whittlesea,Northern Metropolitan,620000,3/06/2017,Harcourts,3,1,2,606,-37.64954,145.03648
+1079,Epping,53 Hayston Bvd,3076,Whittlesea,Northern Metropolitan,465000,27/05/2017,Harcourts,3,2,1,606,-37.62858,145.03735
+1080,South Morang,28 Rolain Av,3752,Whittlesea,Northern Metropolitan,677500,8/07/2017,Harcourts,4,2,2,609,-37.63454,145.06894
+1081,Mill Park,15 Randell Ct,3082,Whittlesea,Northern Metropolitan,865000,17/06/2017,Ray,4,2,2,612,-37.65478,145.05199
+1082,South Morang,28 Kestrel Rd,3752,Whittlesea,Northern Metropolitan,875000,8/07/2017,Iconek,4,2,2,613,-37.62648,145.07141
+1083,Mill Park,14 Malua Cr,3082,Whittlesea,Northern Metropolitan,726000,15/07/2017,Love,3,2,2,615,-37.67519,145.06201
+1084,South Morang,3 Robin Pl,3752,Whittlesea,Northern Metropolitan,612000,29/07/2017,Millership,4,2,2,617,-37.65621,145.0939
+1085,Mill Park,15 Warburton Ct,3082,Whittlesea,Northern Metropolitan,592000,8/07/2017,Harcourts,3,1,1,622,-37.66294,145.06301
+1086,South Morang,7 Alexis Cl,3752,Whittlesea,Northern Metropolitan,915000,3/06/2017,Harcourts,4,3,2,624,-37.63485,145.07272
+1087,Lalor,105 William St,3075,Whittlesea,Northern Metropolitan,700000,29/07/2017,YPA,3,1,2,625,-37.67427,145.02961
+1088,Lalor,60 Robert St,3075,Whittlesea,Northern Metropolitan,710000,29/07/2017,Love,4,1,1,627,-37.66781,145.00926
+1089,Mill Park,10 Apsley Ct,3082,Whittlesea,Northern Metropolitan,625000,24/06/2017,Ray,4,2,2,628,-37.67647,145.06452
+1090,Epping,4 Nuthall Wy,3076,Whittlesea,Northern Metropolitan,1012000,15/07/2017,Iconek,4,3,3,631,-37.6246,145.01686
+1091,Thomastown,5 Pamela Ct,3074,Whittlesea,Northern Metropolitan,653000,3/06/2017,Harcourts,4,1,4,632,-37.68136,144.99479
+1092,Epping,13 Orlit Ct,3076,Whittlesea,Northern Metropolitan,545000,27/05/2017,Barry,4,2,2,635,-37.64051,145.05743
+1093,Epping,7 Cavalier Ct,3076,Whittlesea,Northern Metropolitan,573000,27/05/2017,Love,3,2,2,637,-37.64097,145.05757
+1094,Bundoora,84 Linacre Dr,3083,Whittlesea,Northern Metropolitan,1300000,12/08/2017,Barry,4,2,2,637,-37.68646,145.08183
+1095,Bundoora,12 Jones Ct,3083,Whittlesea,Northern Metropolitan,1405000,27/05/2017,Barry,3,2,2,639,-37.69353,145.06008
+1096,South Morang,37 Grange Dr,3752,Whittlesea,Northern Metropolitan,810000,22/07/2017,RW,4,2,2,639,-37.63947,145.08562
+1097,Lalor,13 Rosemary Dr,3075,Whittlesea,Northern Metropolitan,572000,27/05/2017,Love,3,1,2,640,-37.6591,145.00549
+1098,Mill Park,31 Development Bvd,3082,Whittlesea,Northern Metropolitan,722500,24/06/2017,Ray,4,2,2,643,-37.65959,145.08302
+1099,Mill Park,26 Coventry Cr,3082,Whittlesea,Northern Metropolitan,767500,8/07/2017,Ray,3,2,2,649,-37.67633,145.06922
+1100,Mill Park,7 Eaglet Ct,3082,Whittlesea,Northern Metropolitan,720000,3/06/2017,Harcourts,4,2,3,649,-37.67681,145.06414
+1101,Thomastown,52 The Boulevard,3074,Whittlesea,Northern Metropolitan,831000,24/06/2017,Barry,3,1,2,651,-37.67856,145.01728
+1102,Lalor,34 Cyprus St,3075,Whittlesea,Northern Metropolitan,716000,17/06/2017,Harcourts,3,1,4,651,-37.67388,145.02069
+1103,Thomastown,18 Plane St,3074,Whittlesea,Northern Metropolitan,630000,27/05/2017,YPA,3,1,3,654,-37.67652,145.02338
+1104,Lalor,23 Cyprus St,3075,Whittlesea,Northern Metropolitan,710500,8/07/2017,Barry,3,2,1,655,-37.67414,145.0205
+1105,Epping,23 Longwood Dr,3076,Whittlesea,Northern Metropolitan,680000,17/06/2017,Harcourts,4,2,2,656,-37.63878,145.05577
+1106,Mill Park,15 Mockridge Dr,3082,Whittlesea,Northern Metropolitan,704500,8/07/2017,Ray,5,3,2,656,-37.6641,145.05123
+1107,Mill Park,14 Medlar Ct,3082,Whittlesea,Northern Metropolitan,650000,29/07/2017,Ray,3,2,1,661,-37.66898,145.07209
+1108,Mill Park,6 Whernside Ct,3082,Whittlesea,Northern Metropolitan,710000,15/07/2017,Ray,4,1,2,666,-37.67626,145.0659
+1109,Lalor,59 David St,3075,Whittlesea,Northern Metropolitan,705500,24/06/2017,Harcourts,3,1,4,670,-37.67328,145.02918
+1110,Mill Park,5 Peyton Dr,3082,Whittlesea,Northern Metropolitan,800000,29/07/2017,HAR,4,2,2,674,-37.65639,145.06518
+1111,Lalor,11 Bruce St,3075,Whittlesea,Northern Metropolitan,638000,17/06/2017,Harcourts,3,1,2,679,-37.67304,145.03397
+1112,Thomastown,37 Smith Av,3074,Whittlesea,Northern Metropolitan,715500,22/07/2017,Love,3,1,2,685,-37.68107,145.03393
+1113,Thomastown,8 Barbara Ct,3074,Whittlesea,Northern Metropolitan,760000,12/08/2017,hockingstuart,4,1,2,695,-37.67877,145.03656
+1114,Mill Park,117 Telopea Cr,3082,Whittlesea,Northern Metropolitan,955000,29/07/2017,HAR,5,2,5,698,-37.66683,145.07751
+1115,Epping,11 Grimwade Ct,3076,Whittlesea,Northern Metropolitan,540000,3/06/2017,R&H,3,1,4,699,-37.65105,145.04613
+1116,South Morang,22 Strathoon Cr,3752,Whittlesea,Northern Metropolitan,945000,22/07/2017,Harcourts,5,3,4,700,-37.62166,145.06747
+1117,South Morang,141 Hawkstowe Pde,3752,Whittlesea,Northern Metropolitan,905000,3/06/2017,Ray,5,5,3,700,-37.6236,145.10629
+1118,Epping,1 Simon Ct,3076,Whittlesea,Northern Metropolitan,660000,1/07/2017,hockingstuart,5,3,2,708,-37.63888,145.02813
+1119,Thomastown,84 The Boulevard,3074,Whittlesea,Northern Metropolitan,740000,27/05/2017,Harcourts,3,1,2,727,-37.67873,145.01878
+1120,Lalor,15 Dennis St,3075,Whittlesea,Northern Metropolitan,675000,1/07/2017,Harcourts,5,2,2,750,-37.67227,145.03595
+1121,Bundoora,23 Wisteria Dr,3083,Whittlesea,Northern Metropolitan,1253000,12/08/2017,Ray,4,2,2,760,-37.67935,145.05728
+1122,Lalor,78 French St,3075,Whittlesea,Northern Metropolitan,685000,24/06/2017,Love,2,1,2,766,-37.66986,145.02048
+1123,Lalor,60 Dickens St,3075,Whittlesea,Northern Metropolitan,798000,22/07/2017,Harcourts,3,1,2,806,-37.66871,145.01
+1124,South Morang,9 Ronald Av,3752,Whittlesea,Northern Metropolitan,690000,29/07/2017,HAR,3,2,4,806,-37.65498,145.08712
+1125,Mill Park,4 Carlita Cl,3082,Whittlesea,Northern Metropolitan,732000,3/06/2017,Harcourts,4,2,1,808,-37.67348,145.06982
+1126,Thomastown,11 Belah St,3074,Whittlesea,Northern Metropolitan,867000,29/07/2017,HAR,3,1,3,819,-37.67908,145.02095
+1127,Mill Park,46 Buckmaster Dr,3082,Whittlesea,Northern Metropolitan,775500,15/07/2017,Harcourts,3,1,4,840,-37.66919,145.06799
+1128,Mill Park,23 Galilee Cr,3082,Whittlesea,Northern Metropolitan,705000,8/07/2017,RW,3,2,2,840,-37.67391,145.0618
+1129,Whittlesea,30 Sherwin St,3757,Whittlesea,Northern Victoria,601000,29/07/2017,Ray,3,2,1,972,-37.51232,145.13282
+1130,Mill Park,6 Brigden Ct,3082,Whittlesea,Northern Metropolitan,663500,3/06/2017,Millership,3,2,1,991,-37.65887,145.06254
+1131,Mernda,16 Melliodora Dr,3754,Whittlesea,Northern Metropolitan,780000,15/07/2017,hockingstuart,4,2,2,1037,-37.6017,145.09051
+1132,Richmond,33a River St,3121,Yarra,Northern Metropolitan,1375000,6/08/2016,hockingstuart,4,2,2,58,-37.817,145.0135
+1133,Fitzroy,116 Leicester St,3065,Yarra,Northern Metropolitan,800000,27/06/2016,Harrington,2,2,1,64,-37.7956,144.9804
+1134,Fitzroy,11 Henry St,3065,Yarra,Northern Metropolitan,677000,27/11/2016,Chambers,2,1,0,67,-37.7969,144.9759
+1135,Richmond,60 Somerset St,3121,Yarra,Northern Metropolitan,935000,3/12/2016,Biggin,2,1,1,67,-37.8159,145.0033
+1136,Clifton Hill,18 Barries Pl,3068,Yarra,Northern Metropolitan,825000,24/09/2016,Jellis,3,3,1,67,-37.7946,144.9989
+1137,Carlton North,1 Fletcher La,3054,Yarra,Northern Metropolitan,800000,10/12/2016,Nelson,2,1,1,73,-37.7852,144.9719
+1138,Fitzroy North,3 Curtain Pl,3068,Yarra,Northern Metropolitan,1080000,19/11/2016,Jellis,3,2,1,77,-37.7923,144.9776
+1139,Richmond,21 Gardner St,3121,Yarra,Northern Metropolitan,1152500,6/08/2016,Biggin,3,2,1,78,-37.8154,145.0061
+1140,Richmond,47 Lord St,3121,Yarra,Northern Metropolitan,1220000,10/12/2016,Biggin,2,1,1,80,-37.8213,145.005
+1141,Richmond,32 Jubilee Pl,3121,Yarra,Northern Metropolitan,1042500,4/03/2017,hockingstuart,2,1,1,80,-37.8126,145.004
+1142,Collingwood,2/60 Budd St,3066,Yarra,Northern Metropolitan,887500,22/05/2016,Peter,3,2,1,81,-37.7961,144.9874
+1143,Collingwood,1/60 Budd St,3066,Yarra,Northern Metropolitan,897500,14/05/2016,Jellis,3,2,1,82,-37.7961,144.9873
+1144,Carlton North,75 Fenwick St,3054,Yarra,Northern Metropolitan,2050000,18/03/2017,Nelson,3,2,0,84,-37.7879,144.9736
+1145,Fitzroy,199 Moor St,3065,Yarra,Northern Metropolitan,947500,7/11/2016,Nelson,1,1,0,87,-37.8019,144.9821
+1146,Richmond,2/175 Kent St,3121,Yarra,Northern Metropolitan,855000,10/09/2016,Jellis,2,1,1,92,-37.815,145.008
+1147,Carlton North,119 Curtain St,3054,Yarra,Northern Metropolitan,885000,18/03/2017,Nelson,1,1,0,93,-37.7888,144.9698
+1148,Abbotsford,40 Federation La,3067,Yarra,Northern Metropolitan,850000,4/03/2017,Biggin,3,2,1,94,-37.7969,144.9969
+1149,Richmond,6 Berry St,3121,Yarra,Northern Metropolitan,900000,10/12/2016,hockingstuart,2,1,0,95,-37.8193,144.9976
+1150,Fitzroy,190 Gore St,3065,Yarra,Northern Metropolitan,1440000,17/09/2016,Nelson,2,1,0,95,-37.8032,144.9825
+1151,Abbotsford,159 Park St,3067,Yarra,Northern Metropolitan,1135000,22/08/2016,Nelson,2,2,2,98,-37.8005,144.9952
+1152,Fitzroy North,181 Rae St,3068,Yarra,Northern Metropolitan,937500,23/04/2016,Jellis,2,1,0,100,-37.788,144.9791
+1153,Clifton Hill,2A Council St,3068,Yarra,Northern Metropolitan,880000,18/03/2017,Nelson,2,1,0,100,-37.7923,144.9858
+1154,Carlton North,16 Fenwick St,3054,Yarra,Northern Metropolitan,910000,18/06/2016,Nelson,2,1,1,100,-37.7879,144.9759
+1155,Clifton Hill,1 John St,3068,Yarra,Northern Metropolitan,730000,22/05/2016,Nelson,2,1,1,103,-37.7898,144.9957
+1156,Fitzroy North,470 Brunswick St,3068,Yarra,Northern Metropolitan,860000,3/09/2016,Woodards,2,1,0,104,-37.7927,144.9796
+1157,Fitzroy North,111 Best St,3068,Yarra,Northern Metropolitan,1275000,16/04/2016,Nelson,3,2,1,104,-37.7813,144.9834
+1158,Fitzroy North,30 Eastham St,3068,Yarra,Northern Metropolitan,875000,18/06/2016,Jellis,2,1,0,106,-37.7823,144.9864
+1159,Fitzroy,84 Kerr St,3065,Yarra,Northern Metropolitan,1122000,22/08/2016,Nelson,2,1,0,106,-37.7968,144.9781
+1160,Fitzroy North,50 Freeman St,3068,Yarra,Northern Metropolitan,870000,3/09/2016,Nelson,2,1,0,107,-37.7898,144.9794
+1161,Fitzroy North,5/35 Jamieson St,3068,Yarra,Northern Metropolitan,1015000,8/10/2016,Collins,3,2,1,112,-37.7912,144.9825
+1162,Fitzroy,431 George St,3065,Yarra,Northern Metropolitan,1250000,17/09/2016,Nelson,3,1,1,113,-37.7966,144.9821
+1163,Abbotsford,42 Henry St,3067,Yarra,Northern Metropolitan,1200000,16/07/2016,Jellis,3,2,1,113,-37.8056,144.993
+1164,Richmond,45 Lord St,3121,Yarra,Northern Metropolitan,1130000,4/03/2017,Biggin,2,2,3,114,-37.8212,145.005
+1165,Collingwood,69 Hotham St,3066,Yarra,Northern Metropolitan,750000,3/09/2016,Jellis,2,1,1,115,-37.7968,144.9891
+1166,Richmond,7 Bank St,3121,Yarra,Northern Metropolitan,1600000,3/12/2016,hockingstuart,3,2,1,115,-37.8163,144.9984
+1167,Carlton North,40 Ogrady St,3054,Yarra,Northern Metropolitan,1330000,15/10/2016,Nelson,2,1,0,116,-37.7904,144.9726
+1168,Collingwood,18 Derby St,3066,Yarra,Northern Metropolitan,1260000,15/10/2016,Peter,2,1,2,116,-37.8067,144.984
+1169,Collingwood,20 Emma St,3066,Yarra,Northern Metropolitan,1015000,8/10/2016,Nelson,2,1,0,117,-37.7948,144.9861
+1170,Richmond,22 Garfield St,3121,Yarra,Northern Metropolitan,990000,10/12/2016,Biggin,2,1,1,117,-37.812,144.9939
+1171,Collingwood,182 Keele St,3066,Yarra,Northern Metropolitan,670000,18/03/2017,Jellis,2,1,0,118,-37.7976,144.993
+1172,Clifton Hill,3 Hodgkinson St,3068,Yarra,Northern Metropolitan,1360000,27/06/2016,Nelson,3,1,0,118,-37.7921,144.9858
+1173,Fitzroy North,55 Seacombe St,3068,Yarra,Northern Metropolitan,1450000,28/08/2016,Nelson,3,2,1,118,-37.7839,144.9807
+1174,Abbotsford,55a Park St,3067,Yarra,Northern Metropolitan,1600000,4/06/2016,Nelson,4,1,2,120,-37.8072,144.9941
+1175,Richmond,50B Duke St,3121,Yarra,Northern Metropolitan,1250000,10/12/2016,Biggin,3,2,1,120,-37.8243,145.0034
+1176,Abbotsford,45 Yarra St,3067,Yarra,Northern Metropolitan,1195000,27/11/2016,Jellis,3,2,1,120,-37.8022,144.9954
+1177,Fitzroy North,24 Apperley St,3068,Yarra,Northern Metropolitan,1055000,10/12/2016,Harrington,2,1,0,122,-37.7818,144.9863
+1178,Carlton North,112 Newry St,3054,Yarra,Northern Metropolitan,1425000,4/03/2017,Nelson,4,3,0,122,-37.7893,144.9696
+1179,Abbotsford,52a William St,3067,Yarra,Northern Metropolitan,1100000,18/06/2016,Biggin,2,2,1,124,-37.8079,144.9977
+1180,Clifton Hill,3/68 Noone St,3068,Yarra,Northern Metropolitan,930000,7/11/2016,Collins,3,2,1,124,-37.7934,144.9923
+1181,Richmond,24 Butler St,3121,Yarra,Northern Metropolitan,937000,3/09/2016,Biggin,2,1,1,125,-37.8106,144.994
+1182,Fitzroy North,717 Brunswick St,3068,Yarra,Northern Metropolitan,1300000,27/11/2016,Collins,3,2,0,127,-37.7851,144.9809
+1183,Fitzroy North,44 Reid St,3068,Yarra,Northern Metropolitan,1700000,18/03/2017,Jellis,4,3,2,127,-37.7855,144.9789
+1184,Fitzroy,111 Cecil St,3065,Yarra,Northern Metropolitan,1000000,3/09/2016,Nelson,2,1,0,128,-37.7941,144.9802
+1185,Collingwood,382 Wellington St,3066,Yarra,Northern Metropolitan,855000,12/11/2016,Jellis,2,1,0,130,-37.7953,144.9882
+1186,Carlton North,167 Richardson St,3054,Yarra,Northern Metropolitan,1280000,22/08/2016,Nelson,3,1,1,131,-37.7846,144.9704
+1187,Fitzroy,60 Bell St,3065,Yarra,Northern Metropolitan,1620000,22/05/2016,Nelson,4,2,1,132,-37.8004,144.9768
+1188,Carlton North,173 MacPherson St,3054,Yarra,Northern Metropolitan,1301000,10/12/2016,Nelson,2,1,0,133,-37.786,144.9704
+1189,Fitzroy North,51 Rae St,3068,Yarra,Northern Metropolitan,770000,4/06/2016,Nicholson,2,2,1,134,-37.7916,144.9784
+1190,Abbotsford,5 Charles St,3067,Yarra,Northern Metropolitan,1465000,4/03/2017,Biggin,3,2,0,134,-37.8093,144.9944
+1191,Fitzroy North,35 Birkenhead St,3068,Yarra,Northern Metropolitan,1290000,18/03/2017,Chambers,2,1,0,136,-37.7819,144.9824
+1192,Abbotsford,78 Yarra St,3067,Yarra,Northern Metropolitan,1176500,16/07/2016,LITTLE,3,1,1,138,-37.8021,144.9965
+1193,Fitzroy,124 Westgarth St,3065,Yarra,Northern Metropolitan,1481000,13/08/2016,Jellis,3,2,1,138,-37.795,144.9806
+1194,Clifton Hill,413a Wellington St,3068,Yarra,Northern Metropolitan,1209000,8/10/2016,Jellis,2,1,1,140,-37.7919,144.9884
+1195,Fitzroy,20 Westgarth St,3065,Yarra,Northern Metropolitan,1315000,18/03/2017,Jellis,2,1,0,141,-37.7946,144.9765
+1196,Carlton North,658 Lygon St,3054,Yarra,Northern Metropolitan,880000,18/06/2016,Nelson,2,1,0,142,-37.7911,144.9688
+1197,Clifton Hill,69 Field St,3068,Yarra,Northern Metropolitan,1180000,16/07/2016,Harrington,3,3,1,142,-37.7928,145.0021
+1198,Fitzroy North,10 Delbridge St,3068,Yarra,Northern Metropolitan,1315000,15/10/2016,Jellis,2,1,0,143,-37.7887,144.9888
+1199,Carlton North,354 Station St,3054,Yarra,Northern Metropolitan,1214000,16/04/2016,Nelson,3,3,1,144,-37.7885,144.9757
+1200,Fitzroy North,28 Percy St,3068,Yarra,Northern Metropolitan,990000,12/06/2016,Nelson,2,1,0,145,-37.791,144.9779
+1201,Abbotsford,49 Park St,3067,Yarra,Northern Metropolitan,1315000,19/11/2016,Marshall,2,1,0,147,-37.808,144.994
+1202,Abbotsford,166 Gipps St,3067,Yarra,Northern Metropolitan,1290000,25/02/2017,Biggin,3,2,2,147,-37.805,144.9943
+1203,Fitzroy North,24 Batman St,3068,Yarra,Northern Metropolitan,1255000,18/03/2017,Harrington,2,1,0,148,-37.7841,144.9793
+1204,Fitzroy North,373 Rae St,3068,Yarra,Northern Metropolitan,1181000,10/12/2016,Nelson,3,1,1,148,-37.7835,144.9799
+1205,Abbotsford,42 Valiant St,3067,Yarra,Northern Metropolitan,890000,17/09/2016,Biggin,2,1,1,150,-37.8011,145.0004
+1206,Fitzroy North,92 Scotchmer St,3068,Yarra,Northern Metropolitan,1008000,6/08/2016,LITTLE,2,1,1,150,-37.7833,144.9819
+1207,Collingwood,98 Hotham St,3066,Yarra,Northern Metropolitan,1470000,18/03/2017,Jellis,3,2,0,150,-37.7968,144.9924
+1208,Clifton Hill,20 Gordon St,3068,Yarra,Northern Metropolitan,1430000,25/02/2017,Collins,2,1,0,151,-37.7912,144.9963
+1209,Fitzroy North,76 Newry St,3068,Yarra,Northern Metropolitan,1116000,3/09/2016,Nelson,2,1,0,152,-37.791,144.9809
+1210,Fitzroy North,21 Reid St,3068,Yarra,Northern Metropolitan,899000,22/05/2016,Jellis,1,1,0,153,-37.7851,144.9784
+1211,Clifton Hill,66 Noone St,3068,Yarra,Northern Metropolitan,780000,4/06/2016,Harrington,2,1,1,155,-37.7934,144.9922
+1212,Abbotsford,25 Bloomburg St,3067,Yarra,Northern Metropolitan,1035000,4/02/2016,Biggin,2,1,0,156,-37.8079,144.9934
+1213,Clifton Hill,31 Fenwick St,3068,Yarra,Northern Metropolitan,1450000,18/03/2017,Nelson,2,1,0,156,-37.7892,144.9999
+1214,Fitzroy,107 Cecil St,3065,Yarra,Northern Metropolitan,1300000,24/09/2016,Nelson,2,1,1,157,-37.7941,144.98
+1215,Richmond,8 George St,3121,Yarra,Northern Metropolitan,1189000,10/12/2016,Biggin,2,1,0,158,-37.8232,145.0002
+1216,Collingwood,5 Charlotte St,3066,Yarra,Northern Metropolitan,1000000,19/11/2016,Peter,2,1,2,159,-37.7962,144.9887
+1217,Fitzroy North,29 Tait St,3068,Yarra,Northern Metropolitan,1325000,28/08/2016,Collins,2,1,0,160,-37.783,144.9866
+1218,Abbotsford,47 Studley St,3067,Yarra,Northern Metropolitan,1180000,27/11/2016,Jellis,2,1,0,162,-37.8016,144.9956
+1219,Richmond,149 Mary St,3121,Yarra,Northern Metropolitan,1100000,10/12/2016,Abercromby's,3,1,0,162,-37.8241,145.0015
+1220,Clifton Hill,1/1 Marshall Pl,3068,Yarra,Northern Metropolitan,1506000,25/02/2017,Nelson,4,2,0,162,-37.7885,144.9994
+1221,Carlton North,462 Canning St,3054,Yarra,Northern Metropolitan,1955000,16/07/2016,Nelson,3,2,1,163,-37.786,144.9751
+1222,Clifton Hill,40 Myrtle St,3068,Yarra,Northern Metropolitan,1290000,10/12/2016,Jellis,2,1,0,164,-37.7912,144.9967
+1223,Richmond,308 Lennox St,3121,Yarra,Northern Metropolitan,1220000,10/12/2016,Biggin,2,1,1,166,-37.8245,144.9933
+1224,Abbotsford,48 Abbotsford St,3067,Yarra,Northern Metropolitan,1447500,22/08/2016,Nelson,3,3,1,166,-37.8017,145.0001
+1225,Richmond,193 Mary St,3121,Yarra,Northern Metropolitan,1102000,4/06/2016,Biggin,2,1,1,167,-37.8255,145.0013
+1226,Collingwood,20 Hotham St,3066,Yarra,Northern Metropolitan,1260000,3/12/2016,Jellis,3,1,0,167,-37.7962,144.9866
+1227,Abbotsford,60 Stafford St,3067,Yarra,Northern Metropolitan,1290000,25/02/2017,Biggin,3,1,1,168,-37.8007,144.9958
+1228,Richmond,32 Duke St,3121,Yarra,Northern Metropolitan,1025000,4/06/2016,Jellis,2,1,1,169,-37.8235,145.0035
+1229,Carlton North,593 Canning St,3054,Yarra,Northern Metropolitan,1540000,4/03/2017,Nelson,3,1,0,169,-37.7821,144.9753
+1230,Clifton Hill,48 Council St,3068,Yarra,Northern Metropolitan,1150000,26/07/2016,Nelson,3,1,1,169,-37.7925,144.9877
+1231,Clifton Hill,104 Noone St,3068,Yarra,Northern Metropolitan,856000,18/03/2017,Nelson,2,1,0,170,-37.7936,144.995
+1232,Collingwood,130 Perry St,3066,Yarra,Northern Metropolitan,910000,10/09/2016,Jellis,3,1,1,171,-37.8006,144.9925
+1233,Abbotsford,27 Charles St,3067,Yarra,Northern Metropolitan,1030000,30/07/2016,Biggin,2,1,1,172,-37.8086,144.9946
+1234,Clifton Hill,119 Roseneath St,3068,Yarra,Northern Metropolitan,1075000,8/10/2016,Nelson,2,1,1,174,-37.7928,144.9987
+1235,Richmond,13 McKay St,3121,Yarra,Northern Metropolitan,1150000,8/10/2016,Jellis,3,1,0,176,-37.8116,145.0042
+1236,Fitzroy North,11 Freeman St,3068,Yarra,Northern Metropolitan,1655000,10/12/2016,Nelson,3,1,0,176,-37.7892,144.9773
+1237,Clifton Hill,11 Page St,3068,Yarra,Northern Metropolitan,1370000,13/08/2016,Collins,3,2,1,176,-37.7921,144.9898
+1238,Fitzroy,31 Bell St,3065,Yarra,Northern Metropolitan,1950000,18/06/2016,Nelson,4,1,0,177,-37.7999,144.9759
+1239,Fitzroy North,276 McKean St,3068,Yarra,Northern Metropolitan,2170000,4/03/2017,Nelson,3,2,1,177,-37.7851,144.9934
+1240,Collingwood,130 Keele St,3066,Yarra,Northern Metropolitan,890000,3/09/2016,LITTLE,2,1,1,178,-37.7974,144.9915
+1241,Clifton Hill,86 Hodgkinson St,3068,Yarra,Northern Metropolitan,1420000,8/10/2016,Collins,2,1,0,180,-37.7898,144.9903
+1242,Abbotsford,129 Charles St,3067,Yarra,Northern Metropolitan,941000,7/05/2016,Jellis,2,1,0,181,-37.8041,144.9953
+1243,Abbotsford,200 Nicholson St,3067,Yarra,Northern Metropolitan,1012500,28/05/2016,Nelson,2,1,0,182,-37.8021,144.9976
+1244,Abbotsford,196 Nicholson St,3067,Yarra,Northern Metropolitan,955000,17/09/2016,Collins,3,1,0,183,-37.8022,144.9975
+1245,Collingwood,84 Budd St,3066,Yarra,Northern Metropolitan,1075000,16/04/2016,hockingstuart,3,1,0,183,-37.7948,144.9875
+1246,Clifton Hill,85 Roseneath St,3068,Yarra,Northern Metropolitan,1105000,8/10/2016,Harrington,2,1,1,185,-37.7927,144.9981
+1247,Fitzroy,127 George St,3065,Yarra,Northern Metropolitan,1780000,7/11/2016,Peter,4,1,1,186,-37.8048,144.9806
+1248,Clifton Hill,60a Hodgkinson St,3068,Yarra,Northern Metropolitan,1270000,3/09/2016,Nelson,3,2,0,187,-37.7902,144.9894
+1249,Fitzroy,258 Napier St,3065,Yarra,Northern Metropolitan,2200000,16/04/2016,Nelson,3,2,1,187,-37.8003,144.9806
+1250,Collingwood,6 Forest St,3066,Yarra,Northern Metropolitan,981000,17/09/2016,Jellis,2,1,0,188,-37.7964,144.9923
+1251,Fitzroy North,70 Park St,3068,Yarra,Northern Metropolitan,1785000,14/05/2016,Nelson,4,2,1,188,-37.7815,144.9869
+1252,Fitzroy North,26 Scotchmer St,3068,Yarra,Northern Metropolitan,1600000,10/12/2016,Jellis,3,3,1,188,-37.7829,144.9788
+1253,Carlton North,122 Amess St,3054,Yarra,Northern Metropolitan,2210000,14/05/2016,Nelson,3,2,1,190,-37.7847,144.9741
+1254,Fitzroy North,168 Scotchmer St,3068,Yarra,Northern Metropolitan,1581000,28/05/2016,Jellis,3,1,0,193,-37.7836,144.985
+1255,Clifton Hill,13 Caroline St,3068,Yarra,Northern Metropolitan,1060000,7/11/2016,Nelson,3,1,0,193,-37.7899,144.9984
+1256,Richmond,234 Coppin St,3121,Yarra,Northern Metropolitan,1102000,4/02/2016,Dingle,3,2,0,194,-37.8265,145.0022
+1257,Abbotsford,45 William St,3067,Yarra,Northern Metropolitan,1172500,13/08/2016,Biggin,2,1,1,195,-37.8084,144.9973
+1258,Clifton Hill,12 Kiewa St,3068,Yarra,Northern Metropolitan,1417000,10/12/2016,Nelson,2,1,0,197,-37.7924,145.0002
+1259,Fitzroy North,780 Brunswick St,3068,Yarra,Northern Metropolitan,1371000,10/09/2016,Nelson,3,1,1,197,-37.7835,144.9816
+1260,Fitzroy North,49 Best St,3068,Yarra,Northern Metropolitan,2300000,27/11/2016,Nelson,4,2,1,197,-37.7828,144.9832
+1261,Richmond,247 Church St,3121,Yarra,Northern Metropolitan,1010000,4/06/2016,Jellis,3,1,1,199,-37.8193,144.9993
+1262,Clifton Hill,49 Fenwick St,3068,Yarra,Northern Metropolitan,1680000,19/11/2016,Nelson,3,2,1,201,-37.7884,145
+1263,Abbotsford,85 Turner St,3067,Yarra,Northern Metropolitan,1480000,3/12/2016,Biggin,2,1,1,202,-37.7996,144.9984
+1264,Fitzroy North,205 Scotchmer St,3068,Yarra,Northern Metropolitan,2150000,27/11/2016,Nelson,3,2,0,202,-37.7835,144.9867
+1265,Richmond,81 Erin St,3121,Yarra,Northern Metropolitan,1260000,3/09/2016,Biggin,3,1,0,203,-37.8166,144.9945
+1266,Carlton North,632 Rathdowne St,3054,Yarra,Northern Metropolitan,1280000,6/08/2016,Nelson,3,1,0,203,-37.7824,144.9733
+1267,Fitzroy North,191 Scotchmer St,3068,Yarra,Northern Metropolitan,1300000,26/07/2016,Nelson,3,1,1,203,-37.7834,144.9862
+1268,Fitzroy North,421 Rae St,3068,Yarra,Northern Metropolitan,1283000,28/08/2016,Nelson,2,1,2,204,-37.7824,144.9801
+1269,Richmond,255 Coppin St,3121,Yarra,Northern Metropolitan,1275000,8/10/2016,Jellis,3,1,2,204,-37.8285,145.0022
+1270,Carlton North,292 Amess St,3054,Yarra,Northern Metropolitan,1950000,22/05/2016,Nelson,4,2,2,207,-37.7804,144.9748
+1271,Alphington,5/6 Yarralea St,3078,Yarra,Northern Metropolitan,1110000,3/09/2016,Jellis,3,2,2,208,-37.7854,145.0325
+1272,Carlton North,122 Richardson St,3054,Yarra,Northern Metropolitan,1725000,4/03/2017,hockingstuart,2,1,1,210,-37.7844,144.972
+1273,Abbotsford,40 Nicholson St,3067,Yarra,Northern Metropolitan,1350000,12/11/2016,Nelson,3,2,2,214,-37.8085,144.9964
+1274,Clifton Hill,40 Spensley St,3068,Yarra,Northern Metropolitan,1405000,17/09/2016,Nelson,2,1,0,219,-37.7882,144.9984
+1275,Abbotsford,10 Valiant St,3067,Yarra,Northern Metropolitan,1097000,8/10/2016,Biggin,2,1,2,220,-37.801,144.9989
+1276,Richmond,52 Brighton St,3121,Yarra,Northern Metropolitan,1506000,7/05/2016,Biggin,2,2,1,220,-37.8284,144.9989
+1277,Fitzroy North,2 Scotchmer St,3068,Yarra,Northern Metropolitan,1210000,15/10/2016,Nelson,2,1,1,223,-37.7829,144.9782
+1278,Fitzroy North,14 Falconer St,3068,Yarra,Northern Metropolitan,1851000,19/11/2016,Nelson,3,1,1,225,-37.7852,144.9868
+1279,Collingwood,93 Hotham St,3066,Yarra,Northern Metropolitan,1430000,4/03/2017,Jellis,2,1,0,231,-37.7969,144.9905
+1280,Fitzroy North,74 Barkly St,3068,Yarra,Northern Metropolitan,1950000,14/05/2016,Nelson,4,2,2,233,-37.7786,144.9818
+1281,Abbotsford,16 William St,3067,Yarra,Northern Metropolitan,1310000,15/10/2016,Jellis,2,1,2,238,-37.809,144.9976
+1282,Richmond,30 Cameron St,3121,Yarra,Northern Metropolitan,1474000,7/11/2016,Marshall,3,1,0,238,-37.8167,144.9977
+1283,Clifton Hill,17 Myrtle St,3068,Yarra,Northern Metropolitan,1435000,10/09/2016,Nelson,2,1,2,239,-37.7918,144.997
+1284,Fitzroy North,83 Best St,3068,Yarra,Northern Metropolitan,1700000,18/03/2017,Nelson,3,2,1,240,-37.782,144.9834
+1285,Abbotsford,124 Yarra St,3067,Yarra,Northern Metropolitan,1876000,7/05/2016,Nelson,3,2,0,245,-37.8024,144.9993
+1286,Fitzroy North,24 Taylor St,3068,Yarra,Northern Metropolitan,1000000,4/03/2017,Nelson,3,1,0,249,-37.7754,144.9806
+1287,Richmond,32 Cameron St,3121,Yarra,Northern Metropolitan,1555000,7/11/2016,Marshall,3,1,0,250,-37.8167,144.9978
+1288,Clifton Hill,36 Ogrady St,3068,Yarra,Northern Metropolitan,1620000,15/10/2016,Nelson,2,1,2,251,-37.787,144.9988
+1289,Richmond,249 Punt Rd,3121,Yarra,Northern Metropolitan,950000,8/10/2016,Jellis,4,1,0,254,-37.8201,144.9898
+1290,Abbotsford,98 Charles St,3067,Yarra,Northern Metropolitan,1636000,8/10/2016,Nelson,2,1,2,256,-37.806,144.9954
+1291,Fitzroy,47 Charles St,3065,Yarra,Northern Metropolitan,1600000,22/05/2016,Nelson,3,2,1,261,-37.803,144.9806
+1292,Fitzroy North,2 Pilkington St,3068,Yarra,Northern Metropolitan,1450000,3/09/2016,Nelson,4,2,1,266,-37.7797,144.9861
+1293,Fitzroy North,201A Clauscen St,3068,Yarra,Northern Metropolitan,1286000,10/12/2016,Holland,3,1,0,275,-37.7779,144.9862
+1294,Collingwood,82 Sackville St,3066,Yarra,Northern Metropolitan,1265000,14/05/2016,Jellis,2,1,1,282,-37.7985,144.9883
+1295,Richmond,21 Leslie St,3121,Yarra,Northern Metropolitan,1090000,7/05/2016,Biggin,3,1,3,283,-37.8127,145.0073
+1296,Fitzroy,17 Bell St,3065,Yarra,Northern Metropolitan,4011000,27/11/2016,Nelson,4,3,2,286,-37.7999,144.9755
+1297,Fitzroy North,14 King St,3068,Yarra,Northern Metropolitan,1300000,27/11/2016,hockingstuart,3,1,0,309,-37.776,144.9832
+1298,Carlton North,527 Nicholson St,3054,Yarra,Northern Metropolitan,1330000,3/09/2016,Nelson,3,1,1,314,-37.7871,144.9766
+1299,Richmond,131 Lord St,3121,Yarra,Northern Metropolitan,3335000,3/12/2016,Jellis,4,2,2,319,-37.8244,145.0044
+1300,Richmond,31 Johnson St,3121,Yarra,Northern Metropolitan,1350000,7/05/2016,Peter,3,1,2,332,-37.8131,145.005
+1301,Fitzroy,52 Nicholson St,3065,Yarra,Northern Metropolitan,3310000,13/08/2016,Caine,4,4,2,337,-37.8052,144.9739
+1302,Richmond,28 Stawell St,3121,Yarra,Northern Metropolitan,1422000,6/08/2016,hockingstuart,3,1,0,339,-37.8215,145.0102
+1303,Richmond,29 Bowen St,3121,Yarra,Northern Metropolitan,2180000,3/12/2016,Blue,3,2,2,345,-37.8159,144.994
+1304,Fitzroy North,86 Clauscen St,3068,Yarra,Northern Metropolitan,1710000,24/09/2016,Collins,3,2,0,357,-37.7778,144.9824
+1305,Fitzroy North,264 Barkly St,3068,Yarra,Northern Metropolitan,1600000,25/02/2017,Collins,3,1,0,370,-37.7794,144.9892
+1306,Carlton North,984 Lygon St,3054,Yarra,Northern Metropolitan,1150000,24/09/2016,Nelson,2,1,2,373,-37.7828,144.9702
+1307,Clifton Hill,32 Caroline St,3068,Yarra,Northern Metropolitan,3010000,10/09/2016,Collins,4,3,2,382,-37.7897,144.9992
+1308,Collingwood,4/13 Alexander St,3066,Yarra,Northern Metropolitan,457000,13/08/2016,Jellis,1,1,1,406,-37.796,144.9911
+1309,Carlton North,392 Station St,3054,Yarra,Northern Metropolitan,2400000,12/11/2016,Kelly,2,2,0,413,-37.7875,144.9759
+1310,Carlton North,700 Rathdowne St,3054,Yarra,Northern Metropolitan,2175000,7/05/2016,Woodards,4,1,0,418,-37.7808,144.9736
+1311,Fitzroy North,79 Delbridge St,3068,Yarra,Northern Metropolitan,3400000,14/05/2016,Nelson,4,2,1,445,-37.786,144.9864
+1312,Fitzroy North,179 Barkly St,3068,Yarra,Northern Metropolitan,2300000,23/04/2016,Nelson,3,1,2,475,-37.7786,144.9846
+1313,Carlton North,989 Drummond St,3054,Yarra,Northern Metropolitan,2950000,7/05/2016,Chambers,3,1,2,499,-37.7811,144.9715
+1314,Richmond,3/11 Brougham St,3121,Yarra,Northern Metropolitan,370000,3/12/2016,Biggin,1,1,1,502,-37.8214,144.9997
+1315,Carlton North,1018 Drummond St,3054,Yarra,Northern Metropolitan,2520000,16/04/2016,Nelson,4,2,2,504,-37.7805,144.9721
+1316,Clifton Hill,3/30 Edmund St,3068,Yarra,Northern Metropolitan,495000,13/08/2016,iTRAK,2,1,1,515,-37.7875,145.0049
+1317,Richmond,3/24 Davison St,3121,Yarra,Northern Metropolitan,479000,4/03/2017,Biggin,2,1,1,534,-37.8123,145.0081
+1318,Carlton North,967 Drummond St,3054,Yarra,Northern Metropolitan,2718000,11/03/2017,Ray,4,2,0,538,-37.7816,144.9714
+1319,Alphington,11 Margaret Gr,3078,Yarra,Northern Metropolitan,1900000,27/11/2016,McGrath,4,2,2,556,-37.7844,145.0225
+1320,Richmond,78 Davison St,3121,Yarra,Northern Metropolitan,3200000,4/03/2017,Jellis,5,3,3,618,-37.8157,145.0073
+1321,Richmond,409/120 Palmer St,3121,Yarra,Northern Metropolitan,540000,3/09/2016,LITTLE,2,2,1,656,-37.8195,145.0103
+1322,Richmond,52 Lyndhurst St,3121,Yarra,Northern Metropolitan,1236000,3/09/2016,Jellis,3,2,1,675,-37.8206,145.0003
+1323,Richmond,502/39 Bosisto St,3121,Yarra,Northern Metropolitan,437500,4/03/2017,Biggin,1,1,1,778,-37.8177,144.9972
+1324,Abbotsford,3/72 Charles St,3067,Yarra,Northern Metropolitan,1330000,18/03/2017,Kay,4,2,2,780,-37.8073,144.9952
+1325,Fitzroy,8/98 George St,3065,Yarra,Northern Metropolitan,420000,25/02/2017,Caine,1,1,1,782,-37.8055,144.9809
+1326,Collingwood,9/22 Stanley St,3066,Yarra,Northern Metropolitan,452000,4/03/2017,Jellis,1,1,1,816,-37.802,144.9848
+1327,Collingwood,5/22 Stanley St,3066,Yarra,Northern Metropolitan,515000,18/03/2017,Peter,2,1,1,816,-37.802,144.9848
+1328,Carlton North,9/823 Rathdowne St,3054,Yarra,Northern Metropolitan,468000,11/03/2017,Nelson,1,1,1,861,-37.7851,144.9723
+1329,Alphington,22 Lowther St,3078,Yarra,Northern Metropolitan,1165000,27/06/2016,Barry,3,1,2,979,-37.7792,145.029
+1330,Carlton North,2/872 Drummond St,3054,Yarra,Northern Metropolitan,765000,8/10/2016,Nelson,2,1,1,1031,-37.784,144.9715
+1331,Collingwood,10/30 Mater St,3066,Yarra,Northern Metropolitan,713500,22/08/2016,Jellis,2,2,1,1060,-37.7954,144.9868
+1332,Richmond,318/185 Lennox St,3121,Yarra,Northern Metropolitan,655000,4/03/2017,hockingstuart,2,1,1,1725,-37.8174,144.9949
+1333,Richmond,414/6 Lord St,3121,Yarra,Northern Metropolitan,561000,4/03/2017,Biggin,2,1,1,2571,-37.8198,145.005
+1334,Richmond,101/18 Tanner St,3121,Yarra,Northern Metropolitan,635000,4/03/2017,Biggin,2,2,1,2740,-37.8231,144.9906
+1335,Collingwood,306/40 Stanley St,3066,Yarra,Northern Metropolitan,440000,4/03/2017,Collins,1,1,1,2773,-37.802,144.9854
+1336,Fitzroy North,186 Queens Pde,3068,Yarra,Northern Metropolitan,930000,3/09/2016,Nelson,2,3,0,2778,-37.7903,144.9859
+1337,Fitzroy,10/5 St David St,3065,Yarra,Northern Metropolitan,850000,22/05/2016,Nelson,3,2,1,2782,-37.8005,144.9787
+1338,Collingwood,2/79 Oxford St,3066,Yarra,Northern Metropolitan,855000,3/09/2016,Nelson,2,1,1,2886,-37.8042,144.9845
+1339,Richmond,229/253 Bridge Rd,3121,Yarra,Northern Metropolitan,439000,10/09/2016,Biggin,1,1,1,3516,-37.8183,144.9979
+1340,Collingwood,110/3 Hoddle St,3066,Yarra,Northern Metropolitan,415000,7/11/2016,Biggin,1,1,1,3701,-37.809,144.9911
+1341,Abbotsford,138/56 Nicholson St,3067,Yarra,Northern Metropolitan,1090000,18/03/2017,Jellis,3,2,2,4290,-37.8078,144.9965
+1342,Fitzroy North,123/4 Bik La,3068,Yarra,Northern Metropolitan,490000,27/11/2016,Nelson,2,1,1,4296,-37.7846,144.9785
+1343,Fitzroy North,605/4 Bik La,3068,Yarra,Northern Metropolitan,720000,10/12/2016,Woodards,2,2,1,4296,-37.7846,144.9785
+1344,Fitzroy North,129/4 Bik La,3068,Yarra,Northern Metropolitan,700000,4/03/2017,Collins,2,2,2,4296,-37.7846,144.9785
+1345,Fitzroy North,233/4 Bik La,3068,Yarra,Northern Metropolitan,700000,3/09/2016,Woodards,2,2,1,4332,-37.7846,144.9785
+1346,Richmond,110/61 Stawell St,3121,Yarra,Northern Metropolitan,405000,7/05/2016,McGrath,1,1,1,7455,-37.822,145.0104
+1347,Richmond,412/10 Burnley St,3121,Yarra,Northern Metropolitan,421000,4/03/2017,Biggin,1,1,1,8223,-37.8127,145.0094
+1348,Richmond,406/20 Burnley St,3121,Yarra,Northern Metropolitan,345000,8/10/2016,Ray,1,1,1,8223,-37.8127,145.0094
+1349,Collingwood,4/170 Oxford St,3066,Yarra,Northern Metropolitan,950000,4/03/2017,Jellis,3,2,1,15900,-37.8035,144.985
